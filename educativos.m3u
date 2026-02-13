@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1, TVE Bahia
+https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
+#EXTINF:-1, TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1, TVE ES
+https://stmv1.srvsh.com.br/lennon896/lennon896/playlist.m3u8
+#EXTINF:-1, TVU Recife
+http://150.161.93.220/hls/index.m3u8
+#EXTINF:-1, TVE UEPG
+https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
+#EXTINF:-1, TV UFG
+https://59fb88a1b1108.streamlock.net/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:-1, TV Encontro das Águas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:-1, TV Cultura do Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1, Rede Minas (Alt)
+http://168.205.87.198:8555/live/1347/123456/288.m3u8
+#EXTINF:-1, TV Cultura Paulista
+https://srv1.zcast.com.br/tvcultura/tvcultura/playlist.m3u8
+#EXTINF:-1, TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1, TV UFOP
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWdcMzXY/OLgCRZTdHDDL6bG4-g9gbA'1/index.m3u8
+#EXTINF:-1, TVE MS
+https://stream01.digilab.com.br/fertel/live/playlist.m3u8
+#EXTINF:-1, TV Unesp
+https://media-gmcdn.eduplay.rnp.br/media/CF3xAh0tGexA/iN6TX7OhZmwoZ0IRLv4E8Q'1/index.m3u8
+#EXTINF:-1, UnBTV
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/index.m3u8
+#EXTINF:-1, TV UFMA
+https://media-gmcdn.eduplay.rnp.br/media/CFypFL3SnHR0/lSrfw6LfC9616EiCTlcPZQ'1/index.m3u8
+#EXTINF:-1, TV IFMA
+https://media-gmcdn.eduplay.rnp.br/media/CGH-lGu5AgrU/eiGOQSJrIxv-HDYevY5qPQ'1/index.m3u8
+#EXTINF:-1, CNU
+https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
+#EXTINF:-1, Univale TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-18367/playlist/playlist.m3u8
+#EXTINF:-1, TV UFMG
+https://media-gmcdn.eduplay.rnp.br/media/CGGMMhsVn3q0/ocdBOVhxGmJWMvPTaauQww'1/index.m3u8
+#EXTINF:-1, Fila do RU - Campus Trindade
+https://media-gmcdn.eduplay.rnp.br/media/CGG7_K9JeWIM/ms1-nGR5FdVuh_7agXZ_Mw'1/index.m3u8
+#EXTINF:-1, TV GGTE
+https://media-gmcdn.eduplay.rnp.br/media/CFyCFebFBG10/08dndGNANBIpkCiK0Vw7Kw'1/index.m3u8
+#EXTINF:-1, Sesc TV
+http://168.205.87.198:8555/live/1347/123456/292.m3u8
+#EXTINF:-1, TV Paraná Turismo
+https://hplay.tv/augetv/12396547488/158.m3u8
+#EXTINF:-1, Rede RVC Taubaté
+https://60d88f8ce1206.streamlock.net/id1075/id1075/playlist.m3u8
+#EXTINF:-1, Unisc TV
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1, TV Beltrão
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTM3U

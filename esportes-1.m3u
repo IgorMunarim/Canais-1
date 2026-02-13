@@ -1,0 +1,254 @@
+#EXTM3U
+#EXTINF:-1, ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1, ESPN (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNU/playlist.m3u8
+#EXTINF:-1, ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, ESPN 2 (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPN2/playlist.m3u8
+#EXTINF:-1, ESPN U
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1, ESPN U (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNU/playlist.m3u8
+#EXTINF:-1, ESPN NEWS
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1, ESPN NEWS (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNews/playlist.m3u8
+#EXTINF:-1, ESPN The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
+#EXTINF:-1, ESPN DEPORTES
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/playlist.m3u8
+#EXTINF:-1, ACC Network
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1, ACC Network (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ACCNetwork/playlist.m3u8
+#EXTINF:-1, SEC Network
+https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1, SEC Network (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/SECN/playlist.m3u8
+#EXTINF:-1, CBS Sports Network
+https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1, CBS Sports Network (alt)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/playlist.m3u8
+#EXTINF:-1, CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d.m3u8
+#EXTINF:-1, CBS Sports Golazo Network
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd95.m3u8
+#EXTINF:-1, ACC Digital Network
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
+#EXTINF:-1, Fox Sports 1
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/FoxSports1/playlist.m3u8
+#EXTINF:-1, Fox Sports 2
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/FoxSports2/playlist.m3u8
+#EXTINF:-1, Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1, NBC Sports (samsung)
+https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
+#EXTINF:-1, NBC Sports Bay Area
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-bay-area/playlist.m3u8
+#EXTINF:-1, NBC Sports Boston
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-boston/playlist.m3u8
+#EXTINF:-1, NBC Sports California
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-california/playlist.m3u8
+#EXTINF:-1, NBC Sports Philadelphia
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-philadelphia/playlist.m3u8
+#EXTINF:-1, SportsNet 360
+https://stream.decentdoubts.net/803/index.m3u8
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="Live",TSN1
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn1/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="Live",TSN2
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn2/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="Live",TSN3
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn3/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="Live",TSN4
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn4/playlist.m3u8
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="Live",TSN5
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn5/playlist.m3u8
+#EXTINF:-1, TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1, Bein Sports Xtra (English)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (Espanhol)
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (México)
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1, RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1, RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1, RAI Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1, Lega Calcio Série A
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+#EXTINF:-1, SportItalia SoloCalcio
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1, SportItalia SoloCalcio (Samsung)
+https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1, SportItalia Lazio Style
+https://edge-001.streamup.eu/livein/laziostyle/playlist.m3u8
+#EXTINF:-1, SportItalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1, SportItalia (alt)
+https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1, SportItalia Primavera
+https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:-1, TR Sport Itália
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1, Rede 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1, Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1, Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1, Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1, Fenerbahce TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1, Unique Sports 1
+https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+#EXTINF:-1, Unique Sports 2
+https://pop.uniquetv.com.br/uniquesports2/video.m3u8
+#EXTINF:-1, Unique Sports 3
+https://pop.uniquetv.com.br/uniquesports3/video.m3u8
+#EXTINF:-1, Fubo Sports
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
+#EXTINF:-1, NCAA Channel
+https://76edcd6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkNBQUNoYW5uZWxfSExT/playlist.m3u8
+#EXTINF:-1, Canela Deportes
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-rewardedtv/playlist.m3u8
+#EXTINF:-1, Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1, Teledeporte (Espanha)
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1, La Liga+
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+#EXTINF:-1, SporTVL
+https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
+#EXTINF:-1, Sports TV Turkey
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1, A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1, HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8.m3u8
+#EXTINF:-1, FUTBOL NETWORK
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+#EXTINF:-1, Cazé TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1, Desimpedidos
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1, NSports
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+#EXTINF:-1, NSports FAST
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1, NSports FAST H265
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_h265.m3u8
+#EXTINF:-1, ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1, Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, NFL Channel
+https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, NHL Channel
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, NCAA Channel
+https://wurllg.global.transmit.live/hls/689628fc4be878ea7aa6ec3e/v1/lg_ncaachannel_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1, Deportes 13
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1, CHV Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd95.m3u8
+#EXTINF:-1, Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:-1, Sport Outdoor
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, More Than Sports
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1, Zona TUDN
+https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an=%7B%7BappName%7D%7D&msid=%7B%7BappPackage%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&idtype=%7B%7BIFA_TYPE%7D%7D&rdid=%7B%7BDID%7D%7D&is_lat=%7B%7BDNT%7D%7D&ip=%7B%7BipAddr%7D%7D&user_agent=%7B%7BUserAgent%7D%7D.m3u8
+#EXTINF:-1, Azteca Deportes Network
+https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
+#EXTINF:-1, ČT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1, Pluto TV Sport Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY.m3u8
+#EXTINF:-1, CDN Deportes
+http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1, Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1, GE Fast
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, GE Fast (2)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1, National Sports Channel
+https://origin-nxtv.b-cdn.net/PLAYOUT_02_NSC/index.m3u8
+#EXTINF:-1, FIFA +
+https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1, Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1, Sport en France
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
+#EXTINF:-1, InfoSport+
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1, Canal+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1, Canal+ Sport 360
+http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:-1, SportDigital (Alemanha)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
+#EXTINF:-1, DFB TV
+https://d1370ldlavrmz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvtagc9ylqpl9/dfbtv.m3u8
+#EXTINF:-1, ArenaSport 1
+http://195.26.87.150/ArenaSport1/index.m3u8
+#EXTINF:-1, ArenaSport 2
+http://195.26.87.150/ArenaSport2/index.m3u8
+#EXTINF:-1, Sport 1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+#EXTINF:-1, NovaSport 1
+http://195.26.87.150/NovaSport1/index.m3u8
+#EXTINF:-1, NovaSport 2
+http://195.26.87.150/NovaSport2/index.m3u8
+#EXTINF:-1, Red Bull (1)
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+#EXTINF:-1, Red Bull (2)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1, Red Bull (3)
+https://hplay.tv/augetv/12396547488/171.m3u8
+#EXTINF:-1, Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1, Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1, 4 Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1, TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1, Persiana Sport
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1, Persiana Sport 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1, Persiana Sport 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1, Persiana Sport 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1, Yahoo! Sports Network
+https://yahoo.global.transmit.live/hls/6862d5fd233e6604b8b457c6/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
+#EXTINF:-1, TV Atitude New
+https://s1.tvr.ovh/video69519/video69519/playlist.m3u8
+#EXTINF:-1, Auge Esportes
+https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
+#EXTINF:-1, Voley por Latina
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina3/latina3.smil/playlist.m3u8
+#EXTINF:-1, Bandsports
+http://hplay.tv/augetv/12396547488/6733.m3u8
+#EXTINF:-1, TV Esportes
+http://hplay.tv/augetv/12396547488/204.m3u8
+#EXTINF:-1, Sports Connect
+https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
+#EXTINF:-1, TV Turfe
+http://168.205.87.198:8555/live/1347/123456/305.m3u8
+#EXTINF:-1, X Sports
+http://168.205.87.198:8555/live/1347/123456/309.m3u8
+#EXTM3U

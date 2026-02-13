@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTINF:-1, GPTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
+#EXTINF:-1, Lito Cavalcanti
+https://video01.soultv.com.br/litocavalcanti/litocavalcanti/playlist.m3u8
+#EXTINF:-1, Racer
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1, Racer Select
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Racer 2
+http://s.rocketdns.info:8080/live/52748969/72335180/5290.m3u8
+#EXTINF:-1, Racer (Alt)
+https://fl1.moveonjoy.com/MAV_TV/mpegts
+#EXTINF:-1, Racer Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
+#EXTINF:-1, Racing America
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61a945156547ba4d6d238dc9.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ATb6YRXEgxRhSpBmByex&includeAllStreams=1&redirectedFromV6=1.m3u8
+#EXTINF:-1, FOX Sports Racing
+http://s.rocketdns.info:8080/live/52748969/72335180/3053.m3u8
+#EXTINF:-1, Acelerados
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15884&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
+#EXTINF:-1, Speedvision
+https://eb9a3a62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
+#EXTINF:-1, Power Nation
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+#EXTINF:-1, MotorTrend
+https://3fa797d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yVHJlbmRGYXN0VFZfSExT/playlist.m3u8
+#EXTINF:-1, MotorTrend (alt)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d.m3u8
+#EXTINF:-1, MotorTrend (alt)
+http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1, MotorTrend Itália
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1, Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1, MotorRacing (2)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d5dfb7-80c2-11eb-908d-533d39655269/0/master.m3u8?country=GB&vendor=samsung.m3u8
+#EXTINF:-1, MotorRacing (3)
+https://streams2.sofast.tv/ptnr-yupptv/title-motorracing_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/playlist.m3u8
+#EXTINF:-1, MotorRacing
+https://dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8
+#EXTINF:-1, MotorRacing France
+https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-50l4tj8p1zx6l/moto.m3u8
+#EXTINF:-1, Motorvision
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:-1, Motorvision 1
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1, Motorvision 2
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=whaletv&tag_id=116396.m3u8
+#EXTINF:-1, Motorvision 3
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1, Motorvision 4
+https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
+#EXTINF:-1, Motorvision (DE)
+https://d3hjdf2xlb1h3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4sjzb0mx3fvqe/mv_de.m3u8
+#EXTINF:-1, AutoMoto (Itália)
+https://d2d70kuzq4qhmm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/Automoto_IT.m3u8
+#EXTINF:-1, ACI Sport
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1, Plus TV Motor
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1, Motoretro
+https://d130mn8b66zi0y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bqqljpzcglggs/MotoRetro_IT.m3u8
+#EXTINF:-1, TV do Carro
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+#EXTINF:-1, Auto TV
+https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
+#EXTINF:-1, Nitro Circus
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Auto Motor Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250.m3u8
+#EXTINF:-1, RPM SportsTribal
+https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
+#EXTINF:-1, Auto Allstars
+https://f959c2c3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlBdXRvQWxsU3RhcnNfSExT/playlist.m3u8
+#EXTINF:-1, Flo Racing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Speed Sport 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1, 30A We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1, Motor TV
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1, Automotion
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1, GO-TV
+https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8
+#EXTINF:-1, Motori TV
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1, NHRA
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=sportstribal&channel_name=NHRA&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&content_url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D666318a8a2498f66a3603397&lmt=0&did=38NVIX.m3u8
+#EXTINF:-1, REV'N
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1, Drive+Speed
+https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/680fc4653488ae8466b878fc/manifest.m3u8
+#EXTINF:-1, RTL Nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1, TVS Turbo
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1, Power Sports World
+https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=2801&partner=freelivesports&channel_name=Powersports%20World&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&language=en&content_url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D6675b91de1827c8af5d7a544&lmt=0&did=38NVIX.m3u8
+#EXTINF:-1, Nascar
+https://jmp2.uk/rok-2d9aed2049f3c762acbed39bf6b9cc9f.m3u8
+#EXTINF:-1, Nascar (Freelivesports)
+http://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, Velocidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus.m3u8
+#EXTINF:-1, Motor Sur Media
+https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
+#EXTINF:-1, BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1, BBC Top Gear Alemanha
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, U Drive
+https://hplay.tv/augetv/12396547488/6734.m3u8
+#EXTINF:-1, Drive Auto
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+#EXTINF:-1, RMC Mecanic
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+#EXTINF:-1, F1 TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1.m3u8
+#EXTINF:-1, Motowizja
+https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8
+#EXTINF:-1, IMSA TV
+https://d22t65jbw0v36j.cloudfront.net/live/imsa_international/master.m3u8
+#EXTINF:-1, Choppertown
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/choppertown/master.m3u8?ads.vf=3JNJa4NLn3C
+#EXTINF:-1, Drive TV
+https://amg01796-amg01796c2-rlaxx-gb-6511.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Rally TV
+https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
+#EXTINF:-1, Hagerty
+https://dvcr6n9u4b40e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m95lk5rnnh17y/Hagerty.m3u8
+#EXTM3U

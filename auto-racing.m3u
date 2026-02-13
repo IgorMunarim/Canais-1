@@ -13,6 +13,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/5290.m3u8
 https://fl1.moveonjoy.com/MAV_TV/mpegts
 #EXTINF:-1, Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Racer Brasil (LG)
+https://amg16379-sports7-amg16379c2-lg-br-9135.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
 #EXTINF:-1, Racing America

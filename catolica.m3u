@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:-1, Rede Século 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1, Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1, TV 2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
+#EXTINF:-1, TV Padre Pio
+https://ppiotv.fluid.stream/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1, Giovanni Paolo TV
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1, Medjugorje Itália TV
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1, TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1, TV Evangelizar Maringá
+https://tvevangelizarmaringa.brasilstream.com.br/hls/tvevangelizarmaringa/index.m3u8
+#EXTINF:-1, TV Imaculada
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1, TV Horizonte
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
+#EXTINF:-1, TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1, Rede Mariana
+https://stmv1.srvif.com/avemaria/avemaria/playlist.m3u8
+#EXTINF:-1, TV Pentecostes
+https://stmv2.samcast.com.br/radiopentecostes/radiopentecostes/playlist.m3u8
+#EXTINF:-1, Santuário São Judas Tadeu - Sorocaba
+https://5ffab78b24f94.streamlock.net/saojudastadeubr/saojudastadeubr/playlist.m3u8
+#EXTINF:-1, Paróquia Nossa Senhora das Mercês
+https://cdn.live.br1.jmvstream.com/w/LVW-8504/LVW8504_ZRmDvTbrLK/playlist.m3u8
+#EXTINF:-1, TV Vianney
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
+#EXTINF:-1, TV Novo Milênio
+https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/playlist.m3u8
+#EXTINF:-1, Paróquia São João Batista
+https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
+#EXTINF:-1, TV Igreja Santa Cruz Araraquara
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
+#EXTINF:-1, TV Jampa Jovens
+https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8
+#EXTINF:-1, TV Penõl
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1, Telepace
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
+#EXTINF:-1, KTO TV
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1, Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1, María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+#EXTINF:-1, María Visión Itália
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1, Monte Maria
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1, Tele Dehon
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
+#EXTINF:-1, Katholika TV
+https://acesso.ecast.site:3743/live/katholikalive.m3u8
+#EXTINF:-1, EWTN 
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN UK
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN España
+https://cdn3.wowza.com/1/VGlwZDhmZXl3N0Rw/YmxuTER1/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Latinoamerica
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN USA
+https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Asia
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN África
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Alemanha
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Ucrânia
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Polônia
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Noruega
+https://cdn3.wowza.com/1/cVNxT0FpaGQrVzh4/SXUzMkJw/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Adoração
+https://cdn3.wowza.com/1/Y09GU2RCUG9EbVRr/WlpHUVVx/hls/live/playlist.m3u8
+#EXTINF:-1, TeleRádioPace 1
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+#EXTINF:-1, TeleRádioPace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1, TeleRádioPace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1, TeleRádioPace 4
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+#EXTINF:-1, Telepace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1, Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1, TRSP
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+#EXTINF:-1, Nazarenas TV Peru
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1, Canal Santa maria El Salvador
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTM3U

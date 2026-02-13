@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1, RS Play
+https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
+#EXTINF:-1, Porto Alegre 24 Horas TV
+https://rtisoluctions.com.br/hls/test.m3u8
+#EXTINF:-1, Poa TV
+https://stmv2.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
+#EXTINF:-1, TV Atualidade
+https://srv6.zcast.com.br/tvatualidade/tvatualidade/playlist.m3u8
+#EXTINF:-1, TV A Platéia
+https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
+#EXTINF:-1, POA Streaming TV
+https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
+#EXTINF:-1, TV Mar Rio Grande
+https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8
+#EXTINF:-1, TVD Shop (Santa Maria)
+https://cdn-tvdshop.ciclano.io:1443/tvdshop/tvdshop/playlist.m3u8
+#EXTINF:-1, TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+#EXTINF:-1, TV Diário Santa Maria
+https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
+#EXTINF:-1, TVC Pelotas
+https://video01.kshost.com.br/associacao6754/associacao6754/playlist.m3u8
+#EXTINF:-1, TV Mon
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1, TV Litoral
+https://srv2.tvmais.net.br/hls/tvlitoral/index.m3u8
+#EXTINF:-1, TV Liberdade Bagé
+https://video01.kshost.com.br:4443/eberson6273/eberson6273/playlist.m3u8
+#EXTINF:-1, AG TV
+https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1, Ijuí Play
+https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
+#EXTINF:-1, Vale TV
+https://video09.logicahost.com.br/valetvplay/valetvplay/playlist.m3u8
+#EXTINF:-1, TV Gramado NET
+https://stmv2.samcast.com.br/luiscarlosbarbosa7488/luiscarlosbarbosa7488/playlist.m3u8
+#EXTINF:-1, Gramado TV
+https://tv01.zas.media:1936/gramadotv/gramadotv/playlist.m3u8
+#EXTINF:-1, Adesso TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1, Coletiva TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:-1, TV Minuano
+https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
+#EXTINF:-1, Masper TV
+https://tv01.zas.media:1936/bahtv/bahtv/playlist.m3u8
+#EXTINF:-1, Radio e Tv C.B.S - Sapucaia do Sul
+https://stmv1.liveplushd.com.br/tvcbs/tvcbs/playlist.m3u8
+#EXTINF:-1, TV Cidade 10 Livramento
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1, TV Cidade Farroupilha
+https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8
+#EXTINF:-1, TV Cidade Camaquã
+https://stmv1.srvsite.com/tvcdigital/tvcdigital/playlist.m3u8
+#EXTINF:-1, Summit TV
+https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
+#EXTINF:-1, TV Serrana
+https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
+#EXTINF:-1, TV Serra
+https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
+#EXTINF:-1, Band RS
+https://hplay.tv/augetv/12396547488/229.m3u8
+#EXTINF:-1, SBT RS
+https://hplay.tv/live/augetv/12396547488/1276.m3u8
+#EXTINF:-1, Record RS
+https://hplay.tv/augetv/12396547488/50.m3u8
+#EXTINF:-1, Rede Metropolitana RS
+https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m3u8
+#EXTINF:-1, OV TV Gramado
+https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8
+#EXTINF:-1, Conecta Mais Web TV
+https://transcoder7.adyl.net.br/Conecta/video.m3u8
+#EXTINF:-1, TV Lider do Vale
+https://stmv2.samcast.com.br/lidrdovale/lidrdovale/playlist.m3u8
+#EXTINF:-1, TV Assembléia RS
+https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
+#EXTM3U

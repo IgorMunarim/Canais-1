@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1, Globo
+https://hplay.tv/augetv/12396547488/7410.m3u8
+#EXTINF:-1, TV TEM
+http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1, Globo MG (alt)
+http://168.205.87.198:8555/live/1347/123456/282.m3u8
+#EXTINF:-1, Globo RJ
+http://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1, Globo DF
+https://hplay.tv/augetv/12396547488/1097797.m3u8
+#EXTINF:-1, RPC TV
+https://hplay.tv/augetv/12396547488/52.m3u8
+#EXTINF:-1, NSC TV
+https://hplay.tv/augetv/12396547488/09.m3u8
+#EXTINF:-1, Globo Nordeste
+https://hplay.tv/augetv/12396547488/11.m3u8
+#EXTINF:-1, RPC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+#EXTINF:-1, RBS TV Porto Alegre
+https://hplay.tv/augetv/12396547488/10.m3u8
+#EXTINF:-1, Rede Amazônica
+https://d1muf25xa12so8hp18.s27-usa-cloudfront-net.online/token/b3d2fc2a2f01e0de731fc1aaab1ce230/globoam.m3u8
+#EXTINF:-1, TV Bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1, TV Bahia Itabuna
+https://hplay.tv/augetv/12396547488/7411.m3u8
+#EXTINF:-1, TV Bahia Vitória da Conquista
+https://hplay.tv/augetv/12396547488/172.m3u8
+#EXTM3U

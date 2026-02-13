@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, TV Antena 10
-https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/playlist.m3u8
+https://srt01.logicahost.com.br/a10mais/index.m3u8
 #EXTINF:-1, Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1, Receitas Fast

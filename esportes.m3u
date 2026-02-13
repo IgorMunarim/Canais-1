@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:-1, Eurosport
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1, Eurosport 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
+#EXTINF:-1, Eurosport 1 (RUS)
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1, Eurosport 1 (FR)
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1, Eurosport 1 ro
+http://103.161.35.76/RO-110/index.m3u8
+#EXTINF:-1, Eurosport 1 (Alt)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/eurosport-1-dm.m3u8
+#EXTINF:-1, Eurosport 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
+#EXTINF:-1, Eurosport 2 (RUS)
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1, Eurosport 2 (FR)
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1, Eurosport 2 ro
+http://103.161.35.76/RO-111/index.m3u8
+#EXTINF:-1, Eurosport 1 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_HD/mpegts
+#EXTINF:-1, Eurosport 2 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_2_HD/mpegts
+#EXTINF:-1, Eurosport 1 (ING)
+http://178.23.88.55/Eurosport_1/index.m3u8
+#EXTINF:-1, Eurosport 2 (ING)
+http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1, Eurosport 2 (alt)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/eurosport-2-dm.m3u8
+#EXTINF:-1, Eurosport 360 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
+#EXTINF:-1, Eurosport 360 1 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-1-dm.m3u8
+#EXTINF:-1, Eurosport 360 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
+#EXTINF:-1, Eurosport 360 2 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-2-dm.m3u8
+#EXTINF:-1, Eurosport 360 3
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
+#EXTINF:-1, Eurosport 360 3 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-3-dm.m3u8
+#EXTINF:-1, Eurosport 360 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
+#EXTINF:-1, Eurosport 360 4 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-4-dm.m3u8
+#EXTINF:-1, Eurosport 360 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
+#EXTINF:-1, Eurosport 360 5 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-5-dm.m3u8
+#EXTINF:-1, Eurosport 360 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
+#EXTINF:-1, Eurosport 360 6 (alt)
+https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-6-dm.m3u8
+#EXTINF:-1, L'Equipe 
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1, L'Equipe (Alt)
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1, L'Equipe Live 1
+https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
+#EXTINF:-1, L'Equipe Live 2
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1, L'Equipe Live 1 (alt)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+#EXTINF:-1, L'Equipe Live 2 (alt)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
+#EXTINF:-1, L'Equipe Live 3
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
+#EXTINF:-1, L'Equipe Live 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
+#EXTINF:-1, L'Equipe Live 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+#EXTINF:-1, L'Equipe Live 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
+#EXTINF:-1, L'Equipe Live 7
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
+#EXTINF:-1, L'Equipe Live 8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
+#EXTINF:-1, Bein Sports Qatar 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1, Bein Sports Qatar 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1, Bein Sports Qatar 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1, Bein Sports Qatar 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1, Bein Sports Qatar 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1, Bein Sports Qatar 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1, Bein Sports Qatar 7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1, Bein Sports Qatar 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1, Bein Sports Qatar 9
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1, Arena Sport 1 HD
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 2 HD
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 3 HD
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 4 HD
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 5 HD
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 6 HD
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 7 HD
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 9 HD
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+#EXTINF:-1, Arena Sport 10 HD
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
+#EXTINF:-1, Arena Premium 1 HD
+http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+#EXTINF:-1, Arena Premium 2 HD
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+#EXTINF:-1, Arena Premium 3 HD
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+#EXTINF:-1, Super Sport 1 HD
+http://79.127.207.193:80/Supersport1/playlist.m3u8
+#EXTINF:-1, Super Sport 2 HD
+http://79.127.207.193:80/Supersport2/playlist.m3u8
+#EXTINF:-1, Super Sport 3 HD
+http://79.127.207.193:80/Supersport3/playlist.m3u8
+#EXTINF:-1, Super Sport 4 HD
+http://79.127.207.193:80/Supersport4/playlist.m3u8
+#EXTINF:-1, Super Sport 5 HD
+http://79.127.207.193:80/Supersport5/playlist.m3u8
+#EXTINF:-1, Super Sport 6 HD
+http://79.127.207.193:80/Supersport6/playlist.m3u8
+#EXTINF:-1, Super Sport 7 HD
+http://79.127.207.193:80/Supersport7/playlist.m3u8
+#EXTINF:-1, Art Sport 1 HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1, Art Sport 2 HD
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1, Art Sport 3 HD
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1, Art Sport 4 HD
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1, Art Sport 5 HD
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1, Art Sport 6 HD
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1, Tring Sport 1 HD
+http://79.127.207.193:80/TringSport1HD/playlist.m3u8
+#EXTINF:-1, Tring Sport 2 HD
+http://79.127.207.193:80/TringSport2HD/playlist.m3u8
+#EXTINF:-1, KSport 1 HD
+http://79.127.207.193:80/KSport1/playlist.m3u8
+#EXTINF:-1, KSport 2 HD
+http://79.127.207.193:80/KSport2/playlist.m3u8
+#EXTINF:-1, KSport 3 HD
+http://79.127.207.193:80/KSport3/playlist.m3u8
+#EXTINF:-1, KSport 4 HD
+http://79.127.207.193:80/KSport4/playlist.m3u8
+#EXTINF:-1, M4 Sport
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1, FOX 🇲🇽 
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+#EXTINF:-1, SportsNet 360
+https://stream.decentdoubts.net/803/index.m3u8
+#EXTINF:-1, SportsNet +
+https://stream.decentdoubts.net/804/index.m3u8
+#EXTINF:-1, SportsNet Ontário
+https://stream.decentdoubts.net/801/index.m3u8
+#EXTINF:-1, SportsNet 
+https://stream.decentdoubts.net/800/index.m3u8
+#EXTINF:-1, SportsNet West
+https://stream.decentdoubts.net/705/index.m3u8
+#EXTINF:-1, SportsNet World
+https://stream.decentdoubts.net/802/index.m3u8
+#EXTINF:-1, SportsNet 
+https://stream.decentdoubts.net/800/index.m3u8
+#EXTM3U

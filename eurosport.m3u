@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1, Eurosport
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1, Eurosport (Alt)
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1, Eurosport 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
 #EXTINF:-1, Eurosport 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
-#EXTINF:-1, Eurosport 1 (RUS)
+#EXTINF:-1, Eurosport 1 (RUS) 
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1, Eurosport 2 (RUS)
+#EXTINF:-1, Eurosport 2 (RUS) 
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1, Eurosport 1 (RUS)
+#EXTINF:-1, Eurosport 1 (RUS) (Alt)
 http://79.127.207.193:80/Eurosport1HD/mpegts
-#EXTINF:-1, Eurosport 2 (RUS)
+#EXTINF:-1, Eurosport 2 (RUS) (Alt)
 http://79.127.207.193:80/Eurosport2HD/mpegts
 #EXTINF:-1, Eurosport 1 ro
 http://103.161.35.76/RO-110/index.m3u8

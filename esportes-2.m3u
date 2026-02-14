@@ -125,6 +125,12 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
 #EXTINF:-1, Win Sports + HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
+#EXTINF:-1, SKY SPORTS Mix
+http://s.rocketdns.info:8080/live/52748969/72335180/2180.ts
+#EXTINF:-1, SKY SPORTS Premier League
+http://s.rocketdns.info:8080/live/52748969/72335180/2181.ts
+#EXTINF:-1, SKY SPORTS NEWS
+http://s.rocketdns.info:8080/live/52748969/72335180/2183.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT
 http://s.rocketdns.info:8080/live/52748969/72335180/2184.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT (alt)

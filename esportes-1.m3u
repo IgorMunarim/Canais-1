@@ -211,8 +211,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sport
 http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1, Canal+ Sport
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1, Canal+ Sport 360
-http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:-1, Canal+ Sport (Alt)
+http://151.80.18.177:86/Canal+_sport_HD/mpegts
 #EXTINF:-1, SportDigital (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
 #EXTINF:-1, DFB TV

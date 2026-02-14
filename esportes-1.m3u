@@ -59,17 +59,33 @@ https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-bosto
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-california/playlist.m3u8
 #EXTINF:-1, NBC Sports Philadelphia
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-philadelphia/playlist.m3u8
-#EXTINF:-1, SportsNet 360
-https://stream.decentdoubts.net/803/index.m3u8
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="Live",TSN1
+#EXTINF:-1, Spectrum SportsNet LA
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/spectrum-sportsnet-la/index.m3u8
+#EXTINF:-1, Spectrum Sportsnet Lakers
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/spectrum-sportsnet/index.m3u8
+#EXTINF:-1, Sportsnet (East)
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-east/index.m3u8
+#EXTINF:-1, Sportsnet 360
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-360/index.m3u8
+#EXTINF:-1, Sportsnet One
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-one/index.m3u8
+#EXTINF:-1, Sportsnet Ontario
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-ontario/index.m3u8
+#EXTINF:-1, Sportsnet Pacific
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
+#EXTINF:-1, Sportsnet Pittsburgh
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
+#EXTINF:-1, Sportsnet West
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
+#EXTINF:-1, TSN 1
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn1/playlist.m3u8
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="Live",TSN2
+#EXTINF:-1, TSN 2
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn2/playlist.m3u8
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="Live",TSN3
+#EXTINF:-1, TSN 3
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn3/playlist.m3u8
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="Live",TSN4
+#EXTINF:-1, TSN 4
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn4/playlist.m3u8
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="Live",TSN5
+#EXTINF:-1, TSN 5
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn5/playlist.m3u8
 #EXTINF:-1, TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8

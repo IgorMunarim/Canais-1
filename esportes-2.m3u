@@ -25,10 +25,12 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1, TNT Sports Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1, FOX SPORTS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.m3u8
 #EXTINF:-1, GOLPERU
 http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1, BEIN SPORTS Ñ
-http://181.78.106.127:9000/play/ca039/index.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 #EXTINF:-1, BEIN SPORTS MAX 1 Turkey
 http://65.108.239.207/bm1/index.m3u8
 #EXTINF:-1, BEIN SPORTS MAX 2 Turkey
@@ -44,9 +46,13 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1, BEIN SPORTS 5 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1, BEIN SPORTS France 
-http://99.27.51.147:8080/BeinSport/index.m3u8
+http://99.27.51.147:8080/BeinSport/index.ts
+#EXTINF:-1, BEIN SPORTS France (alt)
+http://99.27.51.147:8080/BeinSport/mpegts
 #EXTINF:-1, BEIN SPORTS 3 France 
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1, BEIN SPORTS 3 France (Alt)
+http://99.27.51.147:8080/BeinSport3/mpegts
 #EXTINF:-1, TNT Sports Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, NBC Team USA
@@ -97,4 +103,8 @@ https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1, CLARO SPORTS HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1, Win Sports HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
+#EXTINF:-1, Win Sports + HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
 #EXTM3U

@@ -53,6 +53,24 @@ http://99.27.51.147:8080/BeinSport/mpegts
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:-1, BEIN SPORTS 3 France (Alt)
 http://99.27.51.147:8080/BeinSport3/mpegts
+#EXTINF:-1, BEIN SPORTS 3 France (Alt2)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1, BEIN SPORTS ñ
+http://s.rocketdns.info:8080/live/52748969/72335180/3613.ts
+#EXTINF:-1, BEIN SPORTS
+http://s.rocketdns.info:8080/live/52748969/72335180/3612.ts
+#EXTINF:-1, BEIN SPORTS 3
+http://s.rocketdns.info:8080/live/52748969/72335180/5308.ts
+#EXTINF:-1, BEIN SPORTS 4
+http://s.rocketdns.info:8080/live/52748969/72335180/5313.ts
+#EXTINF:-1, BEIN SPORTS 5
+http://s.rocketdns.info:8080/live/52748969/72335180/5312.ts
+#EXTINF:-1, BEIN SPORTS 6
+http://s.rocketdns.info:8080/live/52748969/72335180/5311.ts
+#EXTINF:-1, BEIN SPORTS 7
+http://s.rocketdns.info:8080/live/52748969/72335180/5310.ts
+#EXTINF:-1, BEIN SPORTS 8
+http://s.rocketdns.info:8080/live/52748969/72335180/5309.ts
 #EXTINF:-1, TNT Sports Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, NBC Team USA

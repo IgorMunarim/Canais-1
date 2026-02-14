@@ -26,7 +26,7 @@ http://179.51.136.19:8000/play/a1ar/index.m3u8
 #EXTINF:-1, ESPN Premium (alt)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1, TNT Sports Premium
-http://179.51.136.19:8000/play/a1im/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, GOLPERU
 http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1, BEIN SPORTS Ñ
@@ -97,8 +97,6 @@ https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
 https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
 #EXTINF:-1, Setanta Sport 2
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1, Gol TV
-http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1, CLARO SPORTS HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
 #EXTM3U

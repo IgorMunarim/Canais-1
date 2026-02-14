@@ -2,7 +2,7 @@
 #EXTINF:-1, ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1, ESPN (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNU/playlist.m3u8
+https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPN/playlist.m3u8
 #EXTINF:-1, ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, ESPN 2 (alt)

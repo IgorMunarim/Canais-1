@@ -151,4 +151,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2194.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2193.ts
 #EXTINF:-1, SKY SPORTS Cricket
 http://s.rocketdns.info:8080/live/52748969/72335180/2192.ts
+#EXTINF:-1, FOX Deportes
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/342.ts
+#EXTINF:-1, DSports
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/333.ts
 #EXTM3U

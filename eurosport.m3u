@@ -55,3 +55,8 @@ https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/euros
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
 #EXTINF:-1, Eurosport 360 6 (alt)
 https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-6-dm.m3u8
+#EXTINF:-1, Eurosport (ESP)
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
+#EXTINF:-1, Eurosport 2 (ESP)
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/144.ts
+#EXTM3U

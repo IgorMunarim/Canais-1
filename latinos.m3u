@@ -151,4 +151,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, CNN Chile
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/playlist.m3u8
+#EXTINF:-1, Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTM3U

@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1, CNN Portugal 
-https://video-auth4.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDI6NDk6MTkgUE0maGFzaF92YWx1ZT1NTUhaTnZucCtFOEdUZlpyWDVjYzRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTMyNjA3YzEtY2RlYS00MzAzLTkyZmUtMmViMGI0YTllNjhh
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u
 #EXTINF:-1, SIC 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8 
 #EXTINF:-1, TVI 

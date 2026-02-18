@@ -129,8 +129,6 @@ https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1.m3u8
 #EXTINF:-1, MotoGP Channel
 https://amg12058-c15studio-amg12058c13-lg-us-9277.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, Motowizja
-https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8
 #EXTINF:-1, IMSA TV
 https://d22t65jbw0v36j.cloudfront.net/live/imsa_international/master.m3u8
 #EXTINF:-1, Choppertown

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, RMC 1
+http://145.239.5.177/525/mpegts
 #EXTINF:-1, L'Equipe 
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 #EXTINF:-1, L'Equipe (HLS)
@@ -123,8 +125,6 @@ https://stream.decentdoubts.net/705/index.m3u8
 https://stream.decentdoubts.net/802/index.m3u8
 #EXTINF:-1, SportsNet 
 https://stream.decentdoubts.net/800/index.m3u8
-#EXTINF:-1, RMC 1
-http://145.239.5.177/525/mpegts
 #EXTINF:-1, Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 #EXTM3U

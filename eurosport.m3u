@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Eurosport 1 🇭🇷
-http://23.88.66.93/Eurosport1/index.m3u8
+http://23.88.66.93/Eurosport1/playlist.m3u8
 #EXTINF:-1, Eurosport 2 🇭🇷
-http://23.88.66.93/Eurosport2/index.m3u8
+http://23.88.66.93/Eurosport2/playlist.m3u8
 #EXTINF:-1, Eurosport 1 (Alt) 🇭🇷
 http://23.88.66.93/Eurosport1/mpegts
 #EXTINF:-1, Eurosport 2 🇭🇷
@@ -20,9 +20,9 @@ http://79.127.207.193:80/Eurosport1HD/mpegts
 #EXTINF:-1, Eurosport 2 (RUS) (Alt)
 http://79.127.207.193:80/Eurosport2HD/mpegts
 #EXTINF:-1, Eurosport 1 ro
-http://103.161.35.76/RO-110/index.m3u8
+http://103.161.35.76/RO-110/playlist.m3u8
 #EXTINF:-1, Eurosport 2 ro
-http://103.161.35.76/RO-111/index.m3u8
+http://103.161.35.76/RO-111/playlist.m3u8
 #EXTINF:-1, Eurosport 1 (FR) 
 http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
 #EXTINF:-1, Eurosport 2 (FR)

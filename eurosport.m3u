@@ -11,10 +11,6 @@ http://23.88.66.93/Eurosport2/mpegts
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:-1, Eurosport (Alt)
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:-1, Eurosport 1
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
-#EXTINF:-1, Eurosport 2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
 #EXTINF:-1, Eurosport 1 (RUS) 
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1, Eurosport 2 (RUS) 
@@ -27,8 +23,6 @@ http://79.127.207.193:80/Eurosport2HD/mpegts
 http://103.161.35.76/RO-110/index.m3u8
 #EXTINF:-1, Eurosport 2 ro
 http://103.161.35.76/RO-111/index.m3u8
-#EXTINF:-1, Eurosport 1 (Alt)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/eurosport-1-dm.m3u8
 #EXTINF:-1, Eurosport 1 (FR) 
 http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
 #EXTINF:-1, Eurosport 2 (FR)
@@ -37,32 +31,6 @@ http://151.80.18.177:86/Eurosport_2_HD/playlist.m3u8
 http://151.80.18.177:86/Eurosport_HD/mpegts
 #EXTINF:-1, Eurosport 2 (FR) (Alt)
 http://151.80.18.177:86/Eurosport_2_HD/mpegts
-#EXTINF:-1, Eurosport 2 (alt)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/eurosport-2-dm.m3u8
-#EXTINF:-1, Eurosport 360 1
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
-#EXTINF:-1, Eurosport 360 1 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-1-dm.m3u8
-#EXTINF:-1, Eurosport 360 2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
-#EXTINF:-1, Eurosport 360 2 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-2-dm.m3u8
-#EXTINF:-1, Eurosport 360 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-3.m3u8
-#EXTINF:-1, Eurosport 360 3 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-3-dm.m3u8
-#EXTINF:-1, Eurosport 360 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
-#EXTINF:-1, Eurosport 360 4 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-4-dm.m3u8
-#EXTINF:-1, Eurosport 360 5
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
-#EXTINF:-1, Eurosport 360 5 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-5-dm.m3u8
-#EXTINF:-1, Eurosport 360 6
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
-#EXTINF:-1, Eurosport 360 6 (alt)
-https://raw.githubusercontent.com//Paradise-91/ParaTV/main/streams/lequipe/eurosport-360-6-dm.m3u8
 #EXTINF:-1, Eurosport (ESP)
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
 #EXTINF:-1, Eurosport 2 (ESP)

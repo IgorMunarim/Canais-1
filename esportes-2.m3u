@@ -155,4 +155,12 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2192.ts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/342.ts
 #EXTINF:-1, DSports
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/333.ts
+#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Sports",TNT Sports One UK
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Sports",TNT Sports Two UK
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Sports",TNT Sports Three UK
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Sports",TNT Sports Four
+https://7pal.short.gy/tntspts4
 #EXTM3U

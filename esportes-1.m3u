@@ -8,7 +8,7 @@ https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, ESPN 2 (alt)
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPN2/playlist.m3u8
 #EXTINF:-1, ESPN U
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+http://23.237.104.106:8080/USA_ESPNU/playlist.m3u8
 #EXTINF:-1, ESPN U (alt)
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNU/playlist.m3u8
 #EXTINF:-1, ESPN NEWS

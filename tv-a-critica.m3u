@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, BDC TV
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1, RTN TV
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1, CLTV RTN TV-RO
 https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1, BDC TV (alt)
-https://video01.kshost.com.br/bdctv/bdctv/mpegts
+https://video01.brascast.com/bdctv/bdctv/mpegts
 #EXTM3U

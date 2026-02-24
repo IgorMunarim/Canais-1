@@ -2,141 +2,133 @@
 #EXTINF:-1, Chespirito
 http://168.205.87.198:8555/live/1347/123456/306.m3u8
 #EXTINF:-1, Univision Noticias (EUA)
-https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8
+http://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8
 #EXTINF:-1, Univision 24/7
-https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1, Univision UniMas east
-http://198.204.231.170:46201/stream/univisontelemundo/unimaseast/master.m3u8
-#EXTINF:-1, Univision UniMas west
-http://198.204.231.170:46201/stream/univisontelemundo/unimaswest/master.m3u8
-#EXTINF:-1, Univision west
-http://198.204.231.170:46201/stream/univisontelemundo/univisionwest/master.m3u8
-#EXTINF:-1, Univision east
-http://198.204.231.170:46201/stream/univisontelemundo/univisioneast/master.m3u8
+http://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:-1, Telemundo (EUA)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
+http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo Internacional
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
 #EXTINF:-1, Telemundo California
-https://d368vp0qqzvkid.cloudfront.net/11603/88889714/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundo52.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396656689&ads.caid=TelemundoNoticiasCA&ads.channelName=TelemundoNoticiasCA&ads.csid=tm_ots_alldevice_allos_web_kvea_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475397&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889714a&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifaType=&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88889714&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889714/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundo52.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396656689&ads.caid=TelemundoNoticiasCA&ads.channelName=TelemundoNoticiasCA&ads.csid=tm_ots_alldevice_allos_web_kvea_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475397&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889714a&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifaType=&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88889714&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, NBCU Telemundo Florida
-https://d368vp0qqzvkid.cloudfront.net/11603/88889703/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundo51.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396654223&ads.caid=TelemundoNoticiasFL&ads.channelName=TelemundoNoticiasFL&ads.csid=tm_ots_alldevice_allos_web_wscv_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475402&ads.vcid=undefined&ads.vip=179.99.22.22&ads.xumo_channelId=88889703a&ads.xumo_contentId=3905&ads.xumo_contentName=TelemundoNoticiasFL&ads.xumo_ifaType=&ads.xumo_providerId=3905&ads.xumo_providerName=TelemundoNoticiasFL&ads.xumo_streamId=88889703&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889703/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundo51.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396654223&ads.caid=TelemundoNoticiasFL&ads.channelName=TelemundoNoticiasFL&ads.csid=tm_ots_alldevice_allos_web_wscv_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475402&ads.vcid=undefined&ads.vip=179.99.22.22&ads.xumo_channelId=88889703a&ads.xumo_contentId=3905&ads.xumo_contentName=TelemundoNoticiasFL&ads.xumo_ifaType=&ads.xumo_providerId=3905&ads.xumo_providerName=TelemundoNoticiasFL&ads.xumo_streamId=88889703&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, NBCU Telemundo North East
-https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundonuevainglaterra.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396655148&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wneu_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475399&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundonuevainglaterra.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396655148&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wneu_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475399&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, Telemundo Noticias Ahora
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+http://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, Telemundo Noticias California
-https://d368vp0qqzvkid.cloudfront.net/11603/88889714/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundo52.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396656689&ads.caid=TelemundoNoticiasCA&ads.channelName=TelemundoNoticiasCA&ads.csid=tm_ots_alldevice_allos_web_kvea_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA~BVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475397&ads.vcid=&ads.vip=179.99.22.22&ads.xumo_channelId=88889714a&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifaType=&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88889714&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889714/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundo52.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396656689&ads.caid=TelemundoNoticiasCA&ads.channelName=TelemundoNoticiasCA&ads.csid=tm_ots_alldevice_allos_web_kvea_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA~BVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475397&ads.vcid=&ads.vip=179.99.22.22&ads.xumo_channelId=88889714a&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifaType=&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88889714&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, Telemundo New York
-https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundo47.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396654219&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wnju_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475400&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundo47.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396654219&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wnju_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475400&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, NBCU Telemundo Texas
-https://d368vp0qqzvkid.cloudfront.net/11603/88889715/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=https%253A%252F%252Fwww.telemundodallas.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396657478&ads.caid=TelemundoNoticiasTX&ads.channelName=TelemundoNoticiasTX&ads.csid=tm_ots_alldevice_allos_web_kxtx_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475398&ads.vcid=&ads.vip=179.99.22.186&ads.xumo_channelId=88889715a&ads.xumo_contentId=3904&ads.xumo_contentName=TelemundoNoticiasTX&ads.xumo_ifaType=&ads.xumo_providerId=3904&ads.xumo_providerName=TelemundoNoticiasTX&ads.xumo_streamId=88889715&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
+http://d368vp0qqzvkid.cloudfront.net/11603/88889715/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundodallas.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396657478&ads.caid=TelemundoNoticiasTX&ads.channelName=TelemundoNoticiasTX&ads.csid=tm_ots_alldevice_allos_web_kxtx_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475398&ads.vcid=&ads.vip=179.99.22.186&ads.xumo_channelId=88889715a&ads.xumo_contentId=3904&ads.xumo_contentName=TelemundoNoticiasTX&ads.xumo_ifaType=&ads.xumo_providerId=3904&ads.xumo_providerName=TelemundoNoticiasTX&ads.xumo_streamId=88889715&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, NBCU Telemundo Nuevo Mexico
-https://nbculocallive.akamaized.net/hls/live/2103886/newmex/stream1/master.m3u8
+http://nbculocallive.akamaized.net/hls/live/2103886/newmex/stream1/master.m3u8
 #EXTINF:-1, NBCU Telemundo Georgia
-https://dai2-playlistserver.aws.syncbak.com/cpl/20475904/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjg3MCwiY2lkIjoyMDk3NSwibWlkIjoyMDQ3NTkwNCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiIxNzkuOTkuMjIuMTg2IiwidWlwIjoiMTc5Ljk5LjIyLjE4NiIsImRtYSI6MCwic3NpZCI6IjY1NTg4Nzg4ZGQ2YjRhNTVhZDhlODVlMTY4MzdiNzM4Iiwic24iOiJXZWIgZjcxMGJhMWI5MSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImFmOTkyZTgzOGQzOWVmOTVlMjc0N2NhMTU1NTk2ZjNlIiwiaWF0IjoxNzY5MDM3ODk5LCJleHAiOjE3NjkwMzgxOTksImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6InBILVNxYXVpSDJpbnc1NUhBQlVXUGFWb3pHQVp1NVY2QktiWWxWQnh6VGNqT3N1bXlLIn0.O77eFJMapN9bRoN-MX6Z98RvLdkNFsbndfApYtsQj6s
+http://dai2-playlistserver.aws.syncbak.com/cpl/20475904/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjg3MCwiY2lkIjoyMDk3NSwibWlkIjoyMDQ3NTkwNCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiIxNzkuOTkuMjIuMTg2IiwidWlwIjoiMTc5Ljk5LjIyLjE4NiIsImRtYSI6MCwic3NpZCI6IjY1NTg4Nzg4ZGQ2YjRhNTVhZDhlODVlMTY4MzdiNzM4Iiwic24iOiJXZWIgZjcxMGJhMWI5MSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImFmOTkyZTgzOGQzOWVmOTVlMjc0N2NhMTU1NTk2ZjNlIiwiaWF0IjoxNzY5MDM3ODk5LCJleHAiOjE3NjkwMzgxOTksImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6InBILVNxYXVpSDJpbnc1NUhBQlVXUGFWb3pHQVp1NVY2QktiWWxWQnh6VGNqT3N1bXlLIn0.O77eFJMapN9bRoN-MX6Z98RvLdkNFsbndfApYtsQj6s
 #EXTINF:-1, Telemundo al Dia
-https://d1kq7q3vteqjb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbkzpk0c2yzbs/master.m3u8
+http://d1kq7q3vteqjb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbkzpk0c2yzbs/master.m3u8
 #EXTINF:-1, Telemundo Orlando
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+http://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1, Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+http://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1, Telemundo Puerto Rico Punto 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+http://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1, NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1, América TV Puerto Rico
-https://live.gideo.video/americateve2/master.m3u8
+http://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1, TeleOnce TV Puerto Rico
-https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/playlist.m3u8
+http://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/playlist.m3u8
 #EXTINF:-1, Red Social Republica Dominicana
-https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
+http://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 #EXTINF:-1, Las Estrellas (MEX)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+http://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1, Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+http://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, Azteca Uno
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
 #EXTINF:-1, ADN Noticias
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1, TV Azteca Honduras
-https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
+http://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
 #EXTINF:-1, TV Azteca Guatemala
-https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
+http://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1, A+ Guatemala
-https://channel2-tva.duin.dev/tv/streaming/stream.m3u8
+http://channel2-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1, TV Peru
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+http://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1, TV Peru Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+http://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1, TV Peru Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1, Latina Television
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+http://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1, Latina Noticias
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+http://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1, América Tv (Peru)
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:-1, ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, ATV +
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, Exitosa TV
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
+http://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 #EXTINF:-1, Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
+http://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1, Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
+http://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1, Estrella Games
-https://aegis-cloudfront-1.tubi.video/02ac4b2e-84e9-4d37-8a09-1a0615032f6a/playlist.m3u8
+http://aegis-cloudfront-1.tubi.video/02ac4b2e-84e9-4d37-8a09-1a0615032f6a/playlist.m3u8
 #EXTINF:-1, RCN Más
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+http://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, RCN Más 2
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+http://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1, El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal Siete 
-https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
+http://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF:-1, Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1, Canal 10 de Junín
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+http://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 #EXTINF:-1, T5 Satelital
-https://stream.t5satelital.blog/hls/t5satelital.m3u8
+http://stream.t5satelital.blog/hls/t5satelital.m3u8
 #EXTINF:-1, Argentinissima
-https://stream1.sersat.com/hls/argentinisima.m3u8
+http://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1, Net TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+http://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, Canal 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+http://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1, Telefé
 http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
 #EXTINF:-1, Telefé (alt)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 #EXTINF:-1, A24
-https://g5.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8
+http://g5.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8
 #EXTINF:-1, Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1, Uniteve
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+http://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1, Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+http://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1, Bolívia TV
-https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+http://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1, Bolívia TV 7.2
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+http://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1, RT en Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+http://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1, HispanTV
-https://live.presstv.ir/hls/hispantv.m3u8
+http://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1, TeleSUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/.m3u8
+http://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 #EXTINF:-1, Venevision
-https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+http://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-1, América TV Paraguay
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 #EXTINF:-1, El Trece Paraguay
@@ -144,13 +136,11 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1, Telefuturo
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
 #EXTINF:-1, TV Ciudad
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzU0NjI0OTI2JnJhbmRvbT1hdkUyZU0yUm9TJmMtaXA9MTkxLjI0MS4yLjE2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNDNiYmRjMGM5MDAyMWZmNjA3MTcwZWU5YzRlYWE3N2RmZDlhNzZhMWNiMWFkNmIyMDAzMGE2OTE0NWQzYTYyNg==/vxfmt=hls/playlist.m3u8
+http://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzU0NjI0OTI2JnJhbmRvbT1hdkUyZU0yUm9TJmMtaXA9MTkxLjI0MS4yLjE2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNDNiYmRjMGM5MDAyMWZmNjA3MTcwZWU5YzRlYWE3N2RmZDlhNzZhMWNiMWFkNmIyMDAzMGE2OTE0NWQzYTYyNg==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1, Canal UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+http://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1, VTV
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+http://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, CNN Chile
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/playlist.m3u8
-#EXTINF:-1, Cubavision Internacional
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+http://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/playlist.m3u8
 #EXTM3U

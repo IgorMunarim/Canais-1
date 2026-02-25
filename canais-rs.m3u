@@ -75,4 +75,6 @@ https://transcoder7.adyl.net.br/Conecta/video.m3u8
 https://stmv2.samcast.com.br/lidrdovale/lidrdovale/playlist.m3u8
 #EXTINF:-1, TV Assembléia RS
 https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
+#EXTINF:-1, Tv Diario Caxiense
+http://stmv7.voxtvhd.com.br/tvdiario/tvdiario/playlist.m3u8
 #EXTM3U

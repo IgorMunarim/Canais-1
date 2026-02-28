@@ -77,4 +77,28 @@ https://stmv2.samcast.com.br/lidrdovale/lidrdovale/playlist.m3u8
 https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
 #EXTINF:-1, Tv Diario Caxiense
 http://stmv7.voxtvhd.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:-1, Rádio Uirapuru Passo Fundo
+https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
+#EXTINF:-1, Rádio Planalto News FM 92.9 Passo Fundo
+https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/playlist.m3u8
+#EXTINF:-1, Rádio Planalto FM 105.9 Passo Fundo
+https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/playlist.m3u8
+#EXTINF:-1, TV Show de Bola
+https://painel.sintonizar.tv.br/hls/tvsdbola/tvsdbola.m3u8
+#EXTINF:-1, SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1, Tv Metro (Rede Metropolitana)
+https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
+#EXTINF:-1, TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1, Três Passos TV
+https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
+#EXTINF:-1, TV Ponta da Serra
+https://playout.hubcloud.tv.br:3977/hybrid/play.m3u8
+#EXTINF:-1, Conecta Mais Web Tv
+https://transcoder7.adyl.net.br/Conecta/video.m3u8
+#EXTINF:-1, Lagoa TV
+https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
+#EXTINF:-1, Studio TV
+https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 #EXTM3U

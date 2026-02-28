@@ -147,4 +147,8 @@ https://stmv1.samcast.com.br/claudiano4493/claudiano4493/playlist.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:-1, Interativa TV Lavras
 https://stmv7.samcast.com.br/itvportal/itvportal/playlist.m3u8
+#EXTINF:-1, Rádio Tarobá Londrina
+https://cdn.live.br1.jmvstream.com/w/LVW-20211/LVW20211_njXtPW21JK/playlist.m3u8
+#EXTINF:-1, Rádio Tarobá Cascavel
+https://cdn.live.br1.jmvstream.com/w/LVW-20206/LVW20206_55qe1nTR1g/playlist.m3u8
 #EXTM3U

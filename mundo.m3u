@@ -139,4 +139,6 @@ https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
 #EXTINF:-1, VOA Tv Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1, Bom TV Irã
+https://hls.247box.live/hls/stream.m3u8
 #EXTM3U

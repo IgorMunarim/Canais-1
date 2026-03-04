@@ -9,6 +9,16 @@ http://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1, Telemundo 25 Denver
+http://s.rocketdns.info:8080/live/52748969/72335180/2399.ts
+#EXTINF:-1, Telemundo 44 Chicago IL
+http://s.rocketdns.info:8080/live/52748969/72335180/2400.ts
+#EXTINF:-1, Telemundo
+http://s.rocketdns.info:8080/live/52748969/72335180/2401.ts
+#EXTINF:-1, Telemundo Miami
+http://s.rocketdns.info:8080/live/52748969/72335180/50929.ts
+#EXTINF:-1, Telemundo Orlando
+http://s.rocketdns.info:8080/live/52748969/72335180/89502.ts
 #EXTINF:-1, Telemundo Internacional
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
 #EXTINF:-1, Telemundo California

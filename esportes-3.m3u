@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipeli
 #EXTINF:-1, L'Equipe Live 8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
 #EXTINF:-1, Bein Sports Qatar Global
-http://79.127.207.193:80/TringSport1HD/playlist.m3u8
+http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1, Bein Sports Qatar 1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1, Bein Sports Qatar 2

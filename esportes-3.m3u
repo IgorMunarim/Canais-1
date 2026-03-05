@@ -49,6 +49,8 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1, Bein Sports Qatar 9
 http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1, Bein Sports Qatar News
+http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:-1, Art Sport 1 HD
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1, Art Sport 2 HD

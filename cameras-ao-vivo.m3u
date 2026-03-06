@@ -73,6 +73,8 @@ https://video02.logicahost.com.br/pgnet01/pgnet01/playlist.m3u8
 https://video06.logicahost.com.br/pgnet2/pgnet2/playlist.m3u8
 #EXTINF:-1, Praia Grande: Brisabar Sul
 https://video02.logicahost.com.br/brisabarsul/brisabarsul/playlist.m3u8
+#EXTINF:-1, São Sebastião: Centro - Restaurante Canoa
+http://video02.logicahost.com.br/sscanoa/sscanoa/playlist.m3u8
 #EXTINF:-1, São Sebastião: São Francisco - Apoena
 https://video02.logicahost.com.br/apoena/apoena/playlist.m3u8
 #EXTINF:-1, São Sebastião: Olaria - Marujos Bar

@@ -1,16 +1,24 @@
 #EXTM3U
 #EXTINF:-1, ESPN Latin 1
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 , Latino | ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8
 #EXTINF:-1, ESPN 2 Latin (alt)
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTINF:-1, ESPN 2 Latin
 http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8
+#EXTINF:-1 , Latino | ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
+#EXTINF:-1 , Latino | ESPN 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8
 #EXTINF:-1, ESPN 3 Latin
 http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8
 #EXTINF:-1, ESPN 3 Latin (Alt)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
 #EXTINF:-1, ESPN 3 Latin (Alt2)
 http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
+#EXTINF:-1, Latino | ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.m3u8
 #EXTINF:-1, ESPN 4 Latin
 http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8
 #EXTINF:-1, ESPN 4 Latin (Alt)
@@ -165,4 +173,12 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Sports",TNT Sports Four
 https://7pal.short.gy/tntspts4
+#EXTINF:-1 , Latino | FOX SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.m3u8
+#EXTINF:-1 , Latino | FOX SPORTS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
+#EXTINF:-1 , Latino | FOX SPORTS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.m3u8
+#EXTINF:-1, TUDN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
 #EXTM3U

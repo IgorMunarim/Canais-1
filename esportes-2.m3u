@@ -167,12 +167,20 @@ http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/342.ts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/333.ts
 #EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Sports",TNT Sports One UK
 https://7pal.short.gy/tntspts1
+#EXTINF:-1, TNT Sports 1 UK
+http://s.rocketdns.info:8080/live/52748969/72335180/2337.ts
 #EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Sports",TNT Sports Two UK
 https://7pal.short.gy/tntspts2
+#EXTINF:-1, TNT Sports 2 UK
+http://s.rocketdns.info:8080/live/52748969/72335180/2336.ts
 #EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Sports",TNT Sports Three UK
 https://7pal.short.gy/tntspts3
+#EXTINF:-1, TNT Sports 3 UK
+http://s.rocketdns.info:8080/live/52748969/72335180/2335.ts
 #EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Sports",TNT Sports Four
 https://7pal.short.gy/tntspts4
+#EXTINF:-1, TNT Sports 4 UK
+http://s.rocketdns.info:8080/live/52748969/72335180/675021.ts
 #EXTINF:-1 , Latino | FOX SPORTS HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.m3u8
 #EXTINF:-1 , Latino | FOX SPORTS 2 HD
@@ -181,4 +189,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.m3u8
 #EXTINF:-1, TUDN HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
+#EXTINF:-1, DAZN Football (FAST)
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTM3U

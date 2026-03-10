@@ -67,6 +67,8 @@ https://d3b8201cy0qzzb.cloudfront.net/out/v1/4bd31ad7560846e08093f9552f92a8d0/CM
 https://dlziwpy8wmigq.cloudfront.net/out/v1/e664a9b9ae1d4de38ac33c70857a1371/CMAF_HLS/index.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 315 – Itatiaia, RJ, Sentido SP – Rio (Norte)
 https://d3b8201cy0qzzb.cloudfront.net/out/v1/12d7e2e551894165a5e2d08fc2b58b20/CMAF_HLS/index.m3u8
+#EXTINF:-1, Rodovia Anhanguera: São Paulo - Jundiaí
+https://srt01.logicahost.com.br/anhanguera/index.fmp4.m3u8
 #EXTINF:-1, Praia Grande: Vila Caiçara - Brisa Bar
 https://video02.logicahost.com.br/brisabar2/brisabar2/playlist.m3u8
 #EXTINF:-1, Praia Grande: Caiçara - Choperia Caiçara

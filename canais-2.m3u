@@ -137,4 +137,8 @@ https://cdn-3.nxplay.com.br/UPCHANNEL/index.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13192/playlist/playlist.m3u8
 #EXTINF:-1, TV Todo Dia
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
+#EXTINF:-1, ALECE TV
+https://streaming.viralmidia.com/hls/stream1/index.m3u8
+#EXTINF:-1, TV Câmara Campinas
+https://cdn.live.br1.jmvstream.com/w/LVW-20391/LVW20391_LSmyypKgs4/playlist.m3u8
 #EXTM3U

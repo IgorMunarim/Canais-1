@@ -9,8 +9,6 @@ https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1, Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1, ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1, Lavras CE TV
 https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8
 #EXTINF:-1, Rede Meio
@@ -153,4 +151,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20211/LVW20211_njXtPW21JK/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20206/LVW20206_55qe1nTR1g/playlist.m3u8
 #EXTINF:-1, Virtual TV (Rede Meio Norte)
 https://virtual.tv.br/servidor/tv/virtual/virtual.m3u8
+#EXTINF:-1, TV Interlagos
+https://stmv1.paineldevideo.com.br/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTM3U

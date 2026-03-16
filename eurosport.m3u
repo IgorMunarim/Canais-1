@@ -39,4 +39,8 @@ http://151.80.18.177:86/Eurosport_2_HD/mpegts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
 #EXTINF:-1, Eurosport 2 (ESP)
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/144.ts
+#EXTINF:-1, Eurosport 1 (GBR)
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1, Eurosport 2 (GBR)
+https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTM3U

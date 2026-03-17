@@ -117,4 +117,6 @@ http://104.250.145.6/livehttpplay?channel_id=16541.m3u8
 http://104.250.145.6/livehttpplay?channel_id=16512.m3u8
 #EXTINF:-1, FOX +
 http://104.250.145.6/livehttpplay?channel_id=16515.m3u8
+#EXTINF:-1, TYC Sports
+http://104.250.145.6/livehttpplay?channel_id=16525.m3u8
 #EXTM3U

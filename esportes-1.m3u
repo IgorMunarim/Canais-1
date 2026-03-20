@@ -273,4 +273,6 @@ https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://168.205.87.198:8555/live/1347/123456/305.m3u8
 #EXTINF:-1, X Sports
 http://168.205.87.198:8555/live/1347/123456/309.m3u8
+#EXTINF:-1, ORF Sport+
+http://212.186.45.34:9981/stream/channelid/906723447
 #EXTM3U

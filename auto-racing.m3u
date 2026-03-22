@@ -19,6 +19,8 @@ https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m
 https://amg16379-sports7-amg16379c2-lg-br-9135.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
+#EXTINF:-1, MTRSPT1 (Alt)
+https://amg02873-amg02873c1-kravemedia-us-3714.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racing America
 https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61a945156547ba4d6d238dc9.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ATb6YRXEgxRhSpBmByex&includeAllStreams=1&redirectedFromV6=1.m3u8
 #EXTINF:-1, FOX Sports Racing

@@ -315,4 +315,18 @@ https://streamerhtg.nextcon.com/memfs/2982f4c6-f8f0-4fdc-93a9-b6ceefd7603d.m3u8
 https://streamerhtg.nextcon.com/memfs/856dd0f7-6788-4ffc-b8fc-1c8f15050cf9.m3u8
 #EXTINF:-1, Rio de Janeiro - Quiosque E
 https://streamerhtg.nextcon.com/memfs/378c2ac9-8527-466a-b85e-b189b58b8f38.m3u8
+#EXTINF:-1, São Vicente - Decolagem CVLLP
+https://camera.clubecvllp.com.br/cam1/index.m3u8
+#EXTINF:-1, Rio das Pedras - Ladeira José de Negreiros
+https://video02.logicahost.com.br/portaldacidade/riodaspedrasrotatoriaprefeitura.stream/playlist.m3u8
+#EXTINF:-1, Rio das Pedras - Avenida Elias Cândido Ayres (Rotatória Posto GD)
+https://video02.logicahost.com.br/portaldacidade/riodaspedraspostogd.stream/playlist.m3u8
+#EXTINF:-1, Taguaí - Lanchodromo
+https://ipservice.aovivonanet.com.br:4433/hls/taguai-lanchodromo/index.m3u8
+#EXTINF:-1, Taguaí - Entrada do Cristo
+https://ipservice.aovivonanet.com.br:4433/hls/taguai-entrada-santo/index.m3u8
+#EXTINF:-1, Taguaí -  Praça Lanchodromo
+https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-lanchodromo/index.m3u8
+#EXTINF:-1, Ubatuba - Hotel São Charbel
+https://s112.ipcamlive.com/streams/70irebsqo5kgagvql/stream.m3u8
 #EXTM3U

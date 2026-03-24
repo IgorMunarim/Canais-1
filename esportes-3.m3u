@@ -121,8 +121,6 @@ http://104.250.145.6/livehttpplay?channel_id=16541.m3u8
 http://104.250.145.6/livehttpplay?channel_id=16512.m3u8
 #EXTINF:-1, FOX +
 http://104.250.145.6/livehttpplay?channel_id=16515.m3u8
-#EXTINF:-1, TYC Sports
-https://s.rocketdns.info/live/superreal1/superreal1/4445.ts
 #EXTINF:-1, DIRECTV SPORTS HD COLOMBIA
 http://104.250.128.34/livehttpplay?channel_id=23537.m3u8
 #EXTINF:-1, DIRECTV SPORTS2 HD COLOMBIA
@@ -145,26 +143,4 @@ https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
 #EXTINF:-1, DAZN Heldinnen
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
-#EXTINF:-1, DAZN 1 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/926.ts
-#EXTINF:-1, DAZN 2 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/924.ts
-#EXTINF:-1, DAZN 3 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/921.ts
-#EXTINF:-1, DAZN 4 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/920.ts
-#EXTINF:-1, DAZN 5 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/918.ts
-#EXTINF:-1, Sport TV 1
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/848.ts
-#EXTINF:-1, Sport TV 2
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/846.ts
-#EXTINF:-1, Sport TV 3
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/844.ts
-#EXTINF:-1, Sport TV 4
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/842.ts
-#EXTINF:-1, Sport TV 5
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/839.ts
-#EXTINF:-1, Sport TV +
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51139.ts
 #EXTM3U

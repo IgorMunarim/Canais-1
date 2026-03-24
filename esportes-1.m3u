@@ -11,66 +11,40 @@ https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8k
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, ESPN 2 (alt)
 https://s.rocketdns.info/live/superreal1/superreal1/3637.m3u8
-#EXTINF:-1, ESPN 2 (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3637.ts
 #EXTINF:-1, ESPN U
 http://23.237.104.106:8080/USA_ESPNU/playlist.m3u8
 #EXTINF:-1, ESPN U (alt)
 https://s.rocketdns.info/live/superreal1/superreal1/3638.m3u8
-#EXTINF:-1, ESPN U (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3638.ts
 #EXTINF:-1, ESPN NEWS
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1, ESPN NEWS (alt)
 https://s.rocketdns.info/live/superreal1/superreal1/3640.m3u8
-#EXTINF:-1, ESPN NEWS (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3640.ts
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
 https://s.rocketdns.info/live/superreal1/superreal1/3639.m3u8
-#EXTINF:-1, ESPN DEPORTES (Alt)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3639.ts
 #EXTINF:-1, ACC Network
 https://s.rocketdns.info/live/superreal1/superreal1/5287.m3u8
-#EXTINF:-1, ACC Network (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/5287.ts
 #EXTINF:-1, SEC Network
 https://s.rocketdns.info/live/superreal1/superreal1/3864.m3u8
-#EXTINF:-1, SEC Network (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3864.ts
 #EXTINF:-1, CBS Sports Network
 https://s.rocketdns.info/live/superreal1/superreal1/3621.m3u8
-#EXTINF:-1, CBS Sports Network (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/3621.ts
 #EXTINF:-1, CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1, CBS Sports Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1, CBS Sports Golazo Network (alt)
 https://s.rocketdns.info/live/superreal1/superreal1/660925.m3u8
-#EXTINF:-1, CBS Sports Golazo Network (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/660925.ts
 #EXTINF:-1, ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
 #EXTINF:-1, Fox Sports 1
 https://s.rocketdns.info/live/superreal1/superreal1/3645.m3u8
-#EXTINF:-1, Fox Sports 1 (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3645.ts
 #EXTINF:-1, Fox Sports 2
 https://s.rocketdns.info/live/superreal1/superreal1/3646.m3u8
-#EXTINF:-1, Fox Sports 1 (alt TS)
-https://s.rocketdns.info/live/superreal1/superreal1/3646.ts
 #EXTINF:-1, FOX Soccer Plus
 https://s.rocketdns.info/live/superreal1/superreal1/2531.m3u8
-#EXTINF:-1, FOX Soccer Plus (alt TS)
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2531.ts
 #EXTINF:-1, Big Ten Network
 https://s.rocketdns.info/live/superreal1/superreal1/4443.m3u8
-#EXTINF:-1, Big Ten Network (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/4443.ts
 #EXTINF:-1, NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, NBC Sports (samsung)

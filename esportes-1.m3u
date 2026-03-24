@@ -94,15 +94,11 @@ https://s.rocketdns.info/live/superreal1/superreal1/3073.m3u8
 #EXTINF:-1, Sportsnet One
 https://s.rocketdns.info/live/superreal1/superreal1/3071.m3u8
 #EXTINF:-1, Sportsnet Ontario
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-ontario/index.m3u8
-#EXTINF:-1, Sportsnet Pacific
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
-#EXTINF:-1, Sportsnet 3
-https://s.rocketdns.info/live/superreal1/superreal1/3068.m3u8
-#EXTINF:-1, Sportsnet 2
-https://s.rocketdns.info/live/superreal1/superreal1/3069.m3u8
-#EXTINF:-1, Sportsnet +
 https://s.rocketdns.info/live/superreal1/superreal1/3070.m3u8
+#EXTINF:-1, Sportsnet Pacific
+https://s.rocketdns.info/live/superreal1/superreal1/3069.m3u8
+#EXTINF:-1, Sportsnet West
+https://s.rocketdns.info/live/superreal1/superreal1/3068.m3u8
 #EXTINF:-1, TSN 1
 https://s.rocketdns.info/live/superreal1/superreal1/3146.m3u8
 #EXTINF:-1, TSN 2

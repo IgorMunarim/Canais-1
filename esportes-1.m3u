@@ -2,97 +2,117 @@
 #EXTINF:-1, ESPN
 http://41.205.93.154/ESPN/playlist.m3u8
 #EXTINF:-1, ESPN (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPN/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3636.m3u8
+#EXTINF:-1, ESPN (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3636.ts
 #EXTINF:-1, ESPN (alt2)
 https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
 #EXTINF:-1, ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, ESPN 2 (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPN2/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3637.m3u8
+#EXTINF:-1, ESPN 2 (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3637.ts
 #EXTINF:-1, ESPN U
 http://23.237.104.106:8080/USA_ESPNU/playlist.m3u8
 #EXTINF:-1, ESPN U (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNU/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3638.m3u8
+#EXTINF:-1, ESPN U (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3638.ts
 #EXTINF:-1, ESPN NEWS
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1, ESPN NEWS (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ESPNews/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3640.m3u8
+#EXTINF:-1, ESPN NEWS (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3640.ts
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3639.m3u8
 #EXTINF:-1, ESPN DEPORTES (Alt)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3639.ts
 #EXTINF:-1, ACC Network
-https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1, ACC Network (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/ACCNetwork/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/5287.m3u8
+#EXTINF:-1, ACC Network (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/5287.ts
 #EXTINF:-1, SEC Network
-https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1, SEC Network (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/SECN/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3864.m3u8
+#EXTINF:-1, SEC Network (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3864.ts
 #EXTINF:-1, CBS Sports Network
-https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3621.m3u8
 #EXTINF:-1, CBS Sports Network (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3621.ts
 #EXTINF:-1, CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1, CBS Sports Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1, CBS Sports Golazo Network (alt)
+https://s.rocketdns.info/live/superreal1/superreal1/660925.m3u8
+#EXTINF:-1, CBS Sports Golazo Network (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/660925.ts
 #EXTINF:-1, ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
 #EXTINF:-1, Fox Sports 1
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/FoxSports1/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3645.m3u8
+#EXTINF:-1, Fox Sports 1 (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3645.ts
 #EXTINF:-1, Fox Sports 2
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/FoxSports2/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3646.m3u8
+#EXTINF:-1, Fox Sports 1 (alt TS)
+https://s.rocketdns.info/live/superreal1/superreal1/3646.ts
 #EXTINF:-1, FOX Soccer Plus
+https://s.rocketdns.info/live/superreal1/superreal1/2531.m3u8
+#EXTINF:-1, FOX Soccer Plus (alt TS)
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2531.ts
 #EXTINF:-1, Big Ten Network
-https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/4443.m3u8
 #EXTINF:-1, Big Ten Network (alt)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/BTN/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/4443.ts
 #EXTINF:-1, NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, NBC Sports (samsung)
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 #EXTINF:-1, NBC Sports Bay Area
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-bay-area/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/2436.m3u8
 #EXTINF:-1, NBC Sports Boston
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-boston/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/2435.m3u8
 #EXTINF:-1, NBC Sports California
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-california/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3821.m3u8
 #EXTINF:-1, NBC Sports Philadelphia
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/nbc-sports-philadelphia/playlist.m3u8
-#EXTINF:-1, Spectrum SportsNet LA
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/spectrum-sportsnet-la/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3769.m3u8
 #EXTINF:-1, Spectrum Sportsnet Lakers
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/spectrum-sportsnet/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/74684.m3u8
+#EXTINF:-1, Sportsnet New York
+https://s.rocketdns.info/live/superreal1/superreal1/2413.m3u8
 #EXTINF:-1, Sportsnet (East)
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-east/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3072.m3u8
 #EXTINF:-1, Sportsnet 360
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-360/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3073.m3u8
 #EXTINF:-1, Sportsnet One
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-one/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3071.m3u8
 #EXTINF:-1, Sportsnet Ontario
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-ontario/index.m3u8
 #EXTINF:-1, Sportsnet Pacific
 https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
-#EXTINF:-1, Sportsnet Pittsburgh
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
-#EXTINF:-1, Sportsnet West
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
+#EXTINF:-1, Sportsnet 3
+https://s.rocketdns.info/live/superreal1/superreal1/3068.m3u8
+#EXTINF:-1, Sportsnet 2
+https://s.rocketdns.info/live/superreal1/superreal1/3069.m3u8
+#EXTINF:-1, Sportsnet +
+https://s.rocketdns.info/live/superreal1/superreal1/3070.m3u8
 #EXTINF:-1, TSN 1
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn1/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3146.m3u8
 #EXTINF:-1, TSN 2
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn2/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3145.m3u8
 #EXTINF:-1, TSN 3
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn3/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3144.m3u8
 #EXTINF:-1, TSN 4
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn4/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3143.m3u8
 #EXTINF:-1, TSN 5
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/tsn5/playlist.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3142.m3u8
 #EXTINF:-1, TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1, Bein Sports Xtra (English)

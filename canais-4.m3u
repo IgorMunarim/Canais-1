@@ -155,4 +155,6 @@ https://virtual.tv.br/servidor/tv/virtual/virtual.m3u8
 https://stmv1.paineldevideo.com.br/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:-1, TV Câmara João Pessoa
 https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
+#EXTINF:-1, Canaã News TV Rondônia
+https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTM3U

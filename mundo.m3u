@@ -153,4 +153,42 @@ https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPY
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1, ABC
 https://s.rocketdns.info/live/superreal1/superreal1/112234.ts
+#EXTINF:-1, ABC Los Angeles
+https://s.rocketdns.info/live/superreal1/superreal1/2684.ts
+#EXTINF:-1, ABC Bakersfield
+https://s.rocketdns.info/live/superreal1/superreal1/512981.ts
+#EXTINF:-1, ABC Fresno
+https://s.rocketdns.info/live/superreal1/superreal1/2688.ts
+#EXTINF:-1, ABC Sacramento
+https://s.rocketdns.info/live/superreal1/superreal1/2674.ts
+#EXTINF:-1, ABC San Diego
+https://s.rocketdns.info/live/superreal1/superreal1/2670.ts
+#EXTINF:-1, ABC San Francisco
+https://s.rocketdns.info/live/superreal1/superreal1/2669.ts
+#EXTINF:-1, ABC Santa Barbara
+https://s.rocketdns.info/live/superreal1/superreal1/446727.ts
+#EXTINF:-1, ABC Durham
+https://s.rocketdns.info/live/superreal1/superreal1/2689.ts
+#EXTINF:-1, ABC Milwaukee
+https://s.rocketdns.info/live/superreal1/superreal1/2682.ts
+#EXTINF:-1, ABC Detroit
+https://s.rocketdns.info/live/superreal1/superreal1/88040.ts
+
+
+#EXTINF:-1, FOX Los Angeles
+https://s.rocketdns.info/live/superreal1/superreal1/2550.ts
+#EXTINF:-1, FOX Fresno
+https://s.rocketdns.info/live/superreal1/superreal1/434317.ts
+#EXTINF:-1, FOX Bakersfield
+https://s.rocketdns.info/live/superreal1/superreal1/512982.ts
+#EXTINF:-1, FOX Palm Springs 
+https://s.rocketdns.info/live/superreal1/superreal1/696419.ts
+#EXTINF:-1, FOX Sacramento
+https://s.rocketdns.info/live/superreal1/superreal1/2537.ts
+#EXTINF:-1, FOX San Diego
+https://s.rocketdns.info/live/superreal1/superreal1/2534.ts
+#EXTINF:-1, FOX San Luis Obispo
+https://s.rocketdns.info/live/superreal1/superreal1/89462.ts
+#EXTINF:-1, FOX El Centro
+https://s.rocketdns.info/live/superreal1/superreal1/446730.ts
 #EXTM3U

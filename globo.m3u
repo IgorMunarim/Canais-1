@@ -11,6 +11,8 @@ http://168.205.87.198:8555/live/1347/123456/282.m3u8
 http://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1, Globo RJ (alt)
 http://79.127.238.228:14217
+#EXTINF:-1, Globo RJ (alt 2)
+http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 #EXTINF:-1, Globo DF
 https://hplay.tv/augetv/12396547488/1097797.m3u8
 #EXTINF:-1, RPC TV

@@ -123,6 +123,8 @@ https://hplay.tv/augetv/12396547488/38.m3u8
 https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1, SBT RJ (Alt)
 https://hplay.tv/augetv/12396547488/7416.m3u8
+#EXTINF:-1, SBT RJ (Alt 2)
+http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 #EXTINF:-1, TV Alterosa SBT MG
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
 #EXTINF:-1, SBT Raiz
@@ -161,6 +163,8 @@ https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 https://hplay.tv/augetv/12396547488/226.m3u8
 #EXTINF:-1, Band Rio
 https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
+#EXTINF:-1, Band RJ
+http://186.227.63.210:5000/live/BANDRJ/playlist.m3u8
 #EXTINF:-1, Band Bahia
 https://hplay.tv/augetv/12396547488/175.m3u8
 #EXTINF:-1, Band Pará RBA TV (PA)

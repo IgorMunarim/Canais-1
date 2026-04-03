@@ -47,6 +47,12 @@ https://34.104.32.249.nip.io/SP125-KM022/stream.m3u8
 https://34.104.32.249.nip.io/SP125-KM042/stream.m3u8
 #EXTINF:-1, SP 125 - km: 67 - Oswaldo Cruz
 https://34.104.32.249.nip.io/SP125-KM067/stream.m3u8
+#EXTINF:-1, SP 125 - km: 81 - Oswaldo Cruz
+https://34.104.32.249.nip.io/SP125-KM081/stream.m3u8
+#EXTINF:-1, SP 125 - km: 88A - Oswaldo Cruz
+https://34.104.32.249.nip.io/SP125-KM088A/stream.m3u8
+#EXTINF:-1, SP 125 - km: 88B - Oswaldo Cruz
+https://34.104.32.249.nip.io/SP125-KM088B/stream.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 78 – Roseira, SP, Sentido SP – Rio (Norte)
 https://d3b8201cy0qzzb.cloudfront.net/out/v1/db7ff89ac2dc4a2fa37f763f27429d86/CMAF_HLS/index.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 100 – Taubaté, SP, Sentido SP – Rio (Norte)

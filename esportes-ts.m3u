@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, ESPN SD
+https://s.rocketdns.info/live/superreal1/superreal1/21589.ts
 #EXTINF:-1, ESPN
 https://s.rocketdns.info/live/superreal1/superreal1/3636.ts
 #EXTINF:-1, ESPN 2

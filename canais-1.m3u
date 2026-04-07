@@ -126,7 +126,7 @@ https://hplay.tv/augetv/12396547488/7416.m3u8
 #EXTINF:-1, SBT RJ (Alt 2)
 http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 #EXTINF:-1, TV Alterosa SBT MG
-http://168.205.87.198:8555/live/1347/123456/291.m3u8
+http://168.205.87.198:8555/live/1350/123456/291.m3u8
 #EXTINF:-1, SBT Raiz
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1, SBT Sinop
@@ -144,7 +144,7 @@ https://video03.logicahost.com.br/lancewebtv/lancewebtv/playlist.m3u8
 #EXTINF:-1, Record
 https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:-1, Record MG
-http://168.205.87.198:8555/live/1347/123456/285.m3u8
+http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:-1, Record RJ
 http://iptv.vivatele.com/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1, Record Bahia

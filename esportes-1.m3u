@@ -1,90 +1,84 @@
 #EXTM3U
 #EXTINF:-1, ESPN
-http://41.205.93.154/ESPN/playlist.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3636.m3u8
 #EXTINF:-1, ESPN (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/3636.m3u8
-#EXTINF:-1, ESPN (alt2)
 https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
-#EXTINF:-1, ESPN 2
-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1, ESPN 2 (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/3637.m3u8
-#EXTINF:-1, ESPN U
-http://23.237.104.106:8080/USA_ESPNU/playlist.m3u8
+#EXTINF:-1, ESPN 2 
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3637.m3u8
 #EXTINF:-1, ESPN U (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/3638.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3638.m3u8
 #EXTINF:-1, ESPN NEWS
-https://s.rocketdns.info/live/superreal1/superreal1/3640.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3640.m3u8
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
-https://s.rocketdns.info/live/superreal1/superreal1/3639.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3639.m3u8
 #EXTINF:-1, ACC Network
-https://s.rocketdns.info/live/superreal1/superreal1/5287.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/5287.m3u8
 #EXTINF:-1, SEC Network
-https://s.rocketdns.info/live/superreal1/superreal1/3864.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3864.m3u8
 #EXTINF:-1, CBS Sports Network
-https://s.rocketdns.info/live/superreal1/superreal1/3621.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3621.m3u8
 #EXTINF:-1, CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1, CBS Sports Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1, CBS Sports Golazo Network (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/660925.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/660925.m3u8
 #EXTINF:-1, ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
 #EXTINF:-1, Fox Sports 1
-https://s.rocketdns.info/live/superreal1/superreal1/3645.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3645.m3u8
 #EXTINF:-1, Fox Sports 2
-https://s.rocketdns.info/live/superreal1/superreal1/3646.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3646.m3u8
 #EXTINF:-1, FOX Soccer Plus
-https://s.rocketdns.info/live/superreal1/superreal1/2531.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2531.m3u8
 #EXTINF:-1, Big Ten Network
-https://s.rocketdns.info/live/superreal1/superreal1/4443.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/4443.m3u8
 #EXTINF:-1, NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, NBC Sports (samsung)
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 #EXTINF:-1, NBC Sports Bay Area
-https://s.rocketdns.info/live/superreal1/superreal1/2436.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2436.m3u8
 #EXTINF:-1, NBC Sports Boston
-https://s.rocketdns.info/live/superreal1/superreal1/2435.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2435.m3u8
 #EXTINF:-1, NBC Sports California
-https://s.rocketdns.info/live/superreal1/superreal1/3821.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3821.m3u8
 #EXTINF:-1, NBC Sports Philadelphia
-https://s.rocketdns.info/live/superreal1/superreal1/3769.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3769.m3u8
 #EXTINF:-1, Spectrum Sportsnet Lakers
-https://s.rocketdns.info/live/superreal1/superreal1/74684.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/74684.m3u8
 #EXTINF:-1, Sportsnet New York
-https://s.rocketdns.info/live/superreal1/superreal1/2413.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/2413.m3u8
 #EXTINF:-1, Sportsnet (East)
-https://s.rocketdns.info/live/superreal1/superreal1/3072.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3072.m3u8
 #EXTINF:-1, Sportsnet 360
-https://s.rocketdns.info/live/superreal1/superreal1/3073.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3073.m3u8
 #EXTINF:-1, Sportsnet One
-https://s.rocketdns.info/live/superreal1/superreal1/3071.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3071.m3u8
 #EXTINF:-1, Sportsnet Ontario
-https://s.rocketdns.info/live/superreal1/superreal1/3070.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3070.m3u8
 #EXTINF:-1, Sportsnet Pacific
-https://s.rocketdns.info/live/superreal1/superreal1/3069.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3069.m3u8
 #EXTINF:-1, Sportsnet West
-https://s.rocketdns.info/live/superreal1/superreal1/3068.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3068.m3u8
 #EXTINF:-1, TSN 1
-https://s.rocketdns.info/live/superreal1/superreal1/3146.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3146.m3u8
 #EXTINF:-1, TSN 2
-https://s.rocketdns.info/live/superreal1/superreal1/3145.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3145.m3u8
 #EXTINF:-1, TSN 3
-https://s.rocketdns.info/live/superreal1/superreal1/3144.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3144.m3u8
 #EXTINF:-1, TSN 4
-https://s.rocketdns.info/live/superreal1/superreal1/3143.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3143.m3u8
 #EXTINF:-1, TSN 5
-https://s.rocketdns.info/live/superreal1/superreal1/3142.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/3142.m3u8
 #EXTINF:-1, TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1, RDS
-https://s.rocketdns.info/live/superreal1/superreal1/59870.m3u8
+https://restream-live.realiptv.to/live/ALEX/sg5ng25ikf/59870.m3u8
 #EXTINF:-1, Bein Sports Xtra (English)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, Bein Sports Xtra (Espanhol)
@@ -117,6 +111,8 @@ https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1, Rede 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1, Juventus Play
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1, Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1, Dubai Sports 2
@@ -175,8 +171,6 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://wurllg.global.transmit.live/hls/689628fc4be878ea7aa6ec3e/v1/lg_ncaachannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, Deportes 13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:-1, CHV Deportes
-https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd95.m3u8
 #EXTINF:-1, Esportes Brasília
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1, Sport Outdoor
@@ -190,7 +184,7 @@ https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 #EXTINF:-1, ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1, Pluto TV Sport Italy
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY.m3u8
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1, CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1, Colimdo TV

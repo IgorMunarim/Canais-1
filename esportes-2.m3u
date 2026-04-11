@@ -203,4 +203,40 @@ https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1, Red Bull TV Espanha
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1, Canal + Live 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170885&extension=ts
+#EXTINF:-1, Canal + Live 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
+#EXTINF:-1, Canal + Live 3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170883&extension=ts
+#EXTINF:-1, Canal + Live 4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&extension=ts
+#EXTINF:-1, Canal + Live 5
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170881&extension=ts
+#EXTINF:-1, Canal + Live 6
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
+#EXTINF:-1, Canal + Live 7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
+#EXTINF:-1, Canal + Live 8
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
+#EXTINF:-1, Canal + Live 9
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&extension=ts
+#EXTINF:-1, Canal + Live 10
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
+#EXTINF:-1, Canal + Live 11
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170875&extension=ts
+#EXTINF:-1, Canal + Live 12
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170874&extension=ts
+#EXTINF:-1, Canal + Live 13
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170873&extension=ts
+#EXTINF:-1, Canal + Live 14
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170872&extension=ts
+#EXTINF:-1, Canal + Live 15
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170871&extension=ts
+#EXTINF:-1, Canal + Live 16
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170870&extension=ts
+#EXTINF:-1, Canal + Live 17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170869&extension=ts
+#EXTINF:-1, Canal + Live 18
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170868&extension=ts
 #EXTM3U

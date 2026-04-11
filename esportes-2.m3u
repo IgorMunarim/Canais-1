@@ -67,22 +67,6 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 http://99.27.51.147:8080/BeinSport3/mpegts
 #EXTINF:-1, BEIN SPORTS 3 France (Alt2)
 http://145.239.5.177/559/mpegts
-#EXTINF:-1, BEIN SPORTS ñ
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3613.ts
-#EXTINF:-1, BEIN SPORTS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3612.ts
-#EXTINF:-1, BEIN SPORTS 3
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5308.ts
-#EXTINF:-1, BEIN SPORTS 4
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5313.ts
-#EXTINF:-1, BEIN SPORTS 5
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5312.ts
-#EXTINF:-1, BEIN SPORTS 6
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5311.ts
-#EXTINF:-1, BEIN SPORTS 7
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5310.ts
-#EXTINF:-1, BEIN SPORTS 8
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5309.ts
 #EXTINF:-1, TNT Sports Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, NBC Team USA

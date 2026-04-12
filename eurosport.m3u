@@ -44,11 +44,7 @@ https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1, Eurosport 2 (GBR)
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1, Eurosport 1 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/911.ts
-#EXTINF:-1, Eurosport 2 Portugal
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/910.ts
-#EXTINF:-1, Eurosport 1 Portugal (alt)
 https://s.rocketdns.info/live/superreal1/superreal1/911.ts
-#EXTINF:-1, Eurosport 2 Portugal (alt)
+#EXTINF:-1, Eurosport 2 Portugal
 https://s.rocketdns.info/live/superreal1/superreal1/910.ts
 #EXTM3U

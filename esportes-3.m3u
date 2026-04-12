@@ -73,46 +73,40 @@ https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 #EXTINF:-1, beIN Sports 3
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-#EXTINF:-1, FOX Deportes
-https://s.rocketdns.info/live/superreal1/superreal1/97535.ts
 #EXTINF:-1, FOX Deportes in Pluto
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
-#EXTINF:-1, ESPN 1 BO HD
-http://104.250.128.34/livehttpplay?channel_id=23629.m3u8
-#EXTINF:-1, ESPN 2 BO HD
-http://104.250.128.34/livehttpplay?channel_id=23628.m3u8
-#EXTINF:-1, ESPN 3 BO HD
-http://104.250.128.34/livehttpplay?channel_id=23625.m3u8
-#EXTINF:-1, ESPN 4 BO HD
-http://104.250.128.34/livehttpplay?channel_id=23620.m3u8
-#EXTINF:-1, TNT Sports
-http://104.250.145.6/livehttpplay?channel_id=16544.m3u8
-#EXTINF:-1, TNT Sports (alt)
-http://104.250.145.6/livehttpplay?channel_id=16542.m3u8
-#EXTINF:-1, TNT Sports (alt2)
-http://104.250.128.34/livehttpplay?channel_id=23540.m3u8
-#EXTINF:-1, TNT Sports Premium
-http://104.250.145.6/livehttpplay?channel_id=16541.m3u8
-#EXTINF:-1, TNT Sports Premium (alt)
-http://104.250.145.6/livehttpplay?channel_id=16512.m3u8
+#EXTINF:-1, TNT Sports Latin
+http://104.250.145.6/livehttpplay?channel_id=16544.ts
+#EXTINF:-1, TNT Sports Latin (alt)
+http://104.250.145.6/livehttpplay?channel_id=16542.ts
+#EXTINF:-1, TNT Sports Latin (alt2)
+http://104.250.128.34/livehttpplay?channel_id=23540.ts
+#EXTINF:-1, TNT Sports Premium Latin
+http://104.250.145.6/livehttpplay?channel_id=16541.ts
+#EXTINF:-1, TNT Sports Premium Latin (alt)
+http://104.250.145.6/livehttpplay?channel_id=16512.ts
+#EXTINF:-1, TNT Sports Premium Latin (alt2)
+http://104.250.128.34/livehttpplay?channel_id=23558.ts
+#EXTINF:-1, TNT Sports Premium Latin (alt3)
+http://104.250.128.34/livehttpplay?channel_id=23702.ts
 #EXTINF:-1, FOX +
-http://104.250.145.6/livehttpplay?channel_id=16515.m3u8
+http://104.250.145.6/livehttpplay?channel_id=16515.ts
 #EXTINF:-1, DIRECTV SPORTS HD COLOMBIA
-http://104.250.128.34/livehttpplay?channel_id=23537.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23537.ts
 #EXTINF:-1, DIRECTV SPORTS2 HD COLOMBIA
-http://104.250.128.34/livehttpplay?channel_id=23538.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23538.ts
 #EXTINF:-1, DIRECTV SPORTS+ HD COLOMBIA
-http://104.250.128.34/livehttpplay?channel_id=23539.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23539.ts
 #EXTINF:-1, ESPN Premium
-http://104.250.128.34/livehttpplay?channel_id=23559.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23559.ts
 #EXTINF:-1, ESPN Premium (Alt)
-http://104.250.128.34/livehttpplay?channel_id=23700.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23700.ts
 #EXTINF:-1, ESPN 2
-http://104.250.128.34/livehttpplay?channel_id=23560.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23560.ts
 #EXTINF:-1, FOX Sports 2
-http://104.250.128.34/livehttpplay?channel_id=23701.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23701.ts
 #EXTINF:-1, FOX Sports 3
-http://104.250.128.34/livehttpplay?channel_id=23703.m3u8
+http://104.250.128.34/livehttpplay?channel_id=23703.ts
 #EXTINF:-1, Claro Sports Mexico
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1, Claro Sports Chile

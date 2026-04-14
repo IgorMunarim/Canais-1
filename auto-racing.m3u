@@ -157,4 +157,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d3ace342c6a89df051
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1, DAZN F1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
+#EXTINF:-1, Hagerty
+https://dvcr6n9u4b40e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m95lk5rnnh17y/Hagerty.m3u8
+#EXTINF:-1, Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
 #EXTM3U

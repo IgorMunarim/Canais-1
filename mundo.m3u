@@ -195,4 +195,6 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1, TNT
 https://s.rocketdns.info/live/superreal1/superreal1/2384.ts
+#EXTINF:-1, Press TV Iran
+https://live.presstv.ir/hls/presstv.m3u8
 #EXTM3U

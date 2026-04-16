@@ -70,7 +70,7 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.
 #EXTINF:-1, Carac 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 #EXTINF:-1, ITV1
-https://s.rocketdns.info/live/superreal1/superreal1/2292.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2292.ts
 #EXTINF:-1, ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1, ITV3
@@ -150,43 +150,43 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1, Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1, ABC
-https://s.rocketdns.info/live/superreal1/superreal1/112234.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/112234.ts
 #EXTINF:-1, ABC Los Angeles
-https://s.rocketdns.info/live/superreal1/superreal1/2684.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2684.ts
 #EXTINF:-1, ABC Bakersfield
-https://s.rocketdns.info/live/superreal1/superreal1/512981.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/512981.ts
 #EXTINF:-1, ABC Fresno
-https://s.rocketdns.info/live/superreal1/superreal1/2688.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2688.ts
 #EXTINF:-1, ABC Sacramento
-https://s.rocketdns.info/live/superreal1/superreal1/2674.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2674.ts
 #EXTINF:-1, ABC San Diego
-https://s.rocketdns.info/live/superreal1/superreal1/2670.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2670.ts
 #EXTINF:-1, ABC San Francisco
-https://s.rocketdns.info/live/superreal1/superreal1/2669.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2669.ts
 #EXTINF:-1, ABC Santa Barbara
-https://s.rocketdns.info/live/superreal1/superreal1/446727.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/446727.ts
 #EXTINF:-1, ABC Durham
-https://s.rocketdns.info/live/superreal1/superreal1/2689.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2689.ts
 #EXTINF:-1, ABC Milwaukee
-https://s.rocketdns.info/live/superreal1/superreal1/2682.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2682.ts
 #EXTINF:-1, ABC Detroit
-https://s.rocketdns.info/live/superreal1/superreal1/88040.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/88040.ts
 #EXTINF:-1, FOX Los Angeles
-https://s.rocketdns.info/live/superreal1/superreal1/2550.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2550.ts
 #EXTINF:-1, FOX Fresno
-https://s.rocketdns.info/live/superreal1/superreal1/434317.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/434317.ts
 #EXTINF:-1, FOX Bakersfield
-https://s.rocketdns.info/live/superreal1/superreal1/512982.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/512982.ts
 #EXTINF:-1, FOX Palm Springs 
-https://s.rocketdns.info/live/superreal1/superreal1/696419.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/696419.ts
 #EXTINF:-1, FOX Sacramento
-https://s.rocketdns.info/live/superreal1/superreal1/2537.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2537.ts
 #EXTINF:-1, FOX San Diego
-https://s.rocketdns.info/live/superreal1/superreal1/2534.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2534.ts
 #EXTINF:-1, FOX San Luis Obispo
-https://s.rocketdns.info/live/superreal1/superreal1/89462.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/89462.ts
 #EXTINF:-1, FOX El Centro
-https://s.rocketdns.info/live/superreal1/superreal1/446730.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/446730.ts
 #EXTINF:-1, Iran TV
 https://live.playstop.me/1816184091/index.m3u8
 #EXTINF:-1, CBS
@@ -194,7 +194,7 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1, NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1, TNT
-https://s.rocketdns.info/live/superreal1/superreal1/2384.ts
+http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2384.ts
 #EXTINF:-1, Press TV Iran
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTM3U

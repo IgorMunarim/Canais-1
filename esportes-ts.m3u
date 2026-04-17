@@ -2,13 +2,13 @@
 #EXTINF:-1, ESPN SD
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/21589
 #EXTINF:-1, ESPN
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3636
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/348.ts
 #EXTINF:-1, ESPN 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3637
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/349.ts
 #EXTINF:-1, ESPN U
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2576
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/350.ts
 #EXTINF:-1, ESPN NEWS
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3640
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/351.ts
 #EXTINF:-1, ESPN NEWS (alt)
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/2577
 #EXTINF:-1, ESPN DEPORTES
@@ -16,31 +16,35 @@ http://s.rocketdns.info:8080/Lowblowmusic/6322468/2578
 #EXTINF:-1, ESPN DEPORTES (alt)
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/3639
 #EXTINF:-1, SEC Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3864
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/206.ts
 #EXTINF:-1, ACC Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5287
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/165.ts
 #EXTINF:-1, ESPN 1 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2865
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.ts
 #EXTINF:-1, ESPN 2 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/1636
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/449.ts
 #EXTINF:-1, ESPN 3 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2864
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/451.ts
 #EXTINF:-1, ESPN 4 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2862
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/455.ts
+#EXTINF:-1, ESPN Chile
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10685.ts
+#EXTINF:-1, ESPN 2 Chile
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10686.ts
 #EXTINF:-1, CBS Sports Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3621
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.ts
 #EXTINF:-1, CBS Sports Golazo Network
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/660925
 #EXTINF:-1, Fox Sports 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3645
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/353.ts
 #EXTINF:-1, Fox Sports 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3646
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/354.ts
 #EXTINF:-1, Fox Sports 1 Argentina
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/2882
 #EXTINF:-1, Fox Sports 2 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2880
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
 #EXTINF:-1, Fox Sports 3 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2881
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
 #EXTINF:-1, Fox Sports México
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/4243
 #EXTINF:-1, FOX Deportes
@@ -50,15 +54,17 @@ http://s.rocketdns.info:8080/Lowblowmusic/6322468/2559
 #EXTINF:-1, FOX Soccer Plus
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/2531
 #EXTINF:-1, Big Ten Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/4443
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/168.ts
 #EXTINF:-1, NBC Sports Bay Area
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2436
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/403.ts
 #EXTINF:-1, NBC Sports Boston
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2435
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/404.ts
 #EXTINF:-1, NBC Sports California
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3821
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/405.ts
+#EXTINF:-1, NBC Sports Chicago
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/406.ts
 #EXTINF:-1, NBC Sports Philadelphia
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3769
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/407.ts
 #EXTINF:-1, Spectrum Sportsnet Lakers
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/74684
 #EXTINF:-1, Sportsnet New York
@@ -76,19 +82,21 @@ http://s.rocketdns.info:8080/Lowblowmusic/6322468/3069
 #EXTINF:-1, Sportsnet West
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/3068
 #EXTINF:-1, TSN 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3146
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/420.ts
 #EXTINF:-1, TSN 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3145
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/421.ts
 #EXTINF:-1, TSN 3
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3144
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/422.ts
 #EXTINF:-1, TSN 4
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3143
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/423.ts
 #EXTINF:-1, TSN 5
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3142
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/424.ts
 #EXTINF:-1, RDS
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/59870
 #EXTINF:-1, TVA Sports 2
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/59869
+#EXTINF:-1, BEIN SPORTS USA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/333.ts
 #EXTINF:-1, BEIN SPORTS ñ
 http://s.rocketdns.info:8080/Lowblowmusic/6322468/3613
 #EXTINF:-1, BEIN SPORTS

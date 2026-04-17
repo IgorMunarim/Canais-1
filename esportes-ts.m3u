@@ -1,224 +1,226 @@
 #EXTM3U
+#EXTINF:-1, ESPN SD
+http://s.rocketdns.info:8080/live/7312082/5738779/21589.ts
 #EXTINF:-1, ESPN
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3636
+http://s.rocketdns.info:8080/live/7312082/5738779/3636.ts
 #EXTINF:-1, ESPN 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3637
+http://s.rocketdns.info:8080/live/7312082/5738779/3637.ts
 #EXTINF:-1, ESPN U
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2576
+http://s.rocketdns.info:8080/live/7312082/5738779/2576.ts
 #EXTINF:-1, ESPN NEWS
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3640
+http://s.rocketdns.info:8080/live/7312082/5738779/3640.ts
 #EXTINF:-1, ESPN NEWS (alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2577
+http://s.rocketdns.info:8080/live/7312082/5738779/2577.ts
 #EXTINF:-1, ESPN DEPORTES
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2578
+http://s.rocketdns.info:8080/live/7312082/5738779/2578.ts
 #EXTINF:-1, ESPN DEPORTES (alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3639
+http://s.rocketdns.info:8080/live/7312082/5738779/3639.ts
 #EXTINF:-1, SEC Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3864
+http://s.rocketdns.info:8080/live/7312082/5738779/3864.ts
 #EXTINF:-1, ACC Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5287
+http://s.rocketdns.info:8080/live/7312082/5738779/5287.ts
 #EXTINF:-1, ESPN 1 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2865
+http://s.rocketdns.info:8080/live/7312082/5738779/2865.ts
 #EXTINF:-1, ESPN 2 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/1636
+http://s.rocketdns.info:8080/live/7312082/5738779/1636.ts
 #EXTINF:-1, ESPN 3 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2864
+http://s.rocketdns.info:8080/live/7312082/5738779/2864.ts
 #EXTINF:-1, ESPN 4 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2862
+http://s.rocketdns.info:8080/live/7312082/5738779/2862.ts
 #EXTINF:-1, CBS Sports Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3621
+http://s.rocketdns.info:8080/live/7312082/5738779/3621.ts
 #EXTINF:-1, CBS Sports Golazo Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/660925
+http://s.rocketdns.info:8080/live/7312082/5738779/660925.ts
 #EXTINF:-1, Fox Sports 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3645
+http://s.rocketdns.info:8080/live/7312082/5738779/3645.ts
 #EXTINF:-1, Fox Sports 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3646
+http://s.rocketdns.info:8080/live/7312082/5738779/3646.ts
 #EXTINF:-1, Fox Sports 1 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2882
+http://s.rocketdns.info:8080/live/7312082/5738779/2882.ts
 #EXTINF:-1, Fox Sports 2 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2880
+http://s.rocketdns.info:8080/live/7312082/5738779/2880.ts
 #EXTINF:-1, Fox Sports 3 Argentina
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2881
+http://s.rocketdns.info:8080/live/7312082/5738779/2881.ts
 #EXTINF:-1, Fox Sports México
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/4243
+http://s.rocketdns.info:8080/live/7312082/5738779/4243.ts
 #EXTINF:-1, FOX Deportes
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/97535
+http://s.rocketdns.info:8080/live/7312082/5738779/97535.ts
 #EXTINF:-1, FOX Deportes (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2559
+http://s.rocketdns.info:8080/live/7312082/5738779/2559.ts
 #EXTINF:-1, FOX Soccer Plus
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2531
+http://s.rocketdns.info:8080/live/7312082/5738779/2531.ts
 #EXTINF:-1, Big Ten Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/4443
+http://s.rocketdns.info:8080/live/7312082/5738779/4443.ts
 #EXTINF:-1, NBC Sports Bay Area
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2436
+http://s.rocketdns.info:8080/live/7312082/5738779/2436.ts
 #EXTINF:-1, NBC Sports Boston
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2435
+http://s.rocketdns.info:8080/live/7312082/5738779/2435.ts
 #EXTINF:-1, NBC Sports California
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3821
+http://s.rocketdns.info:8080/live/7312082/5738779/3821.ts
 #EXTINF:-1, NBC Sports Philadelphia
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3769
+http://s.rocketdns.info:8080/live/7312082/5738779/3769.ts
 #EXTINF:-1, Spectrum Sportsnet Lakers
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/74684
+http://s.rocketdns.info:8080/live/7312082/5738779/74684.ts
 #EXTINF:-1, Sportsnet New York
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2413
+http://s.rocketdns.info:8080/live/7312082/5738779/2413.ts
 #EXTINF:-1, Sportsnet (East)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3072
+http://s.rocketdns.info:8080/live/7312082/5738779/3072.ts
 #EXTINF:-1, Sportsnet 360
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3073
+http://s.rocketdns.info:8080/live/7312082/5738779/3073.ts
 #EXTINF:-1, Sportsnet One
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3071
+http://s.rocketdns.info:8080/live/7312082/5738779/3071.ts
 #EXTINF:-1, Sportsnet Ontario
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3070
+http://s.rocketdns.info:8080/live/7312082/5738779/3070.ts
 #EXTINF:-1, Sportsnet Pacific
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3069
+http://s.rocketdns.info:8080/live/7312082/5738779/3069.ts
 #EXTINF:-1, Sportsnet West
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3068
+http://s.rocketdns.info:8080/live/7312082/5738779/3068.ts
 #EXTINF:-1, TSN 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3146
+http://s.rocketdns.info:8080/live/7312082/5738779/3146.ts
 #EXTINF:-1, TSN 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3145
+http://s.rocketdns.info:8080/live/7312082/5738779/3145.ts
 #EXTINF:-1, TSN 3
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3144
+http://s.rocketdns.info:8080/live/7312082/5738779/3144.ts
 #EXTINF:-1, TSN 4
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3143
+http://s.rocketdns.info:8080/live/7312082/5738779/3143.ts
 #EXTINF:-1, TSN 5
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3142
+http://s.rocketdns.info:8080/live/7312082/5738779/3142.ts
 #EXTINF:-1, RDS
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/59870
+http://s.rocketdns.info:8080/live/7312082/5738779/59870.ts
 #EXTINF:-1, TVA Sports 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/59869
+http://s.rocketdns.info:8080/live/7312082/5738779/59869.ts
 #EXTINF:-1, BEIN SPORTS ñ
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3613
+http://s.rocketdns.info:8080/live/7312082/5738779/3613.ts
 #EXTINF:-1, BEIN SPORTS
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3612
+http://s.rocketdns.info:8080/live/7312082/5738779/3612.ts
 #EXTINF:-1, BEIN SPORTS Global
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659426
+http://s.rocketdns.info:8080/live/7312082/5738779/659426.ts
 #EXTINF:-1, BEIN SPORTS 1 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/714411
+http://s.rocketdns.info:8080/live/7312082/5738779/714411.ts
 #EXTINF:-1, BEIN SPORTS 1 Britsh
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659436
+http://s.rocketdns.info:8080/live/7312082/5738779/659436.ts
 #EXTINF:-1, BEIN SPORTS 2 Britsh
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659437
+http://s.rocketdns.info:8080/live/7312082/5738779/659437.ts
 #EXTINF:-1, BEIN SPORTS 3 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659429
+http://s.rocketdns.info:8080/live/7312082/5738779/659429.ts
 #EXTINF:-1, BEIN SPORTS 4 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659430
+http://s.rocketdns.info:8080/live/7312082/5738779/659430.ts
 #EXTINF:-1, BEIN SPORTS 5 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659431
+http://s.rocketdns.info:8080/live/7312082/5738779/659431.ts
 #EXTINF:-1, BEIN SPORTS 6 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659432
+http://s.rocketdns.info:8080/live/7312082/5738779/659432.ts
 #EXTINF:-1, BEIN SPORTS 7 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659433
+http://s.rocketdns.info:8080/live/7312082/5738779/659433.ts
 #EXTINF:-1, BEIN SPORTS 8 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659434
+http://s.rocketdns.info:8080/live/7312082/5738779/659434.ts
 #EXTINF:-1, BEIN SPORTS 9 Qatar
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659435
+http://s.rocketdns.info:8080/live/7312082/5738779/659435.ts
 #EXTINF:-1, BEIN SPORTS 1 France
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659439
+http://s.rocketdns.info:8080/live/7312082/5738779/659439.ts
 #EXTINF:-1, BEIN SPORTS 2 France
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659440
+http://s.rocketdns.info:8080/live/7312082/5738779/659440.ts
 #EXTINF:-1, BEIN SPORTS 3 France
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659441
+http://s.rocketdns.info:8080/live/7312082/5738779/659441.ts
 #EXTINF:-1, BEIN SPORTS 3
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5308
+http://s.rocketdns.info:8080/live/7312082/5738779/5308.ts
 #EXTINF:-1, BEIN SPORTS 4
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5313
+http://s.rocketdns.info:8080/live/7312082/5738779/5313.ts
 #EXTINF:-1, BEIN SPORTS 5
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5312
+http://s.rocketdns.info:8080/live/7312082/5738779/5312.ts
 #EXTINF:-1, BEIN SPORTS 6
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5311
+http://s.rocketdns.info:8080/live/7312082/5738779/5311.ts
 #EXTINF:-1, BEIN SPORTS 7
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5310
+http://s.rocketdns.info:8080/live/7312082/5738779/5310.ts
 #EXTINF:-1, BEIN SPORTS 8
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/5309
+http://s.rocketdns.info:8080/live/7312082/5738779/5309.ts
 #EXTINF:-1, BEIN SPORTS Xtra 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659442
+http://s.rocketdns.info:8080/live/7312082/5738779/659442.ts
 #EXTINF:-1, BEIN SPORTS Xtra 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659443
+http://s.rocketdns.info:8080/live/7312082/5738779/659443.ts
 #EXTINF:-1, BEIN SPORTS Xtra 3
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659444
+http://s.rocketdns.info:8080/live/7312082/5738779/659444.ts
 #EXTINF:-1, BEIN SPORTS Canadá
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/88062
+http://s.rocketdns.info:8080/live/7312082/5738779/88062.ts
 #EXTINF:-1, BEIN SPORTS Canadá (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/3153
+http://s.rocketdns.info:8080/live/7312082/5738779/3153.ts
 #EXTINF:-1, SKY SPORTS Mix
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2180
+http://s.rocketdns.info:8080/live/7312082/5738779/2180.ts
 #EXTINF:-1, SKY SPORTS Premier League
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2181
+http://s.rocketdns.info:8080/live/7312082/5738779/2181.ts
 #EXTINF:-1, SKY SPORTS NEWS
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2183
+http://s.rocketdns.info:8080/live/7312082/5738779/2183.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2184
+http://s.rocketdns.info:8080/live/7312082/5738779/2184.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT (alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2185
+http://s.rocketdns.info:8080/live/7312082/5738779/2185.ts
 #EXTINF:-1, SKY SPORTS Golf
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2186
+http://s.rocketdns.info:8080/live/7312082/5738779/2186.ts
 #EXTINF:-1, SKY SPORTS Football
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2188
+http://s.rocketdns.info:8080/live/7312082/5738779/2188.ts
 #EXTINF:-1, SKY SPORTS F1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2189
+http://s.rocketdns.info:8080/live/7312082/5738779/2189.ts
 #EXTINF:-1, SKY SPORTS F1 (alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2190
+http://s.rocketdns.info:8080/live/7312082/5738779/2190.ts
 #EXTINF:-1, SKY SPORTS Action
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2194
+http://s.rocketdns.info:8080/live/7312082/5738779/2194.ts
 #EXTINF:-1, SKY SPORTS +
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2193
+http://s.rocketdns.info:8080/live/7312082/5738779/2193.ts
 #EXTINF:-1, SKY SPORTS Cricket
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2192
+http://s.rocketdns.info:8080/live/7312082/5738779/2192.ts
 #EXTINF:-1, TYC Sports
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/4445
+http://s.rocketdns.info:8080/live/7312082/5738779/4445.ts
 #EXTINF:-1, TNT Sports 1 UK
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2337
+http://s.rocketdns.info:8080/live/7312082/5738779/2337.ts
 #EXTINF:-1, TNT Sports 2 UK
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2336
+http://s.rocketdns.info:8080/live/7312082/5738779/2336.ts
 #EXTINF:-1, TNT Sports 2 UK (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2326
+http://s.rocketdns.info:8080/live/7312082/5738779/2326.ts
 #EXTINF:-1, TNT Sports 3 UK
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2335
+http://s.rocketdns.info:8080/live/7312082/5738779/2335.ts
 #EXTINF:-1, TNT Sports 3 UK (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2325
+http://s.rocketdns.info:8080/live/7312082/5738779/2325.ts
 #EXTINF:-1, TNT Sports 4 UK
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/675021
+http://s.rocketdns.info:8080/live/7312082/5738779/675021.ts
 #EXTINF:-1, RMS Sport 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/599595
+http://s.rocketdns.info:8080/live/7312082/5738779/599595.ts
 #EXTINF:-1, TUDN
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/553262
+http://s.rocketdns.info:8080/live/7312082/5738779/553262.ts
 #EXTINF:-1, TUDN 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/38039
+http://s.rocketdns.info:8080/live/7312082/5738779/38039.ts
 #EXTINF:-1, TUDN 2 (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/21825
+http://s.rocketdns.info:8080/live/7312082/5738779/21825.ts
 #EXTINF:-1, DAZN 1 Portugal
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/926
+http://s.rocketdns.info:8080/live/7312082/5738779/926.ts
 #EXTINF:-1, DAZN 2 Portugal
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/920
+http://s.rocketdns.info:8080/live/7312082/5738779/924.ts
 #EXTINF:-1, DAZN 3 Portugal
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/921
+http://s.rocketdns.info:8080/live/7312082/5738779/921.ts
 #EXTINF:-1, DAZN 4 Portugal
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/920
+http://s.rocketdns.info:8080/live/7312082/5738779/920.ts
 #EXTINF:-1, DAZN 5 Portugal
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/918
+http://s.rocketdns.info:8080/live/7312082/5738779/918.ts
 #EXTINF:-1, Sport TV 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/848
+http://s.rocketdns.info:8080/live/7312082/5738779/848.ts
 #EXTINF:-1, Sport TV 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/846
+http://s.rocketdns.info:8080/live/7312082/5738779/846.ts
 #EXTINF:-1, Sport TV 3
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/844
+http://s.rocketdns.info:8080/live/7312082/5738779/844.ts
 #EXTINF:-1, Sport TV 4
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/842
+http://s.rocketdns.info:8080/live/7312082/5738779/842.ts
 #EXTINF:-1, Sport TV 5
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/839
+http://s.rocketdns.info:8080/live/7312082/5738779/839.ts
 #EXTINF:-1, Sport TV +
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/51139
+http://s.rocketdns.info:8080/live/7312082/5738779/51139.ts
 #EXTINF:-1, StarZplay Sports 1
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659445
+http://s.rocketdns.info:8080/live/7312082/5738779/659445.ts
 #EXTINF:-1, StarZplay Sports 2
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659446
+http://s.rocketdns.info:8080/live/7312082/5738779/659446.ts
 #EXTINF:-1, StarZplay Sports 2 (Alt)
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/659447
+http://s.rocketdns.info:8080/live/7312082/5738779/659447.ts
 #EXTINF:-1, DeporTV
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2855
+http://s.rocketdns.info:8080/live/7312082/5738779/2855.ts
 #EXTINF:-1, Fanduel Sports Network
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2508
+http://s.rocketdns.info:8080/live/7312082/5738779/2508.ts
 #EXTINF:-1, Tennis Channel
-http://s.rocketdns.info:8080/Lowblowmusic/6322468/2386
+http://s.rocketdns.info:8080/live/7312082/5738779/2386.ts
 #EXTM3U

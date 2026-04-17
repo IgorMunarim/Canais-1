@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Eurosport 1 (GBR)
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1, Eurosport 2 (GBR)
+https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1, Eurosport 1 (POL) (Alt)
 http://79.127.207.193/Eurosport1HD/mpegts
 #EXTINF:-1, Eurosport 2 (POL) (Alt)
@@ -35,14 +39,6 @@ http://151.80.18.177:86/Eurosport_2_HD/playlist.m3u8
 http://151.80.18.177:86/Eurosport_HD/mpegts
 #EXTINF:-1, Eurosport 2 (FR) (Alt)
 http://151.80.18.177:86/Eurosport_2_HD/mpegts
-#EXTINF:-1, Eurosport (ESP)
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
-#EXTINF:-1, Eurosport 2 (ESP)
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/144.ts
-#EXTINF:-1, Eurosport 1 (GBR)
-https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1, Eurosport 2 (GBR)
-https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1, Eurosport 1 Portugal
 http://s.rocketdns.info:8080/live/7312082/5738779/911.ts
 #EXTINF:-1, Eurosport 2 Portugal

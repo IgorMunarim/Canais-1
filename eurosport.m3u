@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Eurosport 1 (POL) 
-http://79.127.207.193/Eurosport1HD/playlist.m3u8
-#EXTINF:-1, Eurosport 2 (POL) 
-http://79.127.207.193/Eurosport2HD/playlist.m3u8
 #EXTINF:-1, Eurosport 1 (POL) (Alt)
 http://79.127.207.193/Eurosport1HD/mpegts
 #EXTINF:-1, Eurosport 2 (POL) (Alt)
 http://79.127.207.193/Eurosport2HD/mpegts
+#EXTINF:-1, Eurosport 1 (POL) 
+http://79.127.207.193/Eurosport1HD/playlist.m3u8
+#EXTINF:-1, Eurosport 2 (POL) 
+http://79.127.207.193/Eurosport2HD/playlist.m3u8
 #EXTINF:-1, Eurosport 1 🇭🇷
 http://23.88.66.93/Eurosport1/playlist.m3u8
 #EXTINF:-1, Eurosport 2 🇭🇷

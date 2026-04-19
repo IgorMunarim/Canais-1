@@ -43,4 +43,8 @@ http://151.80.18.177:86/Eurosport_2_HD/mpegts
 http://s.rocketdns.info:8080/live/7312082/5738779/911.ts
 #EXTINF:-1, Eurosport 2 Portugal
 http://s.rocketdns.info:8080/live/7312082/5738779/910.ts
+#EXTINF:-1, Eurosport 1 🇪🇸
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.ts
+#EXTINF:-1, Eurosport 2 🇪🇸
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.ts
 #EXTM3U

@@ -93,6 +93,8 @@ http://video02.logicahost.com.br/sscanoa/sscanoa/playlist.m3u8
 https://video02.logicahost.com.br/apoena/apoena/playlist.m3u8
 #EXTINF:-1, São Sebastião: Olaria - Marujos Bar
 https://video02.logicahost.com.br/ssmarujo/ssmarujo/playlist.m3u8
+#EXTINF:-1, São Sebastião: Maresias - Academia Amaresias
+https://video02.logicahost.com.br/amarildo/amarildo/playlist.m3u8
 #EXTINF:-1, Ilhabela: Guarita de Castelhanos (Saída)
 https://video02.logicahost.com.br/guarita2/guarita2/playlist.m3u8
 #EXTINF:-1, Ilhabela: Guarita de Castelhanos (Entrada)
@@ -123,6 +125,8 @@ https://video02.logicahost.com.br/sino/sino/playlist.m3u8
 https://video02.logicahost.com.br/pimenta/pimenta/playlist.m3u8
 #EXTINF:-1, Ilhabela: Perequê (Shopping Ardhentia- Praia)
 https://video02.logicahost.com.br/ardhentia/ardhentia/playlist.m3u8
+#EXTINF:-1, Ilhabela: Perequê (Shopping Ardhentia- Palco)
+https://video02.logicahost.com.br/camerasrtsp/ardhentia1.stream/playlist.m3u8
 #EXTINF:-1, Ilhabela: Castelhanos (Expedição Ilhabela & Petiscaria Castelhanos)
 https://video02.logicahost.com.br/castelhanos/castelhanos/playlist.m3u8
 #EXTINF:-1, Ilhabela: Praia do Curral (Pousada Praia do Curral)
@@ -149,9 +153,9 @@ https://video02.logicahost.com.br/webtur/webtur/playlist.m3u8
 https://video02.logicahost.com.br/dedo/dedo/playlist.m3u8
 #EXTINF:-1, Ilhabela: Saco da Capela - Dedo de Moça - Rua
 https://video02.logicahost.com.br/dedo2/dedo2/playlist.m3u8
-#EXTINF:-1, Bertioga: Calçadão - sentido Balsa(Pizzaria Pirata)
+#EXTINF:-1, Bertioga: Calçadão - sentido Balsa (Pizzaria Pirata)
 https://video02.logicahost.com.br/pirata1/pirata1/playlist.m3u8
-#EXTINF:-1, Bertioga: Calçadão - sentido Forte(Pizzaria Pirata)
+#EXTINF:-1, Bertioga: Calçadão - sentido Forte (Pizzaria Pirata)
 https://video02.logicahost.com.br/camerasrtsp/bertpirataforte.stream/playlist.m3u8
 #EXTINF:-1, Bertioga: Itaguaré - Índia das Ostras
 https://video02.logicahost.com.br/india/india/playlist.m3u8
@@ -169,6 +173,8 @@ https://video02.logicahost.com.br/ber19forte/ber19forte/playlist.m3u8
 https://video02.logicahost.com.br/sesc19b/sesc19b/playlist.m3u8
 #EXTINF:-1, Bertioga: Avenida 19 de Maio - Pastel do Trevo
 https://video02.logicahost.com.br/trevo/trevo/playlist.m3u8
+#EXTINF:-1, Bertioga: Avenida 19 de Maio - CM Informática
+https://video02.logicahost.com.br/19demaio/19demaio/playlist.m3u8
 #EXTINF:-1, Bertioga: Canal de Bertioga - Quiosque da Dalva
 https://video02.logicahost.com.br/dalva/dalva/playlist.m3u8
 #EXTINF:-1, Bertioga: Rotatória - Anchieta x 19 de Maio
@@ -177,7 +183,9 @@ https://video01.logicahost.com.br/avenida/avenida/playlist.m3u8
 https://video02.logicahost.com.br/biona/biona/playlist.m3u8
 #EXTINF:-1, Bertioga: Rio Itapanhaú - Marina PierClub - Mar
 https://video02.logicahost.com.br/pier1/pier1/playlist.m3u8
-#EXTINF:-1, Bertioga: Indaiá - Jolly Roger
+#EXTINF:-1, Bertioga: Indaiá, sentido centro - Jolly Roger
+https://video02.logicahost.com.br/jolly2/jolly2/playlist.m3u8
+#EXTINF:-1, Bertioga: Indaiá, Cantão - Jolly Roger
 https://video02.logicahost.com.br/roger/roger/playlist.m3u8
 #EXTINF:-1, Bertioga: Condomínio Hanga Roa
 http://camerapraia.hangaroa.com.br:8126/mjpg/video.mjpg
@@ -335,4 +343,6 @@ https://ipservice.aovivonanet.com.br:4433/hls/taguai-entrada-santo/index.m3u8
 https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-lanchodromo/index.m3u8
 #EXTINF:-1, Ubatuba - Hotel São Charbel
 https://s112.ipcamlive.com/streams/70irebsqo5kgagvql/stream.m3u8
+#EXTINF:-1, Caraguatatuba - Prainha - Quiosque da Filó
+https://video02.logicahost.com.br/caragua1/caragua1/playlist.m3u8
 #EXTM3U

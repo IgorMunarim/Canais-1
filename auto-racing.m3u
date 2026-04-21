@@ -157,4 +157,10 @@ https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
 #EXTINF:-1, Red Bull TV Motorsport
 https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+#EXTINF:-1, SKY Sport F1 DE
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19022/index.m3u8
+#EXTINF:-1, SKY Sport MotoGP Itália
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19133/index.m3u8
+#EXTINF:-1, SKY Sport F1 UK
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/7342/index.m3u8
 #EXTM3U

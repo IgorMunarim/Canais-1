@@ -40,9 +40,9 @@ http://151.80.18.177:86/Eurosport_HD/mpegts
 #EXTINF:-1, Eurosport 2 (FR) (Alt)
 http://151.80.18.177:86/Eurosport_2_HD/mpegts
 #EXTINF:-1, Eurosport 1 Portugal
-http://s.rocketdns.info:8080/live/7312082/5738779/911.ts
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10680.m3u8
 #EXTINF:-1, Eurosport 2 Portugal
-http://s.rocketdns.info:8080/live/7312082/5738779/910.ts
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10681.m3u8
 #EXTINF:-1, Eurosport 1 🇪🇸
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.ts
 #EXTINF:-1, Eurosport 2 🇪🇸
@@ -55,4 +55,12 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/9247/index.m3u8
 #EXTINF:-1, Eurosport 2 International
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/234/index.m3u8
+#EXTINF:-1, Eurosport 1 DE
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10793.m3u8
+#EXTINF:-1, Eurosport 2 DE
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10794.m3u8
+#EXTINF:-1, Eurosport 1 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10543.m3u8
+#EXTINF:-1, Eurosport 2 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10544.m3u8
 #EXTM3U

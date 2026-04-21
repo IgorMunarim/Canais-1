@@ -51,4 +51,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
 #EXTINF:-1, Eurosport 2 🇪🇸
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
+#EXTINF:-1, Eurosport 1 International
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/9247/index.m3u8
+#EXTINF:-1, Eurosport 2 International
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/234/index.m3u8
 #EXTM3U

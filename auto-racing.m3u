@@ -167,4 +167,6 @@ http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/7342/index.m3u8
 https://hls-live-linear-fs.cdn01.net/bVZXTWhkelltWnpNeEVUTW1KR01qZGpaaUJUWmtSbVowQWpZbEJqWjRJVE15VVRONVlUWWxoSE1fMDgyMDMxNzc3MV9PQkVZR0lCR1FQV1M/LiveChannels/stream_44338/playlist.m3u8
 #EXTINF:-1, SKY Sport MotoGP Itália (Alt)
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTINF:-1, SKY Sport F1 Itália
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 #EXTM3U

@@ -15,6 +15,8 @@ https://s.rocketdns.info/live/superreal1/superreal1/5290.ts
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racer Brasil (LG)
 https://amg16379-sports7-amg16379c2-lg-br-9135.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Racer Brasil (Pluto TV)
+https://amg16379-amg16379c2-plutotv-us-2609.playouts.now.amagi.tv/sports7-plutosamsung/playlist.m3u8
 #EXTINF:-1, MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
 #EXTINF:-1, MTRSPT1 (Alt)

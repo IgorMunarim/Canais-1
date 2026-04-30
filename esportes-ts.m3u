@@ -13,10 +13,16 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/206.ts
 #EXTINF:-1, ACC Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/165.ts
+#EXTINF:-1, ESPN 1 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10538.ts
+#EXTINF:-1, ESPN 2 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10539.ts
+#EXTINF:-1, ESPN 3 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10540.ts
+#EXTINF:-1, ESPN 4 Netherlands
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10541.ts
 #EXTINF:-1, CBS Sports Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.ts
-#EXTINF:-1, CBS Sports Golazo Network
-http://s.rocketdns.info:8080/live/7312082/5738779/660925.ts
 #EXTINF:-1, Fox Sports 1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/353.ts
 #EXTINF:-1, Fox Sports 2
@@ -189,12 +195,16 @@ http://s.rocketdns.info:8080/live/7312082/5738779/842.ts
 http://s.rocketdns.info:8080/live/7312082/5738779/839.ts
 #EXTINF:-1, Sport TV +
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10682.ts
-#EXTINF:-1, StarZplay Sports 1
-http://s.rocketdns.info:8080/live/7312082/5738779/659445.ts
-#EXTINF:-1, StarZplay Sports 2
-http://s.rocketdns.info:8080/live/7312082/5738779/659446.ts
-#EXTINF:-1, StarZplay Sports 2 (Alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/659447.ts
+#EXTINF:-1, Ziggo Sport
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10532.ts
+#EXTINF:-1, Ziggo Sport 2
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10534.ts
+#EXTINF:-1, Ziggo Sport 4
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10533.ts
+#EXTINF:-1, Ziggo Sport 5
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10535.ts
+#EXTINF:-1, Ziggo Sport 6
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10536.ts
 #EXTINF:-1, DeporTV
 http://s.rocketdns.info:8080/live/7312082/5738779/2855.ts
 #EXTINF:-1, Fanduel Sports Network

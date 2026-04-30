@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Chespirito
-http://168.205.87.198:8555/live/1350/123456/306.m3u8
+#EXTINF:-1, Univision Miami
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.ts
 #EXTINF:-1, Univision Noticias (EUA)
 http://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8
 #EXTINF:-1, Univision 24/7
 http://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:-1, Univision Los Angeles
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/4469.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/155.ts
 #EXTINF:-1, Univision San Francisco
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/629098.ts
-#EXTINF:-1, Univision East
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3697.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.ts
+#EXTINF:-1, Chespirito
+http://168.205.87.198:8555/live/1350/123456/306.m3u8
 #EXTINF:-1, Telemundo (EUA)
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo Internacional
@@ -22,7 +22,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.ts
 #EXTINF:-1, Telemundo Phoenix
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.ts
 #EXTINF:-1, Telemundo Miami
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/50929.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.ts
 #EXTINF:-1, Telemundo Orlando
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.ts
 #EXTINF:-1, Telemundo San Diego
@@ -127,8 +127,6 @@ http://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
 #EXTINF:-1, Telefé (alt)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
-#EXTINF:-1, C5N
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/1605.ts
 #EXTINF:-1, A24
 http://g5.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8
 #EXTINF:-1, Canal 26

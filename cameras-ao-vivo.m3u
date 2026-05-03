@@ -345,4 +345,8 @@ https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-lanchodromo/index.m3u
 https://s112.ipcamlive.com/streams/70irebsqo5kgagvql/stream.m3u8
 #EXTINF:-1, Caraguatatuba - Prainha - Quiosque da Filó
 https://video02.logicahost.com.br/caragua1/caragua1/playlist.m3u8
+#EXTINF:-1, Caraguatatuba - Prainha - Japa Prainha
+https://video02.logicahost.com.br/japa/japa/playlist.m3u8
+#EXTINF:-1, Caraguatatuba - Tabatinga Francis Hotel Mar
+https://video02.logicahost.com.br/francis/francis/playlist.m3u8
 #EXTM3U

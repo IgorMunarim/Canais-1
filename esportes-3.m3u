@@ -131,10 +131,6 @@ http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
 http://m3u.tvcluboficial.com/free/oct/oct/1077.m3u8
 #EXTINF:-1, SKY Sports La Liga
 http://m3u.tvcluboficial.com/free/oct/oct/1079.m3u8
-#EXTINF:-1, SKY Sports Spain
-http://www.1play.cool:25461/6614314274/af6b784fa1d0/249990
-#EXTINF:-1, SKY Sports 1 Spain
-http://www.1play.cool:25461/6614314274/af6b784fa1d0/249991
-#EXTINF:-1, SKY Sports 2 Spain
-http://www.1play.cool:25461/6614314274/af6b784fa1d0/249992
+#EXTINF:-1, SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTM3U

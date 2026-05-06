@@ -349,4 +349,6 @@ https://video02.logicahost.com.br/caragua1/caragua1/playlist.m3u8
 https://video02.logicahost.com.br/japa/japa/playlist.m3u8
 #EXTINF:-1, Caraguatatuba - Tabatinga Francis Hotel Mar
 https://video02.logicahost.com.br/francis/francis/playlist.m3u8
+#EXTINF:-1, Aparecida de Goiânia - Avenida Rio Verde
+https://delaysp01.logicahost.com.br:5443/ledmidia/streams/painelavenidaverde.m3u8
 #EXTM3U

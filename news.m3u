@@ -109,4 +109,6 @@ http://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlis
 https://video21.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1, Canal UOL (Alt)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
+#EXTINF:-1, Metropoles
+https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/playlist.m3u8
 #EXTM3U

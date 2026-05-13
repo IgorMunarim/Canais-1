@@ -7,10 +7,6 @@ https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/m
 http://23.237.104.106:8080/USA_MAV_TV/playlist.m3u8
 #EXTINF:-1, Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, Racer 2
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/5290.ts
-#EXTINF:-1, Racer 2 (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/5290.ts
 #EXTINF:-1, Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racer Brasil (LG)
@@ -23,14 +19,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playl
 https://amg02873-amg02873c1-kravemedia-us-3714.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racing America
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
-#EXTINF:-1, FOX Sports Racing
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3053.ts
-#EXTINF:-1, FOX Sports Racing (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/3053.ts
-#EXTINF:-1, REV TV
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/702667.ts
-#EXTINF:-1, REV TV (alt)
-https://s.rocketdns.info/live/superreal1/superreal1/702667.ts
 #EXTINF:-1, Acelerados
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15884&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8
 #EXTINF:-1, Acelerados (alt)
@@ -39,14 +27,6 @@ https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 https://eb9a3a62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1, Power Nation
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
-#EXTINF:-1, MotorTrend
-https://3fa797d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yVHJlbmRGYXN0VFZfSExT/playlist.m3u8
-#EXTINF:-1, MotorTrend (alt)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d.m3u8
-#EXTINF:-1, MotorTrend (alt)
-http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1, MotorTrend Itália
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1, Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1, MotorRacing (2)
@@ -54,8 +34,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1, MotorRacing (3)
 https://streams2.sofast.tv/ptnr-yupptv/title-motorracing_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/playlist.m3u8
 #EXTINF:-1, MotorRacing
-https://dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8
-#EXTINF:-1, MotorRacing (Free Live Sports)
 https://amg00585-amg00585c17-freelivesports-emea-6712.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-motorracing-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, MotorRacing France
 https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-50l4tj8p1zx6l/moto.m3u8
@@ -167,4 +145,6 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/playlist.m3u8
 #EXTINF:-1, SKY Sport F1 Itália
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#EXTINF:-1, Test my Ride
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/c8b57edd-6cd6-4d0d-849f-babc59168165/2.m3u8
 #EXTM3U

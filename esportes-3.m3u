@@ -3,32 +3,8 @@
 http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 #EXTINF:-1, RMC 1
 http://145.239.5.177/525/mpegts
-#EXTINF:-1, L'Equipe 
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
-#EXTINF:-1, L'Equipe (HLS)
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1, L'Equipe (Alt)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1, L'Equipe Live 1
-https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
-#EXTINF:-1, L'Equipe Live 2
-https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
-#EXTINF:-1, L'Equipe Live 1 (alt)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
-#EXTINF:-1, L'Equipe Live 2 (alt)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
-#EXTINF:-1, L'Equipe Live 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
-#EXTINF:-1, L'Equipe Live 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
-#EXTINF:-1, L'Equipe Live 5
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
-#EXTINF:-1, L'Equipe Live 6
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
-#EXTINF:-1, L'Equipe Live 7
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
-#EXTINF:-1, L'Equipe Live 8
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
 #EXTINF:-1, Art Sport 1 HD
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1, Art Sport 2 HD

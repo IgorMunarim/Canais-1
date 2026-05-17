@@ -38,7 +38,7 @@ https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1, BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1, BBC 2
-https://netplus.zappr.stream/raisport1.m3u8/bbc2.m3u8
+https://netplus.zappr.stream/bbc2.m3u8
 #EXTINF:-1, Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1, Reuters

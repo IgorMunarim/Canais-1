@@ -95,8 +95,6 @@ https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=2801&
 https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Nascar (Freelivesports)
 https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, Velocidad
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus.m3u8
 #EXTINF:-1, Motor Sur Media
 https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
 #EXTINF:-1, BBC Top Gear
@@ -143,12 +141,10 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/playlist.m3u8
 #EXTINF:-1, SKY Sport F1 Itália
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-#EXTINF:-1, Test my Ride
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/c8b57edd-6cd6-4d0d-849f-babc59168165/2.m3u8
 #EXTINF:-1, Auto Plus (Rússia)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport
 https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
-#EXTINF:-1, F! Channel
+#EXTINF:-1, F1 Channel
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTM3U

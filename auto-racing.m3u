@@ -149,4 +149,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport
 https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
+#EXTINF:-1, F! Channel
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTM3U

@@ -105,4 +105,16 @@ http://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_A
 http://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1, Sanuário Nacional de Aparecida
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/playlist.m3u8
+#EXTINF:-1, TV Tropicana
+https://srv.tvtropicana.com.br/hls/master.m3u8
+#EXTINF:-1, Web TV Nossa Senhora de Fátima
+https://video07.logicahost.com.br/nsfatima/nsfatima/playlist.m3u8
+#EXTINF:-1, Santuário da Terra Santa Basílica Superior da Anunciação
+https://streamer.clickadia.ps/nz_upper_basilica/index.m3u8
+#EXTINF:-1, Santuário da Terra Santa Gruta da Anunciação
+https://streamer.clickadia.ps/nz_grotto/index.m3u8
+#EXTINF:-1, Santuário da Terra Santa Igreja de São José
+https://streamer.clickadia.ps/nz_saint_joseph/index.m3u8
+#EXTINF:-1, Santuário da Terra Santa Igreja de Santa Catarina
+https://streamer.cmc-terrasanta.org/saint_catherine/index.m3u8
 #EXTM3U

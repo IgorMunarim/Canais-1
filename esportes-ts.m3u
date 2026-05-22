@@ -73,60 +73,10 @@ http://s.rocketdns.info:8080/live/7312082/5738779/3142.ts
 http://s.rocketdns.info:8080/live/7312082/5738779/59870.ts
 #EXTINF:-1, TVA Sports 2
 http://s.rocketdns.info:8080/live/7312082/5738779/59869.ts
-#EXTINF:-1, BEIN SPORTS ñ
-http://s.rocketdns.info:8080/live/7312082/5738779/3613.ts
 #EXTINF:-1, BEIN SPORTS
-http://s.rocketdns.info:8080/live/7312082/5738779/3612.ts
-#EXTINF:-1, BEIN SPORTS Global
-http://s.rocketdns.info:8080/live/7312082/5738779/659426.ts
-#EXTINF:-1, BEIN SPORTS 1 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/714411.ts
-#EXTINF:-1, BEIN SPORTS 1 Britsh
-http://s.rocketdns.info:8080/live/7312082/5738779/659436.ts
-#EXTINF:-1, BEIN SPORTS 2 Britsh
-http://s.rocketdns.info:8080/live/7312082/5738779/659437.ts
-#EXTINF:-1, BEIN SPORTS 3 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659429.ts
-#EXTINF:-1, BEIN SPORTS 4 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659430.ts
-#EXTINF:-1, BEIN SPORTS 5 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659431.ts
-#EXTINF:-1, BEIN SPORTS 6 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659432.ts
-#EXTINF:-1, BEIN SPORTS 7 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659433.ts
-#EXTINF:-1, BEIN SPORTS 8 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659434.ts
-#EXTINF:-1, BEIN SPORTS 9 Qatar
-http://s.rocketdns.info:8080/live/7312082/5738779/659435.ts
-#EXTINF:-1, BEIN SPORTS 1 France
-http://s.rocketdns.info:8080/live/7312082/5738779/659439.ts
-#EXTINF:-1, BEIN SPORTS 2 France
-http://s.rocketdns.info:8080/live/7312082/5738779/659440.ts
-#EXTINF:-1, BEIN SPORTS 3 France
-http://s.rocketdns.info:8080/live/7312082/5738779/659441.ts
-#EXTINF:-1, BEIN SPORTS 3
-http://s.rocketdns.info:8080/live/7312082/5738779/5308.ts
-#EXTINF:-1, BEIN SPORTS 4
-http://s.rocketdns.info:8080/live/7312082/5738779/5313.ts
-#EXTINF:-1, BEIN SPORTS 5
-http://s.rocketdns.info:8080/live/7312082/5738779/5312.ts
-#EXTINF:-1, BEIN SPORTS 6
-http://s.rocketdns.info:8080/live/7312082/5738779/5311.ts
-#EXTINF:-1, BEIN SPORTS 7
-http://s.rocketdns.info:8080/live/7312082/5738779/5310.ts
-#EXTINF:-1, BEIN SPORTS 8
-http://s.rocketdns.info:8080/live/7312082/5738779/5309.ts
-#EXTINF:-1, BEIN SPORTS Xtra 1
-http://s.rocketdns.info:8080/live/7312082/5738779/659442.ts
-#EXTINF:-1, BEIN SPORTS Xtra 2
-http://s.rocketdns.info:8080/live/7312082/5738779/659443.ts
-#EXTINF:-1, BEIN SPORTS Xtra 3
-http://s.rocketdns.info:8080/live/7312082/5738779/659444.ts
-#EXTINF:-1, BEIN SPORTS Canadá
-http://s.rocketdns.info:8080/live/7312082/5738779/88062.ts
-#EXTINF:-1, BEIN SPORTS Canadá (Alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/3153.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/333.ts
+#EXTINF:-1, BEIN SPORTS ñ
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 #EXTINF:-1, SKY SPORTS Mix
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15553.ts
 #EXTINF:-1, SKY SPORTS Premier League
@@ -161,8 +111,6 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/348.ts
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/349.ts
 #EXTINF:-1, TNT Sports 4 UK
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/350.ts
-#EXTINF:-1, RMS Sport 1
-http://s.rocketdns.info:8080/live/7312082/5738779/599595.ts
 #EXTINF:-1, TUDN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
 #EXTINF:-1, TUDN 2

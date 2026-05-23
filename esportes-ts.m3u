@@ -29,6 +29,12 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/353.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/354.ts
 #EXTINF:-1, FOX Deportes
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.ts
+#EXTINF:-1, Fox Sports 1 Latin
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.ts
+#EXTINF:-1, Fox Sports 2 Latin
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
+#EXTINF:-1, Fox Sports 3 Latin
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
 #EXTINF:-1, FOX Soccer Plus
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3414.ts
 #EXTINF:-1, Big Ten Network
@@ -43,40 +49,36 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/405.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/406.ts
 #EXTINF:-1, NBC Sports Philadelphia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/407.ts
-#EXTINF:-1, Spectrum Sportsnet Lakers
-http://s.rocketdns.info:8080/live/7312082/5738779/74684.ts
-#EXTINF:-1, Sportsnet New York
-http://s.rocketdns.info:8080/live/7312082/5738779/2413.ts
-#EXTINF:-1, Sportsnet (East)
-http://s.rocketdns.info:8080/live/7312082/5738779/3072.ts
+#EXTINF:-1, SportsNet Southwest HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/330.ts
+#EXTINF:-1, Spectrum Sportsnet
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/414.ts
+#EXTINF:-1, Spectrum Sportsnet LA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/415.ts
 #EXTINF:-1, Sportsnet 360
-http://s.rocketdns.info:8080/live/7312082/5738779/3073.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/528.ts
 #EXTINF:-1, Sportsnet One
-http://s.rocketdns.info:8080/live/7312082/5738779/3071.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/531.ts
 #EXTINF:-1, Sportsnet Ontario
-http://s.rocketdns.info:8080/live/7312082/5738779/3070.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/540.ts
 #EXTINF:-1, Sportsnet Pacific
-http://s.rocketdns.info:8080/live/7312082/5738779/3069.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/536.ts
 #EXTINF:-1, Sportsnet West
-http://s.rocketdns.info:8080/live/7312082/5738779/3068.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/535.ts
+#EXTINF:-1, Sportsnet World
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.ts
 #EXTINF:-1, TSN 1
-http://s.rocketdns.info:8080/live/7312082/5738779/3146.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/420.ts
 #EXTINF:-1, TSN 2
-http://s.rocketdns.info:8080/live/7312082/5738779/3145.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/421.ts
 #EXTINF:-1, TSN 3
-http://s.rocketdns.info:8080/live/7312082/5738779/3144.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/422.ts
 #EXTINF:-1, TSN 4
-http://s.rocketdns.info:8080/live/7312082/5738779/3143.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/423.ts
 #EXTINF:-1, TSN 5
-http://s.rocketdns.info:8080/live/7312082/5738779/3142.ts
-#EXTINF:-1, RDS
-http://s.rocketdns.info:8080/live/7312082/5738779/59870.ts
-#EXTINF:-1, TVA Sports 2
-http://s.rocketdns.info:8080/live/7312082/5738779/59869.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/424.ts
 #EXTINF:-1, BEIN SPORTS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/333.ts
-#EXTINF:-1, BEIN SPORTS ñ
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 #EXTINF:-1, SKY SPORTS Mix
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15553.ts
 #EXTINF:-1, SKY SPORTS Premier League
@@ -85,8 +87,6 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15546.ts
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15555.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15545.ts
-#EXTINF:-1, SKY SPORTS MAIN EVENT (alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/2185.ts
 #EXTINF:-1, SKY SPORTS Golf
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15548.ts
 #EXTINF:-1, SKY SPORTS Football
@@ -102,7 +102,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15552.ts
 #EXTINF:-1, SKY SPORTS Cricket
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15549.ts
 #EXTINF:-1, TYC Sports
-http://s.rocketdns.info:8080/live/7312082/5738779/4445.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.ts
 #EXTINF:-1, TNT Sports 1 UK
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/347.ts
 #EXTINF:-1, TNT Sports 2 UK
@@ -115,8 +115,6 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/350.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
 #EXTINF:-1, TUDN 2
 http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
-#EXTINF:-1, TUDN 2 (Alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/21825.ts
 #EXTINF:-1, DAZN 1 Portugal
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10703.ts
 #EXTINF:-1, DAZN 2 Portugal
@@ -149,10 +147,8 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10533.ts
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10535.ts
 #EXTINF:-1, Ziggo Sport 6
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10536.ts
-#EXTINF:-1, DeporTV
-http://s.rocketdns.info:8080/live/7312082/5738779/2855.ts
-#EXTINF:-1, Fanduel Sports Network
-http://s.rocketdns.info:8080/live/7312082/5738779/2508.ts
 #EXTINF:-1, Tennis Channel
-http://s.rocketdns.info:8080/live/7312082/5738779/2386.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/418.ts
+#EXTINF:-1, Tennis Channel 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/419.ts
 #EXTM3U

@@ -49,12 +49,6 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1, BEIN SPORTS 5 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1, BEIN SPORTS France 
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2499/index.m3u8
-#EXTINF:-1, BEIN SPORTS 2 France
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2500/index.m3u8
-#EXTINF:-1, BEIN SPORTS 3 France 
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/74048.m3u8
 #EXTINF:-1, TNT Sports Premium
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:-1, TNT Sports Premium (Alt)
@@ -81,18 +75,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6158.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6159.ts
 #EXTINF:-1, NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, TSN1
-https://stream.decentdoubts.net/805/index.m3u8
-#EXTINF:-1, TSN2
-https://stream.decentdoubts.net/806/index.m3u8
-#EXTINF:-1, TSN3
-https://stream.decentdoubts.net/807/index.m3u8
-#EXTINF:-1, TSN4
-https://stream.decentdoubts.net/808/index.m3u8
-#EXTINF:-1, TSN5
-https://stream.decentdoubts.net/809/index.m3u8
 #EXTINF:-1, TYC Sports
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
 #EXTINF:-1, TYC Sports (Alt)
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1, TYC Sports FAN

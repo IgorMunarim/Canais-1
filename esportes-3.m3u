@@ -61,4 +61,6 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19065/playlist.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19066/playlist.m3u8
 #EXTINF:-1, Sports Illustrated TV
 https://c5879d53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1NJVFZfSExT/playlist.m3u8
+#EXTINF:-1, FTF Sports
+https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/8329aed306e64823a3faaf0cb313f25c/live_720.m3u8
 #EXTM3U

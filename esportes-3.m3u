@@ -5,84 +5,20 @@ http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 http://145.239.5.177/525/mpegts
 #EXTINF:-1, L'Equipe (Alt)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1, Art Sport 1 HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1, Art Sport 2 HD
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1, Art Sport 3 HD
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1, Art Sport 4 HD
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1, Art Sport 5 HD
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1, Art Sport 6 HD
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1, FOX 🇲🇽 
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
-#EXTINF:-1, SportsNet 360
-https://stream.decentdoubts.net/803/index.m3u8
-#EXTINF:-1, SportsNet +
-https://stream.decentdoubts.net/804/index.m3u8
-#EXTINF:-1, SportsNet Ontário
-https://stream.decentdoubts.net/801/index.m3u8
-#EXTINF:-1, SportsNet 
-https://stream.decentdoubts.net/800/index.m3u8
-#EXTINF:-1, SportsNet West
-https://stream.decentdoubts.net/705/index.m3u8
-#EXTINF:-1, SportsNet World
-https://stream.decentdoubts.net/802/index.m3u8
-#EXTINF:-1, SportsNet 
-https://stream.decentdoubts.net/800/index.m3u8
 #EXTINF:-1, Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
-#EXTINF:-1, SPORTS
-http://145.239.5.177/518/mpegts
 #EXTINF:-1, RUS SPORTS
 http://185.57.68.33/110/mpegts
 #EXTINF:-1, Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis +
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1, beIN Sports 1
-https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1, beIN Sports 2
-https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-#EXTINF:-1, beIN Sports 3
-https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1, SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1, FOX Deportes in Pluto
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
-#EXTINF:-1, TNT Sports Latin
-http://104.250.145.6/livehttpplay?channel_id=16544.ts
-#EXTINF:-1, TNT Sports Latin (alt)
-http://104.250.145.6/livehttpplay?channel_id=16542.ts
-#EXTINF:-1, TNT Sports Latin (alt2)
-http://104.250.128.34/livehttpplay?channel_id=23540.ts
-#EXTINF:-1, TNT Sports Premium Latin
-http://104.250.145.6/livehttpplay?channel_id=16541.ts
-#EXTINF:-1, TNT Sports Premium Latin (alt)
-http://104.250.145.6/livehttpplay?channel_id=16512.ts
-#EXTINF:-1, TNT Sports Premium Latin (alt2)
-http://104.250.128.34/livehttpplay?channel_id=23558.ts
-#EXTINF:-1, TNT Sports Premium Latin (alt3)
-http://104.250.128.34/livehttpplay?channel_id=23702.ts
-#EXTINF:-1, FOX +
-http://104.250.145.6/livehttpplay?channel_id=16515.ts
-#EXTINF:-1, DIRECTV SPORTS HD COLOMBIA
-http://www.1play.cool:25461/6614314274/af6b784fa1d0/75569
-#EXTINF:-1, DIRECTV SPORTS2 HD COLOMBIA
-http://104.250.128.34/livehttpplay?channel_id=23538.ts
-#EXTINF:-1, DIRECTV SPORTS+ HD COLOMBIA
-http://104.250.128.34/livehttpplay?channel_id=23539.ts
-#EXTINF:-1, ESPN Premium
-http://104.250.128.34/livehttpplay?channel_id=23559.ts
-#EXTINF:-1, ESPN Premium (Alt)
-http://104.250.128.34/livehttpplay?channel_id=23700.ts
-#EXTINF:-1, ESPN 2
-http://104.250.128.34/livehttpplay?channel_id=23560.ts
-#EXTINF:-1, FOX Sports 2
-http://104.250.128.34/livehttpplay?channel_id=23701.ts
-#EXTINF:-1, FOX Sports 3
-http://104.250.128.34/livehttpplay?channel_id=23703.ts
 #EXTINF:-1, Claro Sports Mexico
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1, Claro Sports Chile
@@ -100,17 +36,27 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/377.ts
 #EXTINF:-1, CDO Chile
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/568.ts
 #EXTINF:-1, DSPORTS +
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.m3u8
 #EXTINF:-1, DSPORTS 2
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.m3u8
 #EXTINF:-1, DSPORTS 
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592047.ts
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592047.m3u8
 #EXTINF:-1, DSPORTS (alt)
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592036.ts
-#EXTINF:-1, SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592036.m3u8
 #EXTINF:-1, TUDN
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592016.ts
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592016.m3u8
 #EXTINF:-1, TUDN USA
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592018.ts
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592018.m3u8
+#EXTINF:-1, Bein Sports 1 France
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/playlist.m3u8
+#EXTINF:-1, Bein Sports 2 France
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/playlist.m3u8
+#EXTINF:-1, Bein Sports 3 France
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2501/playlist.m3u8
+#EXTINF:-1, Bein Sports Haber
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19064/playlist.m3u8
+#EXTINF:-1, Bein Sports Max 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19065/playlist.m3u8
+#EXTINF:-1, Bein Sports Max 2
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19066/playlist.m3u8
 #EXTM3U

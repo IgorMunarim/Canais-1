@@ -125,6 +125,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
 #EXTINF:-1, DAZN Football (FAST)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
+#EXTINF:-1, DAZN Football (Tubi)
+https://apollo-eks.production-public.tubi.io/live/dazn-tv-wqYXfM.m3u8
 #EXTINF:-1, Red Bull TV
 https://freqsyndlin.redbull.com/582/hls/master/playlist.m3u8
 #EXTINF:-1, Red Bull TV Brasil

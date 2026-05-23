@@ -49,6 +49,8 @@ https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1, Motorvision (DE)
 https://d3hjdf2xlb1h3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4sjzb0mx3fvqe/mv_de.m3u8
+#EXTINF:-1, Motorvision (DE) 2
+https://mvg-mv-de-wedotv.otteravision.com/mvg/mv_de/mv_de.m3u8
 #EXTINF:-1, AutoMoto (Itália)
 https://d2d70kuzq4qhmm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/Automoto_IT.m3u8
 #EXTINF:-1, ACI Sport
@@ -65,6 +67,8 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Auto Motor Sport
 https://jmp2.uk/stvp-ATAJ0500458A
+#EXTINF:-1, Auto Motor Sport (Alt)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ef53793-35a6-4b0b-b5c8-ae98af6dac72/0.m3u8
 #EXTINF:-1, RPM SportsTribal
 https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
 #EXTINF:-1, Flo Racing

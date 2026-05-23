@@ -45,6 +45,8 @@ https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1, Motorvision 4
 https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
+#EXTINF:-1, Motorvision 5
+https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1, Motorvision (DE)
 https://d3hjdf2xlb1h3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4sjzb0mx3fvqe/mv_de.m3u8
 #EXTINF:-1, AutoMoto (Itália)

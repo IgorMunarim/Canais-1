@@ -169,6 +169,12 @@ https://video11.logicahost.com.br/theledextrema/theledextrema/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8
 #EXTINF:-1, Rede Gazeta News
 https://virtues.live:1936/gztnews/gztnews/playlist.m3u8
+#EXTINF:-1, Rede Gazeta Alagoas
+https://virtues.live:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1, Rádio Gazeta Classic
+https://a.cdni.live/gztclassic/gztclassic/playlist.m3u8
 #EXTINF:-1, TV Costa Verde
 https://ikki.hubcloud.tv.br/TVcostaverde/index.m3u8
+#EXTINF:-1, RWTV Alto Vale
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
 #EXTM3U

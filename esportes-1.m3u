@@ -153,6 +153,8 @@ https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1, Desimpedidos
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1, NSports
+https://cdn-5.nxplay.com.br/NSPORTS/playlist.m3u8
 #EXTINF:-1, NSports FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1, ITV Deportes

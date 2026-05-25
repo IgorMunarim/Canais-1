@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Bein Sports Xtra (English)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (Espanhol)
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (México)
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/348.m3u8
 #EXTINF:-1, ESPN 2 
@@ -79,12 +85,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/424.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1, RDS
 http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/59870.m3u8
-#EXTINF:-1, Bein Sports Xtra (English)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1, Bein Sports Xtra (Espanhol)
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1, Bein Sports Xtra (México)
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1, RTSH Sport
@@ -197,6 +197,8 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1, National Sports Channel
 https://77cdn-global.phiztv.com/live/7bd5d3ed-f6ee-4eff-a1d4-ab2c8ae04958/playlist.m3u8
+#EXTINF:-1, National Sports Channel (Só Play)
+https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/playlist.m3u8
 #EXTINF:-1, FIFA +
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 #EXTINF:-1, Ekol Sports

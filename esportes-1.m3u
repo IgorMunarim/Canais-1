@@ -18,7 +18,7 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1, ESPN DEPORTES
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
 #EXTINF:-1, ACC Network
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/165.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/165.m3u8
 #EXTINF:-1, SEC Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/206.m3u8
 #EXTINF:-1, CBS Sports Network
@@ -55,22 +55,24 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/405.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/406.m3u8
 #EXTINF:-1, NBC Sports Philadelphia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/407.m3u8
-#EXTINF:-1, Spectrum Sportsnet Lakers
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/74684.m3u8
-#EXTINF:-1, Sportsnet New York
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2413.m3u8
-#EXTINF:-1, Sportsnet (East)
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3072.m3u8
+#EXTINF:-1, SportsNet Southwest HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/330.m3u8
+#EXTINF:-1, Spectrum Sportsnet
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/414.m3u8
+#EXTINF:-1, Spectrum Sportsnet LA
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/415.m3u8
 #EXTINF:-1, Sportsnet 360
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3073.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/528.m3u8
 #EXTINF:-1, Sportsnet One
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3071.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/531.m3u8
 #EXTINF:-1, Sportsnet Ontario
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3070.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/540.m3u8
 #EXTINF:-1, Sportsnet Pacific
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3069.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/536.m3u8
 #EXTINF:-1, Sportsnet West
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/3068.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/535.m3u8
+#EXTINF:-1, Sportsnet World
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.m3u8
 #EXTINF:-1, TSN 1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/420.m3u8
 #EXTINF:-1, TSN 2
@@ -83,8 +85,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/423.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/424.m3u8
 #EXTINF:-1, TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1, RDS
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/59870.m3u8
 #EXTINF:-1, RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1, RTSH Sport
@@ -211,23 +211,9 @@ http://151.80.18.177:86/Canal+_sport_HD/playlist.m3u8
 http://151.80.18.177:86/Canal+_sport_HD/mpegts
 #EXTINF:-1, SportDigital (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
-#EXTINF:-1, DFB TV
-https://d1370ldlavrmz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvtagc9ylqpl9/dfbtv.m3u8
-#EXTINF:-1, ArenaSport 1
-http://195.26.87.150/ArenaSport1/index.m3u8
-#EXTINF:-1, ArenaSport 2
-http://195.26.87.150/ArenaSport2/index.m3u8
-#EXTINF:-1, Sport 1
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-#EXTINF:-1, NovaSport 1
-http://195.26.87.150/NovaSport1/index.m3u8
-#EXTINF:-1, NovaSport 2
-http://195.26.87.150/NovaSport2/index.m3u8
 #EXTINF:-1, Red Bull (1)
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
-#EXTINF:-1, Red Bull (2)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1, Red Bull (3)
+#EXTINF:-1, Red Bull (2)
 https://hplay.tv/augetv/12396547488/171.m3u8
 #EXTINF:-1, Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8

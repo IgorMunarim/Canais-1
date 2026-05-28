@@ -97,8 +97,6 @@ https://tvcidadelivre.com.br/live/livestream.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/canaltvrio/playlist/playlist.m3u8
 #EXTINF:-1, TV Portal Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1, TV Cidade Rio de Janeiro
-https://stream.ichibansys.com:3809/hybrid/play.m3u8
 #EXTINF:-1, TV Capital Fortaleza
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 #EXTINF:-1, TV Tropical (Record RN)
@@ -114,7 +112,7 @@ https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1, TV Ponta da Serra
 https://playout.hubcloud.tv.br:3977/hybrid/play.m3u8
 #EXTINF:-1, 40gtv
-https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1, CBTV Play
 https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
 #EXTINF:-1, Diário TV Teresópolis

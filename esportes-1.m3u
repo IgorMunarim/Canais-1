@@ -93,8 +93,6 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 https://srv1.adriatelekom.com/RaiSport/playlist.m3u8
 #EXTINF:-1, RAI Sport (Alt)
 http://79.127.207.193/RaiSport/playlist.m3u8
-#EXTINF:-1, Lega Calcio Série A
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 #EXTINF:-1, SportItalia SoloCalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio (Samsung)

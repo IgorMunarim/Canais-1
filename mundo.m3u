@@ -181,4 +181,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/261.m3u8
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1, Arirang TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1, Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTM3U

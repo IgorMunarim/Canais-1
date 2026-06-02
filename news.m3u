@@ -75,4 +75,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fa
 https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1, BandNews FM
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
+#EXTINF:-1, ABN News Pakistan
+https://video.abnnews.pk/abn/live/playlist.m3u8
 #EXTM3U

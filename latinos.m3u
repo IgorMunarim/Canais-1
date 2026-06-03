@@ -99,10 +99,14 @@ http://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 http://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 #EXTINF:-1, Estrella TV
 http://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1, Estrella TV (alt)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1, Estrella News
 http://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1, Estrella News (alt)
+https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1, Estrella Games
-http://aegis-cloudfront-1.tubi.video/02ac4b2e-84e9-4d37-8a09-1a0615032f6a/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1, RCN Más
 http://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, RCN Más 2

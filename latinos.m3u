@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Univision Noticias (EUA)
+#EXTINF:-1, Univision Noticias
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1, Univision Ahora
+https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
 #EXTINF:-1, Univision Miami
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.m3u8
 #EXTINF:-1, Univision 24/7

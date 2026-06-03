@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Univision Miami
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.ts
 #EXTINF:-1, Univision Noticias (EUA)
-http://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1, Univision Miami
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.m3u8
 #EXTINF:-1, Univision 24/7
 http://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:-1, Univision Los Angeles
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/155.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/155.m3u8
 #EXTINF:-1, Univision San Francisco
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.m3u8
 #EXTINF:-1, Chespirito
 http://168.205.87.198:8555/live/1350/123456/306.m3u8
 #EXTINF:-1, Telemundo (EUA)
@@ -16,17 +16,17 @@ http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1, Telemundo Internacional
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
 #EXTINF:-1, Telemundo Philadelphia
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/143.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/143.m3u8
 #EXTINF:-1, Telemundo 44 Chicago IL
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.m3u8
 #EXTINF:-1, Telemundo Phoenix
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.m3u8
 #EXTINF:-1, Telemundo Miami
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
 #EXTINF:-1, Telemundo Orlando
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.m3u8
 #EXTINF:-1, Telemundo San Diego
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/70.ts
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/70.m3u8
 #EXTINF:-1, Telemundo California
 http://d368vp0qqzvkid.cloudfront.net/11603/88889714/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F143.0.0.0%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=680&ads._fw_player_width=1208&ads._fw_site_page=http%253A%252F%252Fwww.telemundo52.com%252Fver%252F&ads._fw_us_privacy=1---&ads.afid=396656689&ads.caid=TelemundoNoticiasCA&ads.channelName=TelemundoNoticiasCA&ads.csid=tm_ots_alldevice_allos_web_kvea_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQVAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475397&ads.vcid=undefined&ads.vip=179.99.22.186&ads.xumo_channelId=88889714a&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifaType=&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88889714&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD.m3u8
 #EXTINF:-1, NBCU Telemundo Florida

@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Bein Sports Xtra (English)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (English) Tubi
+https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-VRe7uC.m3u8
 #EXTINF:-1, Bein Sports Xtra (Espanhol)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (Espanhol) Tubi
+https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-espanol-3SI78m.m3u8
 #EXTINF:-1, Bein Sports Xtra (México)
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN

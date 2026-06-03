@@ -39,6 +39,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/353.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/354.m3u8
 #EXTINF:-1, FOX Soccer Plus
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3414.m3u8
+#EXTINF:-1, FOX Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/playlist.m3u8
 #EXTINF:-1, Big Ten Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/168.m3u8
 #EXTINF:-1, NBC Sports

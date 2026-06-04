@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Servus TV Sport
-http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 #EXTINF:-1, RMC 1
 http://145.239.5.177/525/mpegts
+#EXTINF:-1, Servus TV Sport
+http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 #EXTINF:-1, L'Equipe (Alt)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1, FOX 🇲🇽 
@@ -99,4 +99,12 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/playlist.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/playlist.m3u8
 #EXTINF:-1, Sport TV 5
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/playlist.m3u8
+#EXTINF:-1, ESPN
+http://193.239.186.231/ESPN/index.m3u8
+#EXTINF:-1, ESPN 2
+http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:-1, ESPN 3
+http://193.239.186.231/ESPN3/index.m3u8
+#EXTINF:-1, ESPN 4
+http://193.239.186.231/ESPN4/index.m3u8
 #EXTM3U

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Servus TV
+https://freqsyndlin.servustv.com/771_playlist_1.m3u8
+#EXTINF:-1, Servus TV Wetter Panorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 #EXTINF:-1, RAI 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1, RAI 1 (alt)

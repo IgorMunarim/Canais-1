@@ -98,7 +98,7 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1, RAI Sport
 https://srv1.adriatelekom.com/RaiSport/playlist.m3u8
 #EXTINF:-1, RAI Sport (Alt)
-http://79.127.207.193/RaiSport/playlist.m3u8
+http://169.150.223.25/RaiSport/index.m3u8
 #EXTINF:-1, SportItalia SoloCalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio (Samsung)

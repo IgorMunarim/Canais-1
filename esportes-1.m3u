@@ -197,6 +197,8 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, GE Fast (2)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1, GE Fast (LG)
+https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, National Sports Channel
 https://77cdn-global.phiztv.com/live/7bd5d3ed-f6ee-4eff-a1d4-ab2c8ae04958/playlist.m3u8
 #EXTINF:-1, National Sports Channel (Só Play)

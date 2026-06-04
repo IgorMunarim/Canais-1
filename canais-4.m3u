@@ -175,4 +175,6 @@ https://ikki.hubcloud.tv.br/TVcostaverde/index.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
 #EXTINF:-1, Nova TVI Petrópolis
 https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
+#EXTINF:-1, Nova TV Vale
+https://novatvvale.nuvemplay.live/hls/stream.m3u8
 #EXTM3U

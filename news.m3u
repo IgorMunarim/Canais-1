@@ -77,4 +77,6 @@ https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/playlist.m3u8
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
 #EXTINF:-1, ABN News Pakistan
 https://video.abnnews.pk/abn/live/playlist.m3u8
+#EXTINF:-1, TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTM3U

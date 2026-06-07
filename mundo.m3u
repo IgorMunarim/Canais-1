@@ -110,9 +110,9 @@ https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1, Das Erste (alt)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1, RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1, RTL Zwei
-https://netplus.zappr.stream/rtl2.m3u8
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1, ZDF
 https://netplus.zappr.stream/zdfhd.m3u8
 #EXTINF:-1, ORF 1

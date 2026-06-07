@@ -149,4 +149,6 @@ http://93.184.10.248/JordanSport/index.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1, KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1, Sports On
+https://play.redbull.com/streams/v1/stv/sports_de/fmp4/master.m3u8
 #EXTM3U

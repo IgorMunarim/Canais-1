@@ -21,8 +21,8 @@ https://amg02873-amg02873c1-kravemedia-us-3714.playouts.now.amagi.tv/playlist.m3
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1, GPTV (LG TV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
-#EXTINF:-1, GPTV (Só Play)
-https://origin-fast.b-cdn.net/GPTV/playlist.m3u8
+#EXTINF:-1, GPTV (Nx Play)
+https://ogc-gptv-soplay.otteravision.com/ogc/gptv/gptv.m3u8
 #EXTINF:-1, Acelerados
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15884
 #EXTINF:-1, Acelerados (alt)

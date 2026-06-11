@@ -161,6 +161,10 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 https://cdn-5.nxplay.com.br/NSPORTS/playlist.m3u8
 #EXTINF:-1, NSports FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1, Canal GOAT
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+#EXTINF:-1, Canal GOAT (MovieArk)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
 #EXTINF:-1, ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1, Belarus-5

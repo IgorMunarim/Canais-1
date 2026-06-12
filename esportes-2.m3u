@@ -70,7 +70,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6159.m3u8
 #EXTINF:-1, NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, TYC Sports
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
+http://200.112.174.230/mtcast_tychd/playlist.m3u8
 #EXTINF:-1, TYC Sports (Alt)
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1, TYC Sports FAN

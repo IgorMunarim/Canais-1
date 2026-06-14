@@ -7,8 +7,10 @@ http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1, FOX 🇲🇽 
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
-#EXTINF:-1, FOX en Tubi
-https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
+#EXTINF:-1, FOX Sports en Español (Tubi)
+https://apollo-eks.production-public.tubi.io/live/fox-sports-espanol-QU7jRU.m3u8
+#EXTINF:-1, FOX Sports (Tubi)
+https://apollo-eks.production-public.tubi.io/live/fox-sports-on-tubi-5FPHpS.m3u8
 #EXTINF:-1, Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 #EXTINF:-1, RUS SPORTS

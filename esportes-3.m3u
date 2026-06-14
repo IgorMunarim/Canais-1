@@ -11,6 +11,8 @@ https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d
 https://apollo-eks.production-public.tubi.io/live/fox-sports-espanol-QU7jRU.m3u8
 #EXTINF:-1, FOX Sports (Tubi)
 https://apollo-eks.production-public.tubi.io/live/fox-sports-on-tubi-5FPHpS.m3u8
+#EXTINF:-1, FOX Sports Roku
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1, Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 #EXTINF:-1, RUS SPORTS

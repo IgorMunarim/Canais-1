@@ -27,8 +27,6 @@ http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50507.m3u8
 http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50508.m3u8
 #EXTINF:-1, GOL TV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1, BEIN SPORTS Ñ
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 #EXTINF:-1, BEIN SPORTS 1 Turkey
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1, BEIN SPORTS 2 Turkey
@@ -108,17 +106,9 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1, CLARO SPORTS HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
 #EXTINF:-1, Win Sports HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1, Win Sports + HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
-#EXTINF:-1 , Latino | FOX SPORTS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.m3u8
-#EXTINF:-1 , Latino | FOX SPORTS 2 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8
-#EXTINF:-1 , Latino | FOX SPORTS 3 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.m3u8
-#EXTINF:-1, TUDN HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
 #EXTINF:-1, DAZN Football (FAST)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
 #EXTINF:-1, DAZN Football (Tubi)

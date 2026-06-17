@@ -26,13 +26,11 @@ http://23.237.104.106:8080/USA_ACCN/playlist.m3u8
 #EXTINF:-1, SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, CBS Sports Network
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8
+https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 #EXTINF:-1, CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1, CBS Sports Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-#EXTINF:-1, CBS Sports Golazo Network (alt)
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/660925.m3u8
 #EXTINF:-1, ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1, FOX Sports

@@ -97,4 +97,12 @@ http://193.239.186.231/ESPN2/index.m3u8
 http://193.239.186.231/ESPN3/index.m3u8
 #EXTINF:-1, ESPN 4
 http://193.239.186.231/ESPN4/index.m3u8
+#EXTINF:-1, L1 Max Peru
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/118.m3u8
+#EXTINF:-1, Movistar Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/378.m3u8
+#EXTINF:-1, Movistar Champions League
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/377.m3u8
+#EXTINF:-1, CDO Chile
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/568.m3u8
 #EXTM3U

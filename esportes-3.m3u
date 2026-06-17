@@ -75,6 +75,8 @@ http://41.205.70.146/BEINSPORT3/playlist.m3u8
 http://41.205.70.146/BEINSPORT4/playlist.m3u8
 #EXTINF:-1, Bein Sports 5
 http://41.205.70.146/BEINSPORT5/playlist.m3u8
+#EXTINF:-1, Bein Sports Canadá
+https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
 #EXTINF:-1, Bein Sports Haber
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19064/playlist.m3u8
 #EXTINF:-1, Bein Sports Max 1
@@ -96,13 +98,13 @@ http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1, DAZN 5
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1, Sport TV 1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2525/playlist.m3u8
+https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #EXTINF:-1, Sport TV 2
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2526/playlist.m3u8
+https://1nyaler.streamhostingcdn.top/stream/34/index.m3u8
 #EXTINF:-1, Sport TV 3
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/playlist.m3u8
+https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
 #EXTINF:-1, Sport TV 4
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/playlist.m3u8
+https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8
 #EXTINF:-1, Sport TV 5
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/playlist.m3u8
 #EXTINF:-1, ESPN

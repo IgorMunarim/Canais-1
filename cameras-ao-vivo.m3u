@@ -235,6 +235,8 @@ https://tv.rbt.psi.br/media/n/BZmZntmZy2GYmZm5nJiY/a/playlist.m3u8
 https://tv.rbt.psi.br/media/n/BZmZntm1y2GZndGXmJG5/a/playlist.m3u8
 #EXTINF:-1, Pousada Kaliman Ubatuba
 https://ohxhulxvzr.zoeweb.tv/klmin/klmin.stream/playlist.m3u8
+#EXTINF:-1, Ubatuba - Hotel São Charbel
+https://s112.ipcamlive.com/streams/70vmxtrayzcbxowe4/master.m3u8
 #EXTINF:-1, Praia da Barra da Tijuca
 https://cdn.live.br1.jmvstream.com/restream/IPC-6849/IPC-6849.stream/playlist.m3u8
 #EXTINF:-1, R. Dom Pedro II x Ponte Passo - Torres (RS)
@@ -351,8 +353,6 @@ https://ipservice.aovivonanet.com.br:4433/hls/taguai-lanchodromo/index.m3u8
 https://ipservice.aovivonanet.com.br:4433/hls/taguai-entrada-santo/index.m3u8
 #EXTINF:-1, Taguaí -  Praça Lanchodromo
 https://ipservice.aovivonanet.com.br:4433/hls/taguai-praca-lanchodromo/index.m3u8
-#EXTINF:-1, Ubatuba - Hotel São Charbel
-https://s112.ipcamlive.com/streams/70irebsqo5kgagvql/stream.m3u8
 #EXTINF:-1, Caraguatatuba - Prainha - Quiosque da Filó
 https://video02.logicahost.com.br/caragua1/caragua1/playlist.m3u8
 #EXTINF:-1, Caraguatatuba - Prainha - Japa Prainha
@@ -361,4 +361,6 @@ https://video02.logicahost.com.br/japa/japa/playlist.m3u8
 https://video02.logicahost.com.br/francis/francis/playlist.m3u8
 #EXTINF:-1, Aparecida de Goiânia - Avenida Rio Verde
 https://delaysp01.logicahost.com.br:5443/ledmidia/streams/painelavenidaverde.m3u8
+#EXTINF:-1, São Vicente - Clube de Voo Livre
+https://camera.clubecvllp.com.br/cam1/index.m3u8
 #EXTM3U

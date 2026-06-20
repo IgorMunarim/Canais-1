@@ -87,6 +87,8 @@ https://video02.logicahost.com.br/pgnet01/pgnet01/playlist.m3u8
 https://video06.logicahost.com.br/pgnet2/pgnet2/playlist.m3u8
 #EXTINF:-1, Praia Grande: Brisabar Sul
 https://video02.logicahost.com.br/brisabarsul/brisabarsul/playlist.m3u8
+#EXTINF:-1, Praia Grande: Beach Lounge Guilhermina
+https://video02.logicahost.com.br/lounge/lounge/playlist.m3u8
 #EXTINF:-1, São Sebastião: Centro - Restaurante Canoa
 http://video02.logicahost.com.br/sscanoa/sscanoa/playlist.m3u8
 #EXTINF:-1, São Sebastião: São Francisco - Apoena
@@ -135,6 +137,8 @@ https://video02.logicahost.com.br/pcurral/pcurral/playlist.m3u8
 https://video02.logicahost.com.br/makai1/makai1/playlist.m3u8
 #EXTINF:-1, Ilhabela: Vila (Restaurante Makai) 2
 https://video02.logicahost.com.br/makai2/makai2/playlist.m3u8
+#EXTINF:-1, Ilhabela: Vila - Moça Bonita
+https://video02.logicahost.com.br/mocabonita/mocabonita/playlist.m3u8
 #EXTINF:-1, Ilhabela: Portinho (Portinho Divers)
 https://video02.logicahost.com.br/pdive/pdive/playlist.m3u8
 #EXTINF:-1, Ilhabela: Perequê - Venda Antònio Dias
@@ -153,6 +157,10 @@ https://video02.logicahost.com.br/webtur/webtur/playlist.m3u8
 https://video02.logicahost.com.br/dedo/dedo/playlist.m3u8
 #EXTINF:-1, Ilhabela: Saco da Capela - Dedo de Moça - Rua
 https://video02.logicahost.com.br/dedo2/dedo2/playlist.m3u8
+#EXTINF:-1, Ilhabela: Saco da Capela - Pitanga
+https://video02.logicahost.com.br/pitanga/pitanga/playlist.m3u8
+#EXTINF:-1, Ilhabela: Santa Tereza - Escola Náutica Realeza
+https://video02.logicahost.com.br/santatereza/santatereza/playlist.m3u8
 #EXTINF:-1, Bertioga: Calçadão - sentido Balsa (Pizzaria Pirata)
 https://video02.logicahost.com.br/pirata1/pirata1/playlist.m3u8
 #EXTINF:-1, Bertioga: Calçadão - sentido Forte (Pizzaria Pirata)
@@ -187,6 +195,8 @@ https://video02.logicahost.com.br/pier1/pier1/playlist.m3u8
 https://video02.logicahost.com.br/jolly2/jolly2/playlist.m3u8
 #EXTINF:-1, Bertioga: Indaiá, Cantão - Jolly Roger
 https://video02.logicahost.com.br/roger/roger/playlist.m3u8
+#EXTINF:-1, Bertioga: Rotatória Centro - Restaurante Avenidas
+https://video02.logicahost.com.br/avenida/avenida/playlist.m3u8
 #EXTINF:-1, Bertioga: Condomínio Hanga Roa
 http://camerapraia.hangaroa.com.br:8126/mjpg/video.mjpg
 #EXTINF:-1, Olímpia - SP: Hotel Água Viva 

@@ -191,6 +191,10 @@ https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=z
 https://jmp2.uk/rok-04be54c79d1f55d0909e684f64f9fb57.m3u8
 #EXTINF:-1, ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1, Sport 1 CZ
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1, Sport 2 CZ
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1, Pluto TV Sport Italy
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1, CDN Deportes

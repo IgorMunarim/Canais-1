@@ -157,6 +157,10 @@ https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1, NSports
 https://cdn-5.nxplay.com.br/NSPORTS/playlist.m3u8
+#EXTINF:-1, NSports (Alt)
+https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
+#EXTINF:-1, NSports (movieark)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
 #EXTINF:-1, NSports FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1, Canal GOAT

@@ -105,4 +105,6 @@ https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:-1, TV Câmara Caxias do Sul
 https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manifest.m3u8
+#EXTINF:-1, Inova TV Nova Petropolis
+https://video05.logicahost.com.br/inovafm/inovafm/playlist.m3u8
 #EXTM3U

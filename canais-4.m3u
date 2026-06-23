@@ -155,14 +155,10 @@ https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1, Caravana Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
-#EXTINF:-1, THE LED M
-https://srt01.logicahost.com.br/theledmooca/playlist.m3u8
-#EXTINF:-1, THE LED P
-https://video11.logicahost.com.br/theledpinheiro/theledpinheiro/playlist.m3u8
-#EXTINF:-1, THE LED E
-https://video11.logicahost.com.br/theledextrema/theledextrema/playlist.m3u8
-#EXTINF:-1, TV Centro Sul
-https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8
+#EXTINF:-1, Rádio GAZETA 101.1 Arapiraca
+https://virtues.live:1936/gazetamaceio/gazetamaceio/playlist.m3u8
+#EXTINF:-1, Rádio Gazeta FM 94.1 Maceió
+https://a.cdni.live/gztfm941/gztfm941/playlist.m3u8
 #EXTINF:-1, Rede Gazeta News
 https://virtues.live:1936/gztnews/gztnews/playlist.m3u8
 #EXTINF:-1, Rede Gazeta Alagoas

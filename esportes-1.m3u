@@ -163,6 +163,8 @@ https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
 #EXTINF:-1, NSports FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1, NSports (Innova TV)
+https://live01.innovatv.tv.br/Nsports_1080/index.m3u8
 #EXTINF:-1, Canal GOAT
 https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 #EXTINF:-1, Canal GOAT (MovieArk)

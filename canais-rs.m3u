@@ -109,4 +109,6 @@ https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manife
 https://video05.logicahost.com.br/inovafm/inovafm/playlist.m3u8
 #EXTINF:-1, Studio TV Veranopolis
 https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
+#EXTINF:-1, TV Gaúcha
+https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTM3U

@@ -113,6 +113,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-d
 http://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1, RCN Más 2
 http://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, Caracol Mix
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
 #EXTINF:-1, El Trece
 http://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal Siete 

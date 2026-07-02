@@ -11,6 +11,8 @@ http://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/
 http://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1, CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
+#EXTINF:-1, CNN Noticias
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
 #EXTINF:-1, Times Brasil CNBC
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1, TV Jovem Pan News

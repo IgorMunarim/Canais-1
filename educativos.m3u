@@ -10,7 +10,7 @@ http://150.161.93.220/hls/index.m3u8
 #EXTINF:-1, TVE UEPG
 https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
 #EXTINF:-1, TV UFG
-https://59fb88a1b1108.streamlock.net/ufg/smil:tvufgweb/playlist.m3u8
+https://cdn.eduplay.rnp.br/route/X8wcRCMLWWXqZLdfFIsTyw'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL2MwUy1Dc0t6SDJQcFd2QnpqNUJfVlEnJycnJycnMScvQ0dMZHpUaDN2WWNnL2luZGV4Lm0zdTg''30'0'0'1/CGLdzTh3vYcg/index.m3u8
 #EXTINF:-1, TV Encontro das Águas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1, TV Cultura do Pará
@@ -32,13 +32,13 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1, TVE MS
 https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 #EXTINF:-1, TV Unesp
-https://media-gmcdn.eduplay.rnp.br/media/CF3xAh0tGexA/iN6TX7OhZmwoZ0IRLv4E8Q'1/index.m3u8
+https://cdn.eduplay.rnp.br/route/pdh_RvvHLWsBqzhx03iRTg'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL3dURjlyUmp4SXpXODNNRGNBVDExSkEnJycnJycnMScvQ0YzeEFoMHRHZXhBL2luZGV4Lm0zdTg''30'0'0'1/CF3xAh0tGexA/index.m3u8
 #EXTINF:-1, UnBTV
-https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/index.m3u8
+https://cdn.eduplay.rnp.br/route/MQv4k3YdGErlYpdcZq0SEw'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL1l6M2JaclhiTVJxQ1h5OEdUVE9JNncnJycnJycnMScvQ0Z3YXBXZVI3V1NJL2luZGV4Lm0zdTg''30'0'0'1/CFwapWeR7WSI/index.m3u8
 #EXTINF:-1, TV UFMA
-https://media-gmcdn.eduplay.rnp.br/media/CFypFL3SnHR0/lSrfw6LfC9616EiCTlcPZQ'1/index.m3u8
+https://cdn.eduplay.rnp.br/route/pEraOmAJRgjLw5EDYwQnzw'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL1FqQThpN3BNZFpncGRqSzlDTkV2b0EnJycnJycnMScvQ0Z5cEZMM1NuSFIwL2luZGV4Lm0zdTg''30'0'0'1/CFypFL3SnHR0/index.m3u8
 #EXTINF:-1, TV IFMA
-https://media-gmcdn.eduplay.rnp.br/media/CGH-lGu5AgrU/eiGOQSJrIxv-HDYevY5qPQ'1/index.m3u8
+https://cdn.eduplay.rnp.br/route/TULmW39kHU3arrS2l-L98g'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL2VKWmZEYm1RNU92QzN5amZUWnh5VlEnJycnJycnMScvQ0dILWxHdTVBZ3JVL2luZGV4Lm0zdTg''30'0'0'1/CGH-lGu5AgrU/index.m3u8
 #EXTINF:-1, CNU
 https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
 #EXTINF:-1, Univale TV
@@ -46,7 +46,7 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-18367/playlist/playlist.m3u8
 #EXTINF:-1, TV UFMG
 https://media-gmcdn.eduplay.rnp.br/media/CGGMMhsVn3q0/ocdBOVhxGmJWMvPTaauQww'1/index.m3u8
 #EXTINF:-1, Fila do RU - Campus Trindade
-https://media-gmcdn.eduplay.rnp.br/media/CGG7_K9JeWIM/ms1-nGR5FdVuh_7agXZ_Mw'1/index.m3u8
+https://cdn.eduplay.rnp.br/route/BqNvUl35l1_mYiDv4USE9Q'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL0d5YUdxbFVBNGtUSzhHLU5fQUlleEEnJycnJycnMScvQ0dHN19LOUplV0lNL2luZGV4Lm0zdTg''30'1'0'1/CGG7_K9JeWIM/index.m3u8
 #EXTINF:-1, TV GGTE
 https://media-gmcdn.eduplay.rnp.br/media/CFyCFebFBG10/08dndGNANBIpkCiK0Vw7Kw'1/index.m3u8
 #EXTINF:-1, Sesc TV

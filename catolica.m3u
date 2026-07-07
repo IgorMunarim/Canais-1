@@ -105,8 +105,12 @@ http://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_A
 https://amg01391-sbtinfast-amg01391c7-lg-br-9989.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Rede Vida
 http://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:-1, Rede Vida +
+https://lbgo.bozztv.com/ssh101/ssh101/redevidamais3/playlist.m3u8
 #EXTINF:-1, Rede Vida FAST
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7f6ea652c00490db36a50c8a6ef9e7f/playlist.m3u8
+#EXTINF:-1, Rede Vida - Caxias (Maranhão)
+https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
 #EXTINF:-1, Sanuário Nacional de Aparecida
 https://cdn.jmvstream.com/w/LVW-10631/LVW10631_1bPdW6WyOP/playlist.m3u8
 #EXTINF:-1, TV Tropicana
@@ -121,4 +125,6 @@ https://streamer.clickadia.ps/nz_grotto/index.m3u8
 https://streamer.clickadia.ps/nz_saint_joseph/index.m3u8
 #EXTINF:-1, Santuário da Terra Santa Igreja de Santa Catarina
 https://streamer.cmc-terrasanta.org/saint_catherine/index.m3u8
+#EXTINF:-1, Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTM3U

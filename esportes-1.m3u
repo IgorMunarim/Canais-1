@@ -10,17 +10,17 @@ https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-espanol-3SI78
 #EXTINF:-1, Bein Sports Xtra (México)
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1, ESPN 2 
-http://41.223.30.230/ESPN2/index.m3u8
+https://s.rocketdns.info/live/superreal1/superreal1/3636.m3u8
+#EXTINF:-1, ESPN 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3637.m3u8
 #EXTINF:-1, ESPN U (alt)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1, ESPN NEWS
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/351.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.m3u8
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3639.m3u8
 #EXTINF:-1, ACC Network
 http://23.237.104.106:8080/USA_ACCN/playlist.m3u8
 #EXTINF:-1, SEC Network
@@ -94,7 +94,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1, RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1, RAI Sport
-https://srv1.adriatelekom.com/RaiSport/playlist.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.m3u8
 #EXTINF:-1, RAI Sport (Alt)
 http://169.150.223.25/RaiSport/index.m3u8
 #EXTINF:-1, SportItalia SoloCalcio

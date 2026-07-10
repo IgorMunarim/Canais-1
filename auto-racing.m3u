@@ -3,6 +3,8 @@
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 #EXTINF:-1, Racer (alt)
 http://23.237.104.106:8080/USA_MAV_TV/playlist.m3u8
+#EXTINF:-1, Racer (alt 2)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.m3u8
 #EXTINF:-1, Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racer Brasil
@@ -168,7 +170,7 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19105/playlist.m3u8
 #EXTINF:-1, SKY Sport F1 DE
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19027/playlist.m3u8
 #EXTINF:-1, SKY Sport F1 UK
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/24460.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2190.m3u8
 #EXTINF:-1, Auto Plus (Rússia)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport
@@ -180,7 +182,9 @@ https://cdn-5.nxplay.com.br/HTO_NITRO/playlist.m3u8
 #EXTINF:-1, TV Car Multimarcas
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1, FOX Sports Racing
-http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19144/playlist.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.m3u8
 #EXTINF:-1, Portal Sportszone
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+#EXTINF:-1, REV TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.m3u8
 #EXTM3U

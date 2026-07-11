@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ESPN
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21589.m3u8
+#EXTINF:-1, ESPN
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21589.ts
 #EXTINF:-1, ESPN 2 
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 #EXTINF:-1, ESPN U (alt)
@@ -22,11 +24,11 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1, FOX Deportes
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
 #EXTINF:-1, Fox Sports 1 Latin
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2882.ts
 #EXTINF:-1, Fox Sports 2 Latin
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2880.ts
 #EXTINF:-1, Fox Sports 3 Latin
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2881.ts
 #EXTINF:-1, FOX Soccer Plus
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2531.ts
 #EXTINF:-1, Big Ten Network
@@ -76,39 +78,47 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3233.ts
 #EXTINF:-1, RDS info
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3234.ts
 #EXTINF:-1, BEIN SPORTS
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/333.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3613.ts
+#EXTINF:-1, BEIN SPORTS Canadá
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3153.ts
 #EXTINF:-1, SKY SPORTS Mix
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15553.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2180.ts
 #EXTINF:-1, SKY SPORTS Premier League
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15546.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 #EXTINF:-1, SKY SPORTS NEWS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15555.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2183.ts
 #EXTINF:-1, SKY SPORTS MAIN EVENT
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15545.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2185.ts
 #EXTINF:-1, SKY SPORTS Golf
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15548.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2187.ts
 #EXTINF:-1, SKY SPORTS Football
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15547.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30822.ts
 #EXTINF:-1, SKY SPORTS F1
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15550.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2190.ts
 #EXTINF:-1, SKY SPORTS F1 (alt)
 http://s.rocketdns.info:8080/live/7312082/5738779/2190.ts
 #EXTINF:-1, SKY SPORTS Action
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15551.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2195.ts
 #EXTINF:-1, SKY SPORTS +
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15552.ts
 #EXTINF:-1, SKY SPORTS Cricket
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/15549.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2192.ts
 #EXTINF:-1, TYC Sports
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2942.ts
+#EXTINF:-1, TYC Sports USA
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/4445.ts
 #EXTINF:-1, TNT Sports 1 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1917.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2337.ts
 #EXTINF:-1, TNT Sports 2 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1918.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2336.ts
+#EXTINF:-1, TNT Sports 2 UK (alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2326.ts
 #EXTINF:-1, TNT Sports 3 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1919.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2335.ts
 #EXTINF:-1, TNT Sports 4 UK
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1920.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2334.ts
+#EXTINF:-1, TNT Sports 4 UK (alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/675021.ts
 #EXTINF:-1, TNT Sports 5 UK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6154.ts
 #EXTINF:-1, TNT Sports 6 UK
@@ -122,7 +132,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6158.ts
 #EXTINF:-1, TNT Sports 10 UK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6159.ts
 #EXTINF:-1, TUDN
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/553262.ts
 #EXTINF:-1, TUDN 2
 http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
 #EXTINF:-1, DAZN 1 Portugal
@@ -146,7 +156,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
 #EXTINF:-1, Sport TV 5
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
 #EXTINF:-1, Sport TV +
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/843.ts
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
 #EXTINF:-1, Ziggo Sport
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10532.ts
 #EXTINF:-1, Ziggo Sport 2
@@ -167,4 +177,10 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.ts
 #EXTINF:-1, RAI Sport
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.ts
+#EXTINF:-1, Racer
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.ts
+#EXTINF:-1, FOX Sports Racing
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.ts
+#EXTINF:-1, REV TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.ts
 #EXTM3U

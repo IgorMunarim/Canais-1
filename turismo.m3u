@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1, REISEN CLUBE TV
-https://stmv5.webtvninjas.com.br/reisenclubetv/reisenclubetv/playlist.m3u8
-#EXTINF:-1, Viajando pelo Brasil
-https://cdn-tiva-video01-soultv-com-br.smartbit.co/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1, Vambora Channel
-https://cdn-tiva-video07-logicahost-com-br.smartbit.co/vamborachannel/vamborachannel/playlist.m3u8
+https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
 #EXTINF:-1, Travel Plus
 https://origin-fast.b-cdn.net/TRAVEL_PLUS/playlist.m3u8
 #EXTINF:-1, Travel Plus (Samsung)

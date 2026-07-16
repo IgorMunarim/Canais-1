@@ -84,7 +84,7 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/playlist.m3u8
 #EXTINF:-1, Rádio Planalto FM 105.9 Passo Fundo
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/playlist.m3u8
 #EXTINF:-1, TV Show de Bola
-https://painel.sintonizar.tv.br/hls/tvsdbola/tvsdbola.m3u8
+https://stmv1.srvsite.com/showdebola/showdebola/playlist.m3u8
 #EXTINF:-1, SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1, Tv Metro (Rede Metropolitana)
@@ -111,4 +111,8 @@ https://video05.logicahost.com.br/inovafm/inovafm/playlist.m3u8
 https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 #EXTINF:-1, TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
+#EXTINF:-1, Sulamerica TV
+https://stmv4.voxtvhd.com.br/sulamericatv/sulamericatv/playlist.m3u8
+#EXTINF:-1, TV Metropolitana Canoas
+https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
 #EXTM3U

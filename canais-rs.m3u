@@ -34,9 +34,7 @@ https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
 #EXTINF:-1, Vale TV
 https://video09.logicahost.com.br/valetvplay/valetvplay/playlist.m3u8
 #EXTINF:-1, TV Gramado NET
-https://stmv2.samcast.com.br/luiscarlosbarbosa7488/luiscarlosbarbosa7488/playlist.m3u8
-#EXTINF:-1, Gramado TV
-https://tv01.zas.media:1936/gramadotv/gramadotv/playlist.m3u8
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvgramado/index.m3u8
 #EXTINF:-1, Adesso TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1, Coletiva TV
@@ -113,6 +111,16 @@ https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1, Sulamerica TV
 https://stmv4.voxtvhd.com.br/sulamericatv/sulamericatv/playlist.m3u8
-#EXTINF:-1, TV Metropolitana Canoas
-https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
+#EXTINF:-1, TV Novos Horizontes
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
+#EXTINF:-1, UNISC TV
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1, tv osório news
+https://stmv1.srvsh.com.br/0001/0001/playlist.m3u8
+#EXTINF:-1, TV Erenews
+https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
+#EXTINF:-1, TV Clube SJN
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1, Studio TV
+https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 #EXTM3U

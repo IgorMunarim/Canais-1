@@ -37,6 +37,8 @@ https://video09.logicahost.com.br/valetvplay/valetvplay/playlist.m3u8
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvgramado/index.m3u8
 #EXTINF:-1, Gramado TV
 https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
+#EXTINF:-1, OV TV Gramado
+https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8
 #EXTINF:-1, Adesso TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1, Coletiva TV
@@ -67,8 +69,6 @@ https://hplay.tv/live/augetv/12396547488/1276.m3u8
 https://hplay.tv/augetv/12396547488/50.m3u8
 #EXTINF:-1, Rede Metropolitana RS
 https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m3u8
-#EXTINF:-1, OV TV Gramado
-https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8
 #EXTINF:-1, Conecta Mais Web TV
 https://transcoder7.adyl.net.br/Conecta/video.m3u8
 #EXTINF:-1, TV Lider do Vale

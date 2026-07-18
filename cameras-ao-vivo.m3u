@@ -8,51 +8,33 @@ https://5ffab78b24f94.streamlock.net/ipcam10/ipcam10.stream/playlist.m3u8
 #EXTINF:-1, Aeroporto de Ubatuba - Setor Mar
 https://5ffab78b24f94.streamlock.net/ipcam8/ipcam8.stream/playlist.m3u8
 #EXTINF:-1, SP 123 – km: 46 – Floriano Rodrigues Pinheiro: Portal de Campos do Jordão
-https://34.104.32.249.nip.io/SP123-KM046/stream.m3u8
+http://200.144.30.103:8084/hls/cam_23/stream.m3u8
 #EXTINF:-1, SP 123 – km: 33 – Floriano Rodrigues Pinheiro: Santo Antônio do Pinal
-https://34.104.32.249.nip.io/SP123-KM033A/stream.m3u8
+http://200.144.30.103:8084/hls/cam_40/stream.m3u8
 #EXTINF:-1, SP 123 – km: 33 – Floriano Rodrigues Pinheiro: Pindamonhangaba
-https://34.104.32.249.nip.io/SP123-KM033B/stream.m3u8
-#EXTINF:-1, SP 046 – km: 167 – Oswaldo Barbosa Guisadi
-https://34.104.32.249.nip.io/SP046-KM167/stream.m3u8
-#EXTINF:-1, SP 055 - km: 136 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM136/stream.m3u8
-#EXTINF:-1, SP 055 - km: 168 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM168/stream.m3u8
-#EXTINF:-1, SP 055 - km: 193 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM193/stream.m3u8
-#EXTINF:-1, SP 055 - km: 211A - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM211A/stream.m3u8
-#EXTINF:-1, SP 055 - km: 211B - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM211B/stream.m3u8
-#EXTINF:-1, SP 055 - km: 055 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM055/stream.m3u8
-#EXTINF:-1, SP 055 - km: 073 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM073/stream.m3u8
-#EXTINF:-1, SP 055 - km: 083 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM083/stream.m3u8
-#EXTINF:-1, SP 055 - km: 092 - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM092/stream.m3u8
-#EXTINF:-1, SP 055 - km: 110A - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM110A/stream.m3u8
-#EXTINF:-1, SP 055 - km: 110B - Doutor Manoel Hyppolito Rego
-https://34.104.32.249.nip.io/SP055-KM110B/stream.m3u8
-#EXTINF:-1, SP 125 - km: 93B - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM093B/stream.m3u8
-#EXTINF:-1, SP 125 - km: 93A - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM093A/stream.m3u8
-#EXTINF:-1, SP 125 - km: 21 - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM022/stream.m3u8
-#EXTINF:-1, SP 125 - km: 42 - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM042/stream.m3u8
-#EXTINF:-1, SP 125 - km: 67 - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM067/stream.m3u8
-#EXTINF:-1, SP 125 - km: 81 - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM081/stream.m3u8
-#EXTINF:-1, SP 125 - km: 88A - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM088A/stream.m3u8
-#EXTINF:-1, SP 125 - km: 88B - Oswaldo Cruz
-https://34.104.32.249.nip.io/SP125-KM088B/stream.m3u8
+http://200.144.30.103:8084/hls/cam_42/stream.m3u8
+#EXTINF:-1, SP 055 - km: 136 - Doutor Manoel Hyppolito Rego (São Sebastião)
+http://200.144.30.103:8084/hls/cam_10/stream.m3u8
+#EXTINF:-1, SP 055 - km: 168 - Doutor Manoel Hyppolito Rego (São Sebastião)
+http://200.144.30.103:8084/hls/cam_11/stream.m3u8
+#EXTINF:-1, SP 055 - km: 193 - Doutor Manoel Hyppolito Rego (Bertioga)
+http://200.144.30.103:8084/hls/cam_12/stream.m3u8
+#EXTINF:-1, SP 055 - km: 211A - Doutor Manoel Hyppolito Rego (Bertioga)
+http://200.144.30.103:8084/hls/cam_14/stream.m3u8
+#EXTINF:-1, SP 055 - km: 211B - Doutor Manoel Hyppolito Rego (Bertioga)
+http://200.144.30.103:8084/hls/cam_13/stream.m3u8
+#EXTINF:-1, SP 055 - km: 055 - Doutor Manoel Hyppolito Rego (Ubatuba)
+http://200.144.30.103:8084/hls/cam_36/stream.m3u8
+#EXTINF:-1, SP 055 - km: 073 - Doutor Manoel Hyppolito Rego (Ubatuba)
+http://200.144.30.103:8084/hls/cam_5/stream.m3u8
+#EXTINF:-1, SP 055 - km: 083 - Doutor Manoel Hyppolito Rego (Ubatuba)
+http://200.144.30.103:8084/hls/cam_38/stream.m3u8
+#EXTINF:-1, SP 055 - km: 092 - Doutor Manoel Hyppolito Rego (Caraguatatuba)
+http://200.144.30.103:8084/hls/cam_37/stream.m3u8
+#EXTINF:-1, SP 055 - km: 110A - Doutor Manoel Hyppolito Rego (Caraguatatuba)
+http://200.144.30.103:8084/hls/cam_8/stream.m3u8
+#EXTINF:-1, SP 055 - km: 110B - Doutor Manoel Hyppolito Rego (Caraguatatuba)
+http://200.144.30.103:8084/hls/cam_9/stream.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 78 – Roseira, SP, Sentido SP – Rio (Norte)
 https://d3b8201cy0qzzb.cloudfront.net/out/v1/db7ff89ac2dc4a2fa37f763f27429d86/CMAF_HLS/index.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 100 – Taubaté, SP, Sentido SP – Rio (Norte)

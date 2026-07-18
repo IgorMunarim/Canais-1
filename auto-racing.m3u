@@ -177,6 +177,8 @@ http://31.148.48.15/Avto_Plus/index.m3u8
 https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
 #EXTINF:-1, F1 Channel
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:-1, Curiosity Motores
+https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
 #EXTINF:-1, HTO Nitro
 https://cdn-5.nxplay.com.br/HTO_NITRO/playlist.m3u8
 #EXTINF:-1, TV Car Multimarcas

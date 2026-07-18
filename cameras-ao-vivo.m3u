@@ -179,6 +179,8 @@ https://video02.logicahost.com.br/jolly2/jolly2/playlist.m3u8
 https://video02.logicahost.com.br/roger/roger/playlist.m3u8
 #EXTINF:-1, Bertioga: Rotatória Centro - Restaurante Avenidas
 https://video02.logicahost.com.br/avenida/avenida/playlist.m3u8
+#EXTINF:-1, Bertioga: 49° Festa da Tainha
+https://video02.logicahost.com.br/tainha/tainha/playlist.m3u8
 #EXTINF:-1, Bertioga: Condomínio Hanga Roa
 http://camerapraia.hangaroa.com.br:8126/mjpg/video.mjpg
 #EXTINF:-1, Olímpia - SP: Hotel Água Viva 

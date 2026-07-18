@@ -19,6 +19,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
 #EXTINF:-1, MTRSPT1 (Alt)
 https://amg02873-amg02873c1-kravemedia-us-3714.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, MTRSPT1 (Distro)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1, Racing America
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1, GPTV (LG TV)

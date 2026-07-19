@@ -35,6 +35,8 @@ http://200.144.30.103:8084/hls/cam_37/stream.m3u8
 http://200.144.30.103:8084/hls/cam_8/stream.m3u8
 #EXTINF:-1, SP 055 - km: 110B - Doutor Manoel Hyppolito Rego (Caraguatatuba)
 http://200.144.30.103:8084/hls/cam_9/stream.m3u8
+#EXTINF:-1, SP 324 - Miguel Melhado Campos - KM 081 (Itupeva)
+http://200.144.30.103:8084/hls/cam_33/stream.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 78 – Roseira, SP, Sentido SP – Rio (Norte)
 https://d3b8201cy0qzzb.cloudfront.net/out/v1/db7ff89ac2dc4a2fa37f763f27429d86/CMAF_HLS/index.m3u8
 #EXTINF:-1, BR-116 (Via Dutra) KM 100 – Taubaté, SP, Sentido SP – Rio (Norte)

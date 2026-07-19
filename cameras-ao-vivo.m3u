@@ -179,6 +179,8 @@ https://video02.logicahost.com.br/jolly2/jolly2/playlist.m3u8
 https://video02.logicahost.com.br/roger/roger/playlist.m3u8
 #EXTINF:-1, Bertioga: Rotatória Centro - Restaurante Avenidas
 https://video02.logicahost.com.br/avenida/avenida/playlist.m3u8
+#EXTINF:-1, Bertioga: Vista Linda - Faram Conde
+https://video02.logicahost.com.br/conde2/conde2/playlist.m3u8
 #EXTINF:-1, Bertioga: 49° Festa da Tainha
 https://video02.logicahost.com.br/tainha/tainha/playlist.m3u8
 #EXTINF:-1, Bertioga: Condomínio Hanga Roa
@@ -343,8 +345,14 @@ https://video02.logicahost.com.br/caragua1/caragua1/playlist.m3u8
 https://video02.logicahost.com.br/japa/japa/playlist.m3u8
 #EXTINF:-1, Caraguatatuba - Tabatinga Francis Hotel Mar
 https://video02.logicahost.com.br/francis/francis/playlist.m3u8
-#EXTINF:-1, Aparecida de Goiânia - Avenida Rio Verde
-https://delaysp01.logicahost.com.br:5443/ledmidia/streams/painelavenidaverde.m3u8
+#EXTINF:-1, Caraguatatuba - Centro - Brasa
+https://video02.logicahost.com.br/brasa/brasa/playlist.m3u8
+#EXTINF:-1, Caraguatatuba - Porto Novo - Marina da Barra
+https://video04.logicahost.com.br/marina/marina/playlist.m3u8
+#EXTINF:-1, Caraguatatuba - Tabatinga - Espeticho Beach House
+https://video09.logicahost.com.br/napoli/napoli/playlist.m3u8
+#EXTINF:-1, Caraguatatuba - Praia do Indaiá - Quiosque do Adriano
+https://video02.logicahost.com.br/adriano2/adriano2/playlist.m3u8
 #EXTINF:-1, São Vicente - Clube de Voo Livre
 https://camera.clubecvllp.com.br/cam1/index.m3u8
 #EXTM3U

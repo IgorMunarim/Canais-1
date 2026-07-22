@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Agro +
-https://cdn-3.nxplay.com.br/AGROMAIS_HD/playlist.m3u8
+http://45.162.64.114/AGROMAIS/playlist.m3u8
 #EXTINF:-1, AgroCanal
-http://45.162.64.114/AGRO_CANAL/index.m3u8
+http://45.162.64.114/AGRO_CANAL/playlist.m3u8
 #EXTINF:-1, Canal do Boi
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+http://45.162.64.114/CANAL_DO_BOI/playlist.m3u8
 #EXTINF:-1, TV 100% Caipira
 https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 #EXTINF:-1, Agrobrasil

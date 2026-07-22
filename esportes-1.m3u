@@ -79,6 +79,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/536.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/535.m3u8
 #EXTINF:-1, Sportsnet World
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.m3u8
+#EXTINF:-1, Sportsnet New York
+http://40.160.24.55/SNY/playlist.m3u8
 #EXTINF:-1, TSN 1
 http://40.160.24.55/TSN_1/playlist.m3u8
 #EXTINF:-1, TSN 2

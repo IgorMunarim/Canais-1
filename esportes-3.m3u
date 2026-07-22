@@ -111,4 +111,6 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/377.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/568.m3u8
 #EXTINF:-1, Free Live Sports
 https://amg26268-amg26268c27-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c27-amgplt0201/playlist.m3u8
+#EXTINF:-1, CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTM3U

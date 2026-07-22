@@ -17,6 +17,8 @@ https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/pl
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1, Times Brasil CNBC (NXplay)
 https://origin-fast.b-cdn.net/CNBC/playlist.m3u8
+#EXTINF:-1, Times Brasil CNBC (alt)
+http://45.190.28.50/CNBC/playlist.m3u8
 #EXTINF:-1, TV Jovem Pan News
 http://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1, BandNews

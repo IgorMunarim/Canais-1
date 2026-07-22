@@ -11,8 +11,10 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1, Lavras CE TV
 https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8
-#EXTINF:-1, Rede Meio
+#EXTINF:-1, Rede Meio Norte
 https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1, Rede Meio Norte (alt)
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1, Lider TV
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1, TV InforBahia

@@ -26,7 +26,7 @@ http://206.212.244.63/2486/playlist.m3u8
 #EXTINF:-1, SEC Network
 http://206.212.244.63/2511/playlist.m3u8
 #EXTINF:-1, CBS Sports Network
-https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1, CBS Sports Golazo Network
@@ -38,13 +38,13 @@ https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1, FOX Sports (alt)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1, Fox Sports 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21592.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, Fox Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21593.m3u8
 #EXTINF:-1, FOX Soccer Plus
 http://40.160.24.52/FOX_SOCCER_PLUS/playlist.m3u8
 #EXTINF:-1, FOX Deportes
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/playlist.m3u8
 #EXTINF:-1, Big Ten Network
 http://206.212.244.63/2489/playlist.m3u8
 #EXTINF:-1, NBC Sports

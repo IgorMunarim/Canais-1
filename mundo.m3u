@@ -4,17 +4,11 @@ https://freqsyndlin.servustv.com/771_playlist_1.m3u8
 #EXTINF:-1, Servus TV Wetter Panorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 #EXTINF:-1, RAI 1
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1, RAI 1 (alt)
-https://netplus.zappr.stream/rai1.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1, RAI 2
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1, RAI 2 (alt)
-https://netplus.zappr.stream/rai2.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1, RAI 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-#EXTINF:-1, RAI 3 (alt)
-https://netplus.zappr.stream/rai3.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1, RAI News
 https://netplus.zappr.stream/rainews.m3u8
 #EXTINF:-1, RAI Alto Adige

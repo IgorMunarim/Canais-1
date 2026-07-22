@@ -13,10 +13,10 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21589.m3u8
 #EXTINF:-1, ESPN 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3637.m3u8
-#EXTINF:-1, ESPN U (alt)
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1, ESPN U
+https://gpuserver3.tier1streams.com/ESPN_U/playlist.m3u8
 #EXTINF:-1, ESPN NEWS
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.m3u8
+https://gpuserver3.tier1streams.com/ESPN_NEWS/playlist.m3u8
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
@@ -259,8 +259,6 @@ https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina3/latina3.smil/playlist.m3u8
 #EXTINF:-1, Bandsports
 http://45.162.64.114/BAND_SPORTS/playlist.m3u8
-#EXTINF:-1, TV Esportes
-http://hplay.tv/augetv/12396547488/204.m3u8
 #EXTINF:-1, Sports Connect
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 #EXTINF:-1, TV Turfe

@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1 , Latino | ESPN HD
-http://200.112.174.230/mtcast_espnhd/playlist.m3u8
-#EXTINF:-1 , Latino | ESPN HD (Alt)
-http://200.112.174.230/mtcast_espnhd/mpegts
+https://cdnbarinas.tvzamora.com/espn/index.m3u8
 #EXTINF:-1, ESPN 2 Latin (alt)
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTINF:-1, ESPN 2 Latin
-http://200.112.174.230/mtcast_espn2hd/mpegts
-#EXTINF:-1 , Latino | ESPN 2 HD
-http://200.112.174.230/mtcast_espn2hd/playlist.m3u8
+https://cdnbarinas.tvzamora.com/espn2/index.m3u8
 #EXTINF:-1 , Latino | ESPN 3 HD
-http://200.112.174.230/mtcast_espn3hd/playlist.m3u8
-#EXTINF:-1 , Latino | ESPN 3 HD (alt)
-http://200.112.174.230/mtcast_espn3hd/mpegts
+https://cdnbarinas.tvzamora.com/espn3/index.m3u8
 #EXTINF:-1, Latino | ESPN 4 HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.m3u8
-#EXTINF:-1, ESPN Premium 
-http://200.112.174.230/mtcast_espnpremiumhd/mpegts
+https://cdnbarinas.tvzamora.com/espn4/index.m3u8
+#EXTINF:-1, ESPN 5
+https://cdnbarinas.tvzamora.com/espn5/index.m3u8
+#EXTINF:-1, ESPN 6
+https://cdnbarinas.tvzamora.com/espn6/index.m3u8
+#EXTINF:-1, ESPN 7
+https://cdnbarinas.tvzamora.com/espn7/index.m3u8 
 #EXTINF:-1, TVC Deportes
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
 #EXTINF:-1, FOX SPORTS 

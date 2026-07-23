@@ -53,6 +53,8 @@ http://dai2-playlistserver.aws.syncbak.com/cpl/20475904/dai2v5/1/7b2264657669636
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
 #EXTINF:-1, Telemundo East
 https://streaming.cnetplay.com/TELEMUNDOHD/playlist.m3u8
+#EXTINF:-1, Telemundo Internacional South
+http://45.181.87.106/TELEMUNDOHD/index.m3u8
 #EXTINF:-1, Telemundo Puerto Rico
 http://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1, Telemundo Puerto Rico Punto 2

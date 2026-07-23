@@ -165,12 +165,10 @@ https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
 http://186.227.63.210:5000/live/BANDRJ/playlist.m3u8
 #EXTINF:-1, Band Bahia
 https://hplay.tv/augetv/12396547488/175.m3u8
-#EXTINF:-1, Band Pará RBA TV (PA)
-https://hplay.tv/augetv/12396547488/230.m3u8
 #EXTINF:-1, Band Pará RBA TV (PA) (Alt)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1, Band
-https://hplay.tv/augetv/12396547488/7412.m3u8
+#EXTINF:-1, Band Arapuan PB
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1, TV Londres
 https://hplay.tv/augetv/12396547488/218.m3u8
 #EXTINF:-1, 7TVS

@@ -159,12 +159,10 @@ http://live.presstv.ir/hls/hispantv.m3u8
 http://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 #EXTINF:-1, Venevision
 http://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-#EXTINF:-1, América TV Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-#EXTINF:-1, El Trece Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1, Telefuturo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1, La Tele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1, TV Ciudad
 http://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzU0NjI0OTI2JnJhbmRvbT1hdkUyZU0yUm9TJmMtaXA9MTkxLjI0MS4yLjE2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNDNiYmRjMGM5MDAyMWZmNjA3MTcwZWU5YzRlYWE3N2RmZDlhNzZhMWNiMWFkNmIyMDAzMGE2OTE0NWQzYTYyNg==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1, Canal UCL

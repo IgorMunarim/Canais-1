@@ -49,6 +49,8 @@ https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:-1, RTS 2
 https://netplus.zappr.stream/rts2hd.m3u8
+#EXTINF:-1, RTS Info
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1, RSI LA1
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1, RSI LA2

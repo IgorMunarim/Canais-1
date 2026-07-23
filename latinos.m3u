@@ -17,8 +17,6 @@ http://45.190.156.152/CHAPOLIN/index.m3u8
 http://45.190.156.152/CHAVES/index.m3u8
 #EXTINF:-1, Telemundo (EUA)
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
-#EXTINF:-1, Telemundo (alt)
-https://streaming.cnetplay.com/TELEMUNDOHD/index.m3u8
 #EXTINF:-1, Telemundo Internacional
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/27.m3u8
 #EXTINF:-1, Telemundo Philadelphia

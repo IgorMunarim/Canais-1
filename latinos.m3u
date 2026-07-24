@@ -121,6 +121,10 @@ http://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1, Caracol Mix
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
+#EXTINF:-1, Telefé Buenos Aires
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1, Telefé Interior
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1, El Trece
 http://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal Siete 

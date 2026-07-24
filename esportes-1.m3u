@@ -109,6 +109,8 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 https://edge-001.streamup.eu/livein/laziostyle/playlist.m3u8
 #EXTINF:-1, SportItalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1, SportItalia (Samsung)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-wg4eophtzml6o.m3u8
 #EXTINF:-1, SportItalia Primavera
 https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1, TR Sport Itália

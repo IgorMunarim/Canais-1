@@ -151,6 +151,8 @@ http://g5.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1, Caras TV Argentina
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1, Bravo TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1, Uniteve
 http://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1, Bravo TV

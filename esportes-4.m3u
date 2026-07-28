@@ -8,13 +8,13 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.m3u8
 #EXTINF:-1, RAI Sport (Alt)
 http://169.150.223.25/RaiSport/index.m3u8
 #EXTINF:-1, SportItalia SoloCalcio
-https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+https://edge-004.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio (Samsung)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1, SportItalia Lazio Style
-https://edge-001.streamup.eu/livein/laziostyle/playlist.m3u8
+https://edge-004.streamup.eu/livein/laziostyle/playlist.m3u8
 #EXTINF:-1, SportItalia
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1, SportItalia (Samsung)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-wg4eophtzml6o.m3u8
 #EXTINF:-1, SportItalia Primavera

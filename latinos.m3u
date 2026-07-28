@@ -5,6 +5,8 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
 #EXTINF:-1, Univision
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1, Univision (alt)
+http://177.234.249.178:8888/UNIVISION/index.m3u8
 #EXTINF:-1, Univision Miami
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.m3u8
 #EXTINF:-1, Univision 24/7

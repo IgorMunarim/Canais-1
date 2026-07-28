@@ -159,6 +159,8 @@ https://hplay.tv/augetv/12396547488/248649.m3u8
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1, Band TV Tribuna
 https://hplay.tv/augetv/12396547488/226.m3u8
+#EXTINF:-1, Band
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1, Band Rio
 https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1, Band RJ

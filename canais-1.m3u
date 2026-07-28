@@ -113,8 +113,8 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1, TV Jornal
 https://hplay.tv/augetv/12396547488/162.m3u8
-#EXTINF:-1, SBT Rede Massa
-https://hplay.tv/augetv/12396547488/231.m3u8
+#EXTINF:-1, SBT
+https://media.cdntvms.com.br/sbt_sat/index.fmp4.m3u8
 #EXTINF:-1, SBT SCC
 https://hplay.tv/augetv/12396547488/48.m3u8
 #EXTINF:-1, SBT SP

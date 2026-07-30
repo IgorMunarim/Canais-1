@@ -101,8 +101,6 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/playlist.m3u8
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, NHL Channel
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1, NCAA Channel
-https://wurllg.global.transmit.live/hls/689628fc4be878ea7aa6ec3e/v1/lg_ncaachannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, RYZ Sports Network
 https://amg27125-amg27125c1-amgplt0001.playout.now3.amagi.tv/ryzsports/ryzspo/1080p-cc/index.m3u8
 #EXTINF:-1, Yahoo! Sports Network

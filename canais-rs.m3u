@@ -43,8 +43,6 @@ https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1, Coletiva TV
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-#EXTINF:-1, TV Minuano
-https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
 #EXTINF:-1, Masper TV
 https://tv01.zas.media:1936/bahtv/bahtv/playlist.m3u8
 #EXTINF:-1, Radio e Tv C.B.S - Sapucaia do Sul
@@ -118,7 +116,7 @@ https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
 #EXTINF:-1, UNISC TV
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1, tv osório news
-https://stmv1.srvsh.com.br/0001/0001/playlist.m3u8
+https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1, TV Erenews
 https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1, TV Clube SJN

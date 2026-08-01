@@ -147,4 +147,6 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1, NBA TV
 http://40.160.24.58/NBA_TV/index.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
 #EXTM3U

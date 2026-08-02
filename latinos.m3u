@@ -183,4 +183,6 @@ http://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 http://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, CNN Chile
 http://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/playlist.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
 #EXTM3U

@@ -357,4 +357,6 @@ https://video09.logicahost.com.br/napoli/napoli/playlist.m3u8
 https://video02.logicahost.com.br/adriano2/adriano2/playlist.m3u8
 #EXTINF:-1, São Vicente - Clube de Voo Livre
 https://camera.clubecvllp.com.br/cam1/index.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
 #EXTM3U

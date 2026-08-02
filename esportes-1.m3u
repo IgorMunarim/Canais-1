@@ -10,7 +10,7 @@ https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-espanol-3SI78
 #EXTINF:-1, Bein Sports Xtra (México)
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
-http://206.212.244.63/59/playlist.m3u8
+http://40.160.24.52/ESPN_HD/index.m3u8
 #EXTINF:-1, ESPN 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3637.m3u8
 #EXTINF:-1, ESPN U

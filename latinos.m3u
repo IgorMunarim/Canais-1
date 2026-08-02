@@ -23,6 +23,8 @@ http://45.190.156.152/CHAVES/index.m3u8
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1, Telemundo Internacional (alt)
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1, Telemundo Philadelphia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/143.m3u8
 #EXTINF:-1, Telemundo 44 Chicago IL
@@ -55,10 +57,6 @@ http://nbculocallive.akamaized.net/hls/live/2103886/newmex/stream1/master.m3u8
 http://dai2-playlistserver.aws.syncbak.com/cpl/20475904/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjg3MCwiY2lkIjoyMDk3NSwibWlkIjoyMDQ3NTkwNCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiIxNzkuOTkuMjIuMTg2IiwidWlwIjoiMTc5Ljk5LjIyLjE4NiIsImRtYSI6MCwic3NpZCI6IjY1NTg4Nzg4ZGQ2YjRhNTVhZDhlODVlMTY4MzdiNzM4Iiwic24iOiJXZWIgZjcxMGJhMWI5MSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImFmOTkyZTgzOGQzOWVmOTVlMjc0N2NhMTU1NTk2ZjNlIiwiaWF0IjoxNzY5MDM3ODk5LCJleHAiOjE3NjkwMzgxOTksImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6InBILVNxYXVpSDJpbnc1NUhBQlVXUGFWb3pHQVp1NVY2QktiWWxWQnh6VGNqT3N1bXlLIn0.O77eFJMapN9bRoN-MX6Z98RvLdkNFsbndfApYtsQj6s
 #EXTINF:-1, Telemundo al Dia
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
-#EXTINF:-1, Telemundo East
-https://streaming.cnetplay.com/TELEMUNDOHD/playlist.m3u8
-#EXTINF:-1, Telemundo Internacional South
-http://45.181.87.106/TELEMUNDOHD/index.m3u8
 #EXTINF:-1, Telemundo Puerto Rico
 http://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1, Telemundo Puerto Rico Punto 2

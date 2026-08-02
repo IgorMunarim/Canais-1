@@ -129,6 +129,8 @@ https://stmv2.liveplushd.com.br/ifwebtv/ifwebtv/playlist.m3u8
 https://stmv2.voxtvhd.com.br/cjtvnews/cjtvnews/playlist.m3u8
 #EXTINF:-1, Campos WebTV
 https://tv.rbstream.com.br/camposw1/camposw1/playlist.m3u8
+#EXTINF:-1, City TV +
+https://tv01.zas.media:1936/city/city/playlist.m3u8
 #EXTINF:-1, WebTV São Sebastião
 https://stmv1.srvsite.com/webtvsaosebastiao/webtvsaosebastiao/playlist.m3u8
 #EXTINF:-1, TV Guarulhos

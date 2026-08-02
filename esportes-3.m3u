@@ -123,4 +123,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.m3u8
 #EXTINF:-1, ERT Sports 4
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
 #EXTM3U

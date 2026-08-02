@@ -179,4 +179,6 @@ https://novatvvale.nuvemplay.live/hls/stream.m3u8
 https://video09.logicahost.com.br/camarajacarei/camarajacarei/playlist.m3u8
 #EXTINF:-1, Melody TV
 https://video07.logicahost.com.br/melodytv/melodytv/playlist.m3u8
+#EXTINF:-1, Youtube
+https://www.youtube.com
 #EXTM3U

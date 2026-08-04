@@ -15,6 +15,36 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
 #EXTINF:-1, Ape Cam - San Diego Zoo
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
+#EXTINF:-1, Giant Panda Cam - San Diego Zoo
+https://zssd-panda2024.hls.camzonecdn.com/CamzoneStreams/zssd-panda2024/Playlist.m3u8
+#EXTINF:-1, Koala Cam - San Diego Zoo
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
+#EXTINF:-1, Baboom Cam - San Diego Zoo
+https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
+#EXTINF:-1, Polar Cam - San Diego Zoo
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+#EXTINF:-1, Penguin Cam - San Diego Zoo
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
+#EXTINF:-1, Hippo Cam - San Diego Zoo
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
+#EXTINF:-1, Tiger Cam - San Diego Zoo
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
+#EXTINF:-1, Elephant Cam - San Diego Zoo
+https://zssd-elephant-2025.hls.camzonecdn.com/CamzoneStreams/zssd-elephant-2025/Playlist.m3u8
+#EXTINF:-1, Platypus Cam - San Diego Zoo
+https://zssd-platypus2.hls.camzonecdn.com/CamzoneStreams/zssd-platypus2/Playlist.m3u8
+#EXTINF:-1, Platypus Cam 2 - San Diego Zoo
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
+#EXTINF:-1, Giraffa Cam - San Diego Zoo
+https://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
+#EXTINF:-1, Burrowing Owl Cams - San Diego Zoo
+https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/Playlist.m3u8
+#EXTINF:-1, Condor Cam - San Diego Zoo
+https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/Playlist.m3u8
+#EXTINF:-1, RED PANDA CAM - San Diego Zoo
+https://zssd-rpanda.hls.camzonecdn.com/CamzoneStreams/zssd-rpanda/Playlist.m3u8
+#EXTINF:-1, Chimpanzee Cam - Houston Zoo
+
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

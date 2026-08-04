@@ -6,6 +6,8 @@ https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
 #EXTINF:-1, Univision
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1, Univision (alt)
+http://190.197.41.183/Univision/index.m3u8
+#EXTINF:-1, Univision (alt2)
 http://177.234.249.178:8888/UNIVISION/index.m3u8
 #EXTINF:-1, Univision Miami
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.m3u8
@@ -15,10 +17,8 @@ http://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/155.m3u8
 #EXTINF:-1, Univision San Francisco
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/156.m3u8
-#EXTINF:-1, Chapolin
-http://45.190.156.152/CHAPOLIN/index.m3u8
-#EXTINF:-1, Chaves
-http://45.190.156.152/CHAVES/index.m3u8
+#EXTINF:-1, UniMas
+http://190.197.41.183/Unimas/playlist.m3u8
 #EXTINF:-1, Telemundo (EUA)
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo Internacional
@@ -92,7 +92,7 @@ http://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1, TV Peru Internacional
 http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1, Latina Television
-http://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1, Latina Noticias
 http://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1, América Tv (Peru)

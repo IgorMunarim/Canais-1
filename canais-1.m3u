@@ -135,6 +135,8 @@ http://168.205.87.198:8555/live/1350/123456/291.m3u8
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1, SBT Guajará
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1, SBT Tucuruí - TV Floresta
+https://dc-global-16scw-livepush.akamaized.net/live_cdn/nsbUhlxXsbZnlum/emVqPK2sSrR_sJM/index.m3u8
 #EXTINF:-1, SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1, Garças TV

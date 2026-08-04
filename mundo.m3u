@@ -60,15 +60,15 @@ https://netplus.zappr.stream/srf1hd.m3u8
 #EXTINF:-1, SRF 2
 https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:-1, Carac 1
-https://netplus.zappr.stream/rougetv.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1, Carac 2
-https://netplus.zappr.stream/onetv.m3u8
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 #EXTINF:-1, Carac 3
-https://netplus.zappr.stream/lfmtv.m3u8
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTINF:-1, Carac 4
-https://netplus.zappr.stream/tvsuisseplus.m3u8
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1, Carac 5
-https://netplus.zappr.stream/teleswizz.m3u8
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1, ITV1
 http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2292.ts
 #EXTINF:-1, ITV2
@@ -78,17 +78,17 @@ https://netplus.zappr.stream/itv3.m3u8
 #EXTINF:-1, ITV4
 https://netplus.zappr.stream/itv4.m3u8
 #EXTINF:-1, TF1
-https://netplus.zappr.stream/tf1hd.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1, TMC
-https://netplus.zappr.stream/tmc.m3u8
+http://151.80.18.177:86/TMC/index.m3u8
 #EXTINF:-1, France 2
-https://netplus.zappr.stream/france2hd.m3u8
+http://89.187.185.76:8080/France2/index.m3u8
 #EXTINF:-1, France 3
-https://netplus.zappr.stream/france3hd.m3u8
+http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1, France 4
-https://netplus.zappr.stream/france4hd.m3u8
+http://89.187.185.76:8080/France4/index.m3u8
 #EXTINF:-1, France 5
-https://netplus.zappr.stream/france5hd.m3u8
+http://89.187.185.76:8080/France5/index.m3u8
 #EXTINF:-1, C News
 https://netplus.zappr.stream/itele.m3u8
 #EXTINF:-1, Euronews France
@@ -100,7 +100,7 @@ https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
 #EXTINF:-1, Canal+
 https://netplus.zappr.stream/canalplusclair.m3u8
 #EXTINF:-1, LCI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1, Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1, Das Erste (alt)

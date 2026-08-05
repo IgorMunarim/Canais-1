@@ -58,7 +58,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1, Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 #EXTINF:-1, Tele Dehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
 #EXTINF:-1, Katholika TV
 https://acesso.ecast.site:3743/live/katholikalive.m3u8
 #EXTINF:-1, EWTN 
@@ -139,8 +139,6 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjNDIzMjJmMTE0MDAwODFmYmJiZjlkYzdkMzBiNzE5YSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1OTMxNzcwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mxVpMH7oDuonvQEanBr5jlYml9Fs9b1fNfwmXfI_GMNqbBBd3kG728xYpbErQX2HBb8hlkBraHJ9aAO5UepzPaeTDAAtKlTpwAwaudZWg3K-xG_yhS2-JCONzI5-O0P1nMTx_IINSEuvGTg1GLQpEedPZKl2HTeXTHzHZrk8TthWHEo_pxsSbptV0T6DIQCfJPOXXUz_RZFZf2M17nib6UoMPGoUQxfZM6wcsi7Rf-yswxgCTESzJbrxdTXu-9veDWD41eXvbSbx9k6q3m2h5xdYKAPh2KSmUuT5ZGdQJx6TlOWAbVTqm9T2g2-Hs_r2tSR_Jpfs0lk3S3lUXVKkvQ/manifest/video.m3u8
 #EXTINF:-1, Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1, Tele Dehon
-https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

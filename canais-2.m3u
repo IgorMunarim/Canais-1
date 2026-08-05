@@ -159,6 +159,8 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 https://pop.uniquetv.com.br/tvsjk/index.fmp4.m3u8
 #EXTINF:-1, Rádio Manchete Rio de Janeiro
 https://mancheterio.brasilstream.com.br/hls/mancheterio/index.m3u8
+#EXTINF:-1, TV Alepi
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

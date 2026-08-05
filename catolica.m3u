@@ -85,6 +85,8 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/cVNxT0FpaGQrVzh4/SXUzMkJw/hls/live/playlist.m3u8
 #EXTINF:-1, EWTN Adoração
 https://cdn3.wowza.com/1/Y09GU2RCUG9EbVRr/WlpHUVVx/hls/live/playlist.m3u8
+#EXTINF:-1, EWTN Hungria
+https://hls.iptvservice.eu/hls/ewtn.m3u8
 #EXTINF:-1, TeleRádioPace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 #EXTINF:-1, TeleRádioPace 2
@@ -135,6 +137,10 @@ https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 #EXTINF:-1, TeleOro
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjNDIzMjJmMTE0MDAwODFmYmJiZjlkYzdkMzBiNzE5YSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1OTMxNzcwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mxVpMH7oDuonvQEanBr5jlYml9Fs9b1fNfwmXfI_GMNqbBBd3kG728xYpbErQX2HBb8hlkBraHJ9aAO5UepzPaeTDAAtKlTpwAwaudZWg3K-xG_yhS2-JCONzI5-O0P1nMTx_IINSEuvGTg1GLQpEedPZKl2HTeXTHzHZrk8TthWHEo_pxsSbptV0T6DIQCfJPOXXUz_RZFZf2M17nib6UoMPGoUQxfZM6wcsi7Rf-yswxgCTESzJbrxdTXu-9veDWD41eXvbSbx9k6q3m2h5xdYKAPh2KSmUuT5ZGdQJx6TlOWAbVTqm9T2g2-Hs_r2tSR_Jpfs0lk3S3lUXVKkvQ/manifest/video.m3u8
+#EXTINF:-1, Canal Santa Maria
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1, Tele Dehon
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

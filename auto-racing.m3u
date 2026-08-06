@@ -141,6 +141,8 @@ https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dvcr6n9u4b40e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m95lk5rnnh17y/Hagerty.m3u8
 #EXTINF:-1, Drive Channel TV
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1, Drive Channel
+https://www.drivechannel.com.br/aovivo/playlist.m3u8
 #EXTINF:-1, Drive TV
 https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8
 #EXTINF:-1, Nitro TV
@@ -189,8 +191,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.m3u8
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF:-1, REV TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.m3u8
-#EXTINF:-1, Drive Channel
-https://www.drivechannel.com.br/aovivo/playlist.m3u8
 #EXTINF:-1, WedoTV Auta
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/playlist.m3u8
 #EXTINF:-1, Youtube

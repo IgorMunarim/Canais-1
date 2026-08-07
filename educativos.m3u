@@ -67,6 +67,8 @@ https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1, Rede Vida Educação
 https://lbgo.bozztv.com/ssh101/ssh101/redevidaeducaca/playlist.m3u8
+#EXTINF:-1, TV Serra do Mar
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

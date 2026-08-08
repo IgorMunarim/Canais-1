@@ -87,6 +87,8 @@ https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Speed Sport 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1, Speed Sport 1 (Alt)
+https://speedsport1.global.transmit.live/hls/695306edec6a381683f12f29/dist/ss1/599/hls/master/playlist.m3u8
 #EXTINF:-1, 30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1, Motor TV

@@ -193,6 +193,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/194.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/195.m3u8
 #EXTINF:-1, FOX Atlanta
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/436.m3u8
+#EXTINF:-1, CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:-1, Iran TV
 https://live.playstop.me/1816184091/index.m3u8
 #EXTINF:-1, CBS

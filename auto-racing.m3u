@@ -195,6 +195,10 @@ https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playl
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.m3u8
 #EXTINF:-1, WedoTV Auta
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/playlist.m3u8
+#EXTINF:-1, Nitro TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189316&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=67470f5703d0bece2608a92d&AV_CHANNELID=67470f1eb9942aa5cd0ca7c8
+#EXTINF:-1, Automotion TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189586&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6747129b9be99ff6690445ae&AV_CHANNELID=6747125e0bbbdc7cab0ac6f6
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

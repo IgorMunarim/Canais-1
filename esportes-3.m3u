@@ -84,15 +84,19 @@ http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1, DAZN 5
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1, Sport TV 1
-https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+http://94.130.32.19:8080/sporttv1/index.m3u8
 #EXTINF:-1, Sport TV 2
-https://1nyaler.streamhostingcdn.top/stream/34/index.m3u8
+http://94.130.32.19:8080/sporttv2/index.m3u8
 #EXTINF:-1, Sport TV 3
-https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
+http://94.130.32.19:8080/sporttv3/index.m3u8
 #EXTINF:-1, Sport TV 4
-https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8
+http://94.130.32.19:8080/sporttv4/index.m3u8
 #EXTINF:-1, Sport TV 5
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/playlist.m3u8
+http://94.130.32.19:8080/sporttv5/index.m3u8
+#EXTINF:-1, Sport TV 6
+http://94.130.32.19:8080/sporttv6/index.m3u8
+#EXTINF:-1, Sport TV 7
+http://94.130.32.19:8080/sporttv7/index.m3u8
 #EXTINF:-1, ESPN
 http://193.239.186.231/ESPN/index.m3u8
 #EXTINF:-1, ESPN 2

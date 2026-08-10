@@ -102,7 +102,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30822.ts
 #EXTINF:-1, SKY SPORTS F1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2190.ts
 #EXTINF:-1, SKY SPORTS F1 (alt)
-http://s.rocketdns.info:8080/live/7312082/5738779/2190.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100769.ts
 #EXTINF:-1, SKY SPORTS Action
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2195.ts
 #EXTINF:-1, SKY SPORTS +
@@ -142,15 +142,19 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/553262.ts
 #EXTINF:-1, TUDN 2
 http://m3u.tvcluboficial.com/free/oct/oct/957.m3u8
 #EXTINF:-1, DAZN 1 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/926.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137330.ts
 #EXTINF:-1, DAZN 2 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/924.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137333.ts
 #EXTINF:-1, DAZN 3 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/921.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137336.ts
+#EXTINF:-1, DAZN 3 Portugal (alt)
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137335.ts
 #EXTINF:-1, DAZN 4 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/920.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137339.ts
+#EXTINF:-1, DAZN 4 Portugal (alt)
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137337.ts
 #EXTINF:-1, DAZN 5 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/918.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137342.ts
 #EXTINF:-1, Sport TV 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/849.ts
 #EXTINF:-1, Sport TV 2

@@ -60,9 +60,9 @@ http://50.7.120.34:8080/EUROSPORT/index.m3u8
 #EXTINF:-1, Eurosport 2 PT
 http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
 #EXTINF:-1, Eurosport 1 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/911.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137347.ts
 #EXTINF:-1, Eurosport 2 Portugal
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/910.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137348.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

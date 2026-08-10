@@ -82,7 +82,7 @@ http://94.130.32.19:8080/dazn3/index.m3u8
 #EXTINF:-1, DAZN 4
 http://94.130.32.19:8080/dazn4/index.m3u8
 #EXTINF:-1, DAZN 5
-http://94.130.32.19:8080/dazn5/index.m3u8
+http://46.151.196.223:14424
 #EXTINF:-1, Sport TV 1
 http://94.130.32.19:8080/sporttv1/index.m3u8
 #EXTINF:-1, Sport TV 2
@@ -95,6 +95,8 @@ http://94.130.32.19:8080/sporttv4/index.m3u8
 http://94.130.32.19:8080/sporttv5/index.m3u8
 #EXTINF:-1, Sport TV 6
 http://94.130.32.19:8080/sporttv6/index.m3u8
+#EXTINF:-1, Sport TV +
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
 #EXTINF:-1, Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1, Star Sports 2

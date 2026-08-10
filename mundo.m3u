@@ -173,6 +173,8 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1, Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1, ABC
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1, ABC New York
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/164.m3u8
 #EXTINF:-1, ABC Miami

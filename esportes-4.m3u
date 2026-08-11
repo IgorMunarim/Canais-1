@@ -44,7 +44,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes
 #EXTINF:-1, Esport3
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1, Teledeporte (Espanha)
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:-1, Teledeporte (Espanha) (alt)
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1, La Liga+

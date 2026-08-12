@@ -133,6 +133,8 @@ http://151.80.18.177:86/Canal+_sport_HD/playlist.m3u8
 http://151.80.18.177:86/Canal+_sport_HD/mpegts
 #EXTINF:-1, SportDigital (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
+#EXTINF:-1, SportDigital (Alemanha) (alt)
+https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1, Red Bull (1)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1, Red Bull (2)
@@ -167,8 +169,6 @@ https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://168.205.87.198:8555/live/1350/123456/305.m3u8
 #EXTINF:-1, X Sports
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
-#EXTINF:-1, DF1
-https://amg00735-amg00735c56-wedotv-eu-9869.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-df1-wedotveu/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -139,6 +139,8 @@ http://stream.mcquack.net/393/index.m3u8
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1, Sport 5 UCR
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1, SKY Sport Top Event (Alemanha)
+https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

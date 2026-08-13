@@ -106,7 +106,7 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1, CLARO SPORTS HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
 #EXTINF:-1, Win Sports HD
-http://138.186.23.7:8082/WINSPORT/index.m3u8
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1, Win Sports + HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
 #EXTINF:-1, DAZN Football (FAST)

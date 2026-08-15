@@ -161,6 +161,10 @@ http://dns.explouddev.com/live/992005733/61992005733/112004.ts
 http://dns.explouddev.com/live/992005733/61992005733/112006.ts
 #EXTINF:-1, Sport TV +
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
+#EXTINF:-1, A Bola
+http://dns.explouddev.com/live/992005733/61992005733/112014.ts
+#EXTINF:-1, Canal 11
+http://dns.explouddev.com/live/992005733/61992005733/112016.ts
 #EXTINF:-1, Tennis Channel
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/418.ts
 #EXTINF:-1, Tennis Channel 2

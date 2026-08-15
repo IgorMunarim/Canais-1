@@ -2,9 +2,9 @@
 #EXTINF:-1, Racer
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 #EXTINF:-1, Racer (alt)
-http://40.160.24.52/MAV_TV/index.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/67117.m3u8
 #EXTINF:-1, Racer (alt 2)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/59693.m3u8
 #EXTINF:-1, Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Racer Brasil
@@ -188,7 +188,7 @@ https://cdn-5.nxplay.com.br/HTO_NITRO/playlist.m3u8
 #EXTINF:-1, TV Car Multimarcas
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1, FOX Sports Racing
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139018.m3u8
 #EXTINF:-1, Portal Sportszone
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF:-1, WedoTV Cars

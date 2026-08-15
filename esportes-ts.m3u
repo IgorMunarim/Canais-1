@@ -10,7 +10,7 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/9563.ts
 #EXTINF:-1, ESPN DEPORTES
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/47478.ts
 #EXTINF:-1, SEC Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/650415.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/44845.ts
 #EXTINF:-1, ACC Network
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/68765.ts
 #EXTINF:-1, CBS Sports Network
@@ -24,7 +24,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
 #EXTINF:-1, Fox Sports 1 Latin
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2882.ts
 #EXTINF:-1, Fox Sports 2 Latin
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2880.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138242.ts
 #EXTINF:-1, Fox Sports 3 Latin
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2881.ts
 #EXTINF:-1, FOX Soccer Plus
@@ -80,9 +80,9 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3613.ts
 #EXTINF:-1, BEIN SPORTS Canadá
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3153.ts
 #EXTINF:-1, BEIN SPORTS 1 France
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659439.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139247.ts
 #EXTINF:-1, BEIN SPORTS 2 France
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659440.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139248.ts
 #EXTINF:-1, BEIN SPORTS 3 France
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659441.ts
 #EXTINF:-1, BEIN SPORTS ñ
@@ -103,8 +103,18 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100767.ts
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100769.ts
 #EXTINF:-1, SKY SPORTS Action
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100764.ts
+#EXTINF:-1, SKY SPORTS +
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100765.ts
 #EXTINF:-1, SKY SPORTS Cricket
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2192.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100766.ts
+#EXTINF:-1, SKY SPORT MotoGP Itália
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136694.ts
+#EXTINF:-1, SKY Sport 24 HD
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136689.ts
+#EXTINF:-1, SKY Sport Max Itália
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136693.ts
+#EXTINF:-1, SKY Sport F1 Alemanha
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136320.ts
 #EXTINF:-1, TYC Sports
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.ts
 #EXTINF:-1, TYC Sports USA
@@ -147,6 +157,10 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137339.ts
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137337.ts
 #EXTINF:-1, DAZN 5 Portugal
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137342.ts
+#EXTINF:-1, DAZN F1
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138385.ts
+#EXTINF:-1, DAZN MotoGP
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138429.ts
 #EXTINF:-1, Sport TV 1
 http://dns.explouddev.com/live/992005733/61992005733/111995.ts
 #EXTINF:-1, Sport TV 2
@@ -159,8 +173,10 @@ http://dns.explouddev.com/live/992005733/61992005733/112002.ts
 http://dns.explouddev.com/live/992005733/61992005733/112004.ts
 #EXTINF:-1, Sport TV 6
 http://dns.explouddev.com/live/992005733/61992005733/112006.ts
+#EXTINF:-1, Sport TV 7
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137430.ts
 #EXTINF:-1, Sport TV +
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51139.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137412.ts
 #EXTINF:-1, A Bola
 http://dns.explouddev.com/live/992005733/61992005733/112014.ts
 #EXTINF:-1, Canal 11
@@ -173,12 +189,16 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/419.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
 #EXTINF:-1, DAZN F1 (alt)
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.ts
+#EXTINF:-1, RAI Sport +
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136653.ts
 #EXTINF:-1, RAI Sport
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/588669.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136654.ts
 #EXTINF:-1, Racer
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/5290.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/67117.ts
+#EXTINF:-1, Racer 2
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/59693.ts
 #EXTINF:-1, FOX Sports Racing
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3053.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139018.ts
 #EXTINF:-1, REV TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/702667.ts
 #EXTINF:-1, Youtube

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Bein Sports Xtra (English)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1, Bein Sports Xtra (Xumo)
+https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387
 #EXTINF:-1, Bein Sports Xtra (English) Tubi
 https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-VRe7uC.m3u8
 #EXTINF:-1, Bein Sports Xtra (Espanhol)

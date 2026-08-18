@@ -125,6 +125,8 @@ https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1, Studio TV
 https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
+#EXTINF:-1, TV Com - São Francisco de Paula
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

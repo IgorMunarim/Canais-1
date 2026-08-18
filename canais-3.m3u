@@ -145,8 +145,6 @@ https://streamserver.streamingdevideo.com.br/8074/8074/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1, TVC Bauru
 https://video09.logicahost.com.br/tvbauru/tvbauru/playlist.m3u8
-#EXTINF:-1, TV Cidade Livre - Rio Preto
-https://tvcidadelivre.com.br/live/livestream.m3u8
 #EXTINF:-1, TVC Jaú
 https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
 #EXTINF:-1, TV das Artes

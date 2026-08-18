@@ -189,6 +189,8 @@ https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1, Feirão TV
 https://feiraotv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1, TV Otimista
+https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

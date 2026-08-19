@@ -5,6 +5,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10636/LVW10636_NvPrTxTSUX/playlist.m3u8
 #EXTINF:-1, Rádio Onda Oeste
 http://168.205.87.198:8555/live/1347/123456/314.m3u8
+#EXTINF:-1, Rádio Difusora Manaus
+https://difusoraamazonas.brasilstream.com.br/hls/difusoraamazonas/index.m3u8
 #EXTINF:-1, CBN RJ
 https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8d/main.m3u8
 #EXTINF:-1, CBN SP

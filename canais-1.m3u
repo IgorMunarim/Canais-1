@@ -19,8 +19,8 @@ https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1, Assembleia Legislativa da Bahia
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
-#EXTINF:-1, TV Câmara Osasco
-https://stream01.msolutionbrasil.com.br/hls/camaraosasco/live.m3u8
+#EXTINF:-1, TV Câmara Salvador
+https://nexttv.brasilstream.com.br/hls/nexttv/index.m3u8
 #EXTINF:-1, TV Câmara Mogi das Cruzes
 https://tv02.zas.media:1936/cmmc/cmmc/playlist.m3u8
 #EXTINF:-1, TV Rádio Litoral
@@ -64,8 +64,6 @@ https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
 #EXTINF:-1, Cultne.TV
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 #EXTINF:-1, TV Aratu
-https://hplay.tv/augetv/12396547488/173.m3u8
-#EXTINF:-1, TV Aratu (Alternativa)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1, TV Cidade Verde Picos (PI)
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8

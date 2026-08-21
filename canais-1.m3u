@@ -139,6 +139,8 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://dc-global-16scw-livepush.akamaized.net/live_cdn/nsbUhlxXsbZnlum/emVqPK2sSrR_sJM/index.m3u8
 #EXTINF:-1, SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1, SBT TH+
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1, Garças TV
 https://video03.logicahost.com.br/lancewebtv/lancewebtv/playlist.m3u8
 #EXTINF:-1, Record MG

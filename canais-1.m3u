@@ -88,7 +88,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1, RBA TV (PA)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1, TVC 16 - Tv Cidade Petrópolis
-https://video01.kshost.com.br/inside2133/inside2133/playlist.m3u8
+https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 #EXTINF:-1, TV Cidade Oeste
 https://tv.dataprimer.com.br:5443/LiveApp/streams/1gHi5TbZ9XtDMmd21396269685334.m3u8
 #EXTINF:-1, TV Petrópolis
@@ -141,8 +141,6 @@ https://dc-global-16scw-livepush.akamaized.net/live_cdn/nsbUhlxXsbZnlum/emVqPK2s
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1, Garças TV
 https://video03.logicahost.com.br/lancewebtv/lancewebtv/playlist.m3u8
-#EXTINF:-1, Record
-https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:-1, Record MG
 http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:-1, Record RJ

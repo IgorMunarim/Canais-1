@@ -19,10 +19,10 @@ http://23.88.66.93/Eurosport2/playlist.m3u8
 http://23.88.66.93/Eurosport1/mpegts
 #EXTINF:-1, Eurosport 2 🇭🇷
 http://23.88.66.93/Eurosport2/mpegts
-#EXTINF:-1, Eurosport
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
-#EXTINF:-1, Eurosport (Alt)
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:-1, Eurosport 1 Alemanha
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136150.ts
+#EXTINF:-1, Eurosport 2 Alemanha
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136156.ts
 #EXTINF:-1, Eurosport 1 🇷🇺 
 http://176.96.241.40/Eurosport1/playlist.m3u8
 #EXTINF:-1, Eurosport 1 🇷🇺 

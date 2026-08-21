@@ -58,19 +58,21 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #EXTINF:-1, Le Figaro
 https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 #EXTINF:-1, RTS 1
-https://netplus.zappr.stream/rts1hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136080.ts
 #EXTINF:-1, RTS 2
-https://netplus.zappr.stream/rts2hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136079.ts
 #EXTINF:-1, RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1, RSI LA1
-https://netplus.zappr.stream/rsila1hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136660.ts
 #EXTINF:-1, RSI LA2
-https://netplus.zappr.stream/rsila2hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136661.ts
 #EXTINF:-1, SRF 1
-https://netplus.zappr.stream/srf1hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137944.ts
 #EXTINF:-1, SRF 2
-https://netplus.zappr.stream/srf2hd.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137946.ts
+#EXTINF:-1, SRF Info
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137947.ts
 #EXTINF:-1, Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1, Carac 2
@@ -82,13 +84,13 @@ https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1, Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1, ITV1
-http://s.rocketdns.info:8080//live/Z3nXfkOnf0/Madt8rUvmN/2292.ts
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/20815.ts
 #EXTINF:-1, ITV2
-https://netplus.zappr.stream/itv2.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/20812.ts
 #EXTINF:-1, ITV3
-https://netplus.zappr.stream/itv3.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/20810.ts
 #EXTINF:-1, ITV4
-https://netplus.zappr.stream/itv4.m3u8
+http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/20807.ts
 #EXTINF:-1, TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1, TMC

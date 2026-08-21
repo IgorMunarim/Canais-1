@@ -14,7 +14,9 @@ https://cdnbarinas.tvzamora.com/espn5/index.m3u8
 #EXTINF:-1, ESPN 6
 https://cdnbarinas.tvzamora.com/espn6/index.m3u8
 #EXTINF:-1, ESPN 7
-https://cdnbarinas.tvzamora.com/espn7/index.m3u8 
+https://cdnbarinas.tvzamora.com/espn7/index.m3u8
+#EXTINF:-1, ESPN Premium
+http://45.190.13.8/ESPNPremiumHD/index.m3u8
 #EXTINF:-1, TVC Deportes
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8
 #EXTINF:-1, FOX SPORTS 

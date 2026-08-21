@@ -71,6 +71,8 @@ http://live.gideo.video/americateve2/master.m3u8
 http://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/playlist.m3u8
 #EXTINF:-1, Red Social Republica Dominicana
 http://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
+#EXTINF:-1, Chespirito
+http://168.205.87.198:8555/live/1354/123456/306.m3u8
 #EXTINF:-1, Las Estrellas (MEX)
 http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, Nueve TV

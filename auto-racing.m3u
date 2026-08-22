@@ -195,6 +195,8 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189316&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=67470f5703d0bece2608a92d&AV_CHANNELID=67470f1eb9942aa5cd0ca7c8
 #EXTINF:-1, Automotion TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189586&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6747129b9be99ff6690445ae&AV_CHANNELID=6747125e0bbbdc7cab0ac6f6
+#EXTINF:-1, ShiftTV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

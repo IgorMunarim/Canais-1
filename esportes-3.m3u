@@ -7,10 +7,6 @@ http://stv-live.akamaized.net/hls/live/2096817/lingeoSTVSportPri/master.m3u8
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1, FOX 🇲🇽 
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
-#EXTINF:-1, FOX Sports en Español (Tubi)
-https://apollo-eks.production-public.tubi.io/live/fox-sports-espanol-QU7jRU.m3u8
-#EXTINF:-1, FOX Sports (Tubi)
-https://apollo-eks.production-public.tubi.io/live/fox-sports-on-tubi-5FPHpS.m3u8
 #EXTINF:-1, FOX Sports Roku
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1, Telemundo Deportes Ahora
@@ -31,6 +27,8 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1, Ace TV
 https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+#EXTINF:-1, UEFA TV
+https://d.tubi1.apollo.adrise.io/live/uefatv-dcviwr.m3u8
 #EXTINF:-1, FOX Deportes in Pluto
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 #EXTINF:-1, Claro Sports Mexico

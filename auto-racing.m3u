@@ -197,6 +197,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189316&AV_PUBLISHERID=669
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189586&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6747129b9be99ff6690445ae&AV_CHANNELID=6747125e0bbbdc7cab0ac6f6
 #EXTINF:-1, ShiftTV
 https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1, V Sport Motor
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd69e/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjllOjE3ODc5MzEwNjc3Mzc6Y2RubGl2ZXR2LnR2OmQ4Y2QyYzViNmQ3ZWE5ZDguNGY3YzA0NTg1ZTc2ZjU5MWE5NzM5YTRhYmU4ODk3MzQxOTZlNjc1ZTMyN2IyY2Y3NjNhZDM1MzlmMTk2ZmE0Yw
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

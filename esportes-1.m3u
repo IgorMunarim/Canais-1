@@ -42,11 +42,13 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1, Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, Fox Sports 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21593.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3ODc5MzQ3MTQ0NzI6Y2RubGl2ZXR2LnR2OjY0YTQxNTM5ZmU4YThjZmUuNDMyNjZhODA1MmQ1ZmQ0YzQ3ZDA0N2NkNDVmNTc0ZDRiMzg4NjRiMzdhMDUwZTcxMjhkZjNjNjg0NDg2MDBlYQ
 #EXTINF:-1, FOX Soccer Plus
 http://40.160.24.52/FOX_SOCCER_PLUS/playlist.m3u8
 #EXTINF:-1, FOX Deportes
 http://40.160.24.58/FOX_DEPORTES/index.m3u8
+#EXTINF:-1, FOX Deportes (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c1/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMxOjE3ODc5MzQ2MTA5MzQ6Y2RubGl2ZXR2LnR2OmEyYTE1ODZlNGMzMmVhNDAuM2Q3ZjFiNWI0NmU2ZjFlYzc4ZWY5ZTdhN2RhMDU2Nzg5MzlmZWE2MDhmMjNlMDI2MjRmMzFhOTVlNzA0NjM3YQ
 #EXTINF:-1, Big Ten Network
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, NBC Sports

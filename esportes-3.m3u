@@ -44,15 +44,15 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1, Bein Sports ñ
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 #EXTINF:-1, Bein Sports 1 France
-http://99.27.51.147:8080/BeinSport/playlist.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3ODc5MzcxOTkzOTI6Y2RubGl2ZXR2LnR2OmM2YWY1M2MwZmEwOGIxYjAuYTcxZjhhMWE1YzYyMTFkZGNjZmI0YzE0YzQzYzE0MDQ2MTE2YWVmZGE2Yjc4NTM1MjQ3MDIyNTcxNjJkZTllZg
 #EXTINF:-1, Bein Sports 1 France (alt)
 http://41.205.70.146/BEINSPORT1/playlist.m3u8
 #EXTINF:-1, Bein Sports 2 France
-http://99.27.51.147:8080/BeinSport2/playlist.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a4/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWE0OjE3ODc5MzcyNTEwNjg6Y2RubGl2ZXR2LnR2OjIxZGJjMjRhMDdjOGViNDIuNGNlYzE2YWI3NDUyODFmMzlhYWQ3YWMzNmQwZGFlMzdhZTBhNjk0YTUyNmRmNTUzNGRlZDNlMTBlYTNjZGU3Zg
 #EXTINF:-1, Bein Sports 2 France (alt)
 http://41.205.70.146/BEINSPORT2/playlist.m3u8
 #EXTINF:-1, Bein Sports 3 France
-http://99.27.51.147:8080/BeinSport3/playlist.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd233/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjMzOjE3ODc5MzcyNzgxOTg6Y2RubGl2ZXR2LnR2OmNhNjgzYmIyNTNiOWQ5Y2IuMGY4MGFkMDE3YTJiNzk2Mzc0NGRkMjQ2MTBkOGZiM2UzNjZlMzM5NjY1OTNiNDA3NWNjNmE1NmIxYjI4MTk3Yw
 #EXTINF:-1, Bein Sports 3 France (alt)
 http://41.205.70.146/BEINSPORT3/playlist.m3u8
 #EXTINF:-1, Bein Sports 4

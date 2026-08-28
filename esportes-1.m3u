@@ -12,21 +12,21 @@ https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-espanol-3SI78
 #EXTINF:-1, Bein Sports Xtra (México)
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
-http://40.160.24.52/ESPN_HD/index.m3u8
+http://stream.bottledesk.net/6500/index.m3u8
 #EXTINF:-1, ESPN 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3637.m3u8
+http://stream.bottledesk.net/6501/index.m3u8
 #EXTINF:-1, ESPN U
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1, ESPN NEWS
-https://gpuserver3.tier1streams.com/ESPN_NEWS/playlist.m3u8
+http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1, ACC Network
-http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
+http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, SEC Network
-http://206.212.244.63/2511/playlist.m3u8
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1, CBS Sports Network
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1, CBS Sports HQ
@@ -48,12 +48,12 @@ http://40.160.24.52/FOX_SOCCER_PLUS/playlist.m3u8
 #EXTINF:-1, FOX Deportes
 http://40.160.24.58/FOX_DEPORTES/index.m3u8
 #EXTINF:-1, Big Ten Network
-http://206.212.244.63/2489/playlist.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1, NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, NBC Sports (samsung)
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
-#EXTINF:-1, NNBC Sports Bay Area
+#EXTINF:-1, NBC Sports Bay Area
 http://40.160.24.58/NBC_SPORTS_NETWORK/playlist.m3u8
 #EXTINF:-1, NBC Sports Boston
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/404.m3u8

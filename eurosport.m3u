@@ -11,14 +11,6 @@ http://79.127.207.193/Eurosport2HD/mpegts
 http://79.127.207.193/Eurosport1HD/playlist.m3u8
 #EXTINF:-1, Eurosport 2 (POL) 
 http://79.127.207.193/Eurosport2HD/playlist.m3u8
-#EXTINF:-1, Eurosport 1 UK
-https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1, Eurosport 2 UK
-https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1, Eurosport 1 (Alt) 🇭🇷
-http://23.88.66.93/Eurosport1/mpegts
-#EXTINF:-1, Eurosport 2 🇭🇷
-http://23.88.66.93/Eurosport2/mpegts
 #EXTINF:-1, Eurosport 1 Alemanha
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136150.ts
 #EXTINF:-1, Eurosport 2 Alemanha

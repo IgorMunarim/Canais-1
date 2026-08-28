@@ -87,6 +87,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
 #EXTINF:-1, Flo Racing
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Flo Racing (alt)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Speed Sport 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1, Speed Sport 1 (Alt)

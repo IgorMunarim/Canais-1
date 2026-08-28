@@ -171,6 +171,8 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19105/playlist.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19027/playlist.m3u8
 #EXTINF:-1, SKY Sport F1 UK
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#EXTINF:-1, SKY Sport F1 UK (alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3ODc5MzExNjkxMDE6Y2RubGl2ZXR2LnR2OjY2MWY0M2IyNjMyMjQ4ZjguNzE4Yzg2NDRmYWZhYzlkZTc4NTBmNzg1ZDkxYTQ0YmIyNDIyOWFjY2U3ZTE5MmU5MTJjOTVjYmU5MDk3ZmJmMg
 #EXTINF:-1, Auto Plus (Rússia)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport

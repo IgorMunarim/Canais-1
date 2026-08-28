@@ -4,7 +4,7 @@ http://41.205.64.66/EUROSPORT1/index.m3u8
 #EXTINF:-1, Eurosport 2 (FRA)
 http://41.205.64.66/EUROSPORT2/index.m3u8
 #EXTINF:-1, Eurosport 1 (POL) (Alt)
-http://79.127.207.193/Eurosport1HD/mpegts
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd331/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzMxOjE3ODc5MzQ1MTcxOTg6Y2RubGl2ZXR2LnR2OjAyMTJkNmM3MTUxZTc4N2QuMWUwY2VkNmQ3NTZjODJmMTQ0OTQzZGU4ZDhmMWQ0NGMwNzBhNGNlNThkMzhhZmM4MGJkYjFjMWU3Nzc5NTU4Mg
 #EXTINF:-1, Eurosport 2 (POL) (Alt)
 http://79.127.207.193/Eurosport2HD/mpegts
 #EXTINF:-1, Eurosport 1 (POL) 
@@ -55,6 +55,10 @@ http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137347.ts
 #EXTINF:-1, Eurosport 2 Portugal
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137348.ts
+#EXTINF:-1, Eurosport 1 GB
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVhOjE3ODc5MzQ0ODIxMzM6Y2RubGl2ZXR2LnR2OjM5YmY3OTUwMTljZjg0ZDguMTRkNTY3NDU0YTYwZGNmYWFiZDA4ZTJkNGQ3NmIxM2ZlM2RhYTZjMGEzY2Y0MGRkNGQ4ZjA2NTBkZjg0ZjI0Mg
+#EXTINF:-1, Eurosport 2 GB
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzViOjE3ODc5MzQ0MDc3NjM6Y2RubGl2ZXR2LnR2OmY3Y2NmNTk0NDVkMDczZmYuZmFjYWUzODNiYzc4YmQwNWNkZjNkMmU1NWQ1NmQwMzc4YmJmMTNiZTk3YjZkNzUyOGIwMGY5NDBhYzVlZjQ5MA
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

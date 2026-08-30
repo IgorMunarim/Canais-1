@@ -141,6 +141,8 @@ http://stream.mcquack.net/212/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
 #EXTINF:-1, SKY Sport (Austria)
 https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1, Laola1 TV
+https://wsc.laola1.at/games/56fd15af60038c0f48ace06aa0cda1ef/Production/41bf188c-ac64-4716-8757-a7c479499b22_master.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -25,8 +25,10 @@ https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1, GPTV (LG TV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
-#EXTINF:-1, GPTV (Nx Play)
+#EXTINF:-1, GPTV (Só Play)
 https://ogc-gptv-soplay.otteravision.com/ogc/gptv/gptv.m3u8
+#EXTINF:-1, GPTV (NX Play)
+https://origin-fast.b-cdn.net/GPTV/index.m3u8
 #EXTINF:-1, GPTV (Samsung)
 https://ogc-gptv-samsungtvplus-br.otteravision.com/ogc/gptv/gptv.m3u8
 #EXTINF:-1, Acelerados

@@ -27,6 +27,8 @@ http://190.197.41.183/Unimas/playlist.m3u8
 http://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1, Telemundo 
 http://45.190.13.8/TelemundoHD/index.m3u8
+#EXTINF:-1, Telemundo (alt)
+https://streamer1.nexgen.bz/TELEMUNDO/mpegts
 #EXTINF:-1, Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1, Telemundo Internacional (alt)

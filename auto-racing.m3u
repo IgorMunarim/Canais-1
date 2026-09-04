@@ -201,6 +201,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189586&AV_PUBLISHERID=669
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1, V Sport Motor
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd69e/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjllOjE3ODc5MzEzNDcwNTg6Y2RubGl2ZXR2LnR2OjNiOGI3ZTI4OTNkOTY0NWIuM2M5MzI3NzUwN2E5ZDVjNWYwZGVlNDJlYjNkNDJiOWY0MWNhNjNmY2M1NDRmMTZhZjBjOTc5OWM3MDgwZmM5MA
+#EXTINF:-1, DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -199,6 +199,16 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139018.ts
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136015.ts
 #EXTINF:-1, ORF Sport
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136203.ts
+#EXTINF:-1, Star Sports 1
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778410.ts
+#EXTINF:-1, Star Sports 1 (alt)
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778413.ts
+#EXTINF:-1, Star Sports 2
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778409.ts
+#EXTINF:-1, Star Sports 2 (alt)
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778412.ts
+#EXTINF:-1, Star Sports 3
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778411.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

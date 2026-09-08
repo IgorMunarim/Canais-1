@@ -48,13 +48,13 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1, TV Sol (Patos-PB)
 https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1, Rede Metropole
-https://isaocorp.cloudecast.com/metropole/index.m3u8
+https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/metropole/index.m3u8
 #EXTINF:-1, TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:-1, WebTV Triangulo
+#EXTINF:-1, WebTV Ituiutaba
 https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8
 #EXTINF:-1, TV Nova Nordeste
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
+https://stream.ecast.com.br/nova-tv/index.m3u8
 #EXTINF:-1, TV Gru Web
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
 #EXTINF:-1, TV Sul
@@ -68,14 +68,14 @@ https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1, Rádio e TV Imprensa
 https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
 #EXTINF:-1, Nas Ondas da Praia Grande
-https://live20.bozztv.com/akamaissh101/ssh101/nasondas/playlist.m3u8
+https://stream.nasondasdapraiagrande.com.br/hls/tv.m3u8
 #EXTINF:-1, Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1, Tv Oitava
 https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8
 #EXTINF:-1, Rede Sempre
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
-#EXTINF:-1, Tv Guarajá
+#EXTINF:-1, Tv Guarajá (TV Norte)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1, Tv Curuai
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8

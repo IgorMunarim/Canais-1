@@ -7,10 +7,8 @@ https://srt01.logicahost.com.br/a10mais/index.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:-1, Nativa TV
 https://stmv1.samcast.com.br/nativatv/nativatv/playlist.m3u8
-#EXTINF:-1, TV Difusora São Luis
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1, TV Casa Gamela
-https://stmv1.srvif.com/tvgamela/tvgamela/playlist.m3u8
+https://stmv3.voxtvhd.com.br/tvgamela/tvgamela/playlist.m3u8
 #EXTINF:-1, TV Metropolitana RJ
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1, TVC Rio
@@ -18,15 +16,13 @@ https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1, TV Max Rio
 https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1, Assembleia Legislativa da Bahia
-https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
+https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
 #EXTINF:-1, TV Câmara Salvador
 https://nexttv.brasilstream.com.br/hls/nexttv/index.m3u8
 #EXTINF:-1, TV Câmara Mogi das Cruzes
 https://tv02.zas.media:1936/cmmc/cmmc/playlist.m3u8
 #EXTINF:-1, TV Rádio Litoral
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8
-#EXTINF:-1, TV Lagos
-https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
 #EXTINF:-1, Rede UTV Brasil
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1, TV A Folha
@@ -41,10 +37,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1, TV COM Santos
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-#EXTINF:-1, TV Grão Pará
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF:-1, Lagoa TV
-https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
 #EXTINF:-1, TV Vale Diamantina
 https://video04.logicahost.com.br/tvvale/tvvale/playlist.m3u8
 #EXTINF:-1, TV 40 Graus
@@ -71,12 +63,8 @@ https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/playlist.m3u8
 #EXTINF:-1, TV Cidade Verde Cuiabá (MT)
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1, NDTV
-https://hplay.tv/augetv/12396547488/49.m3u8
 #EXTINF:-1, O Dia (PI)
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1, TV Sul de Minas
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1, TCM 10 HD
 https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:-1, TCM FM

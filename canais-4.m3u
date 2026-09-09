@@ -59,8 +59,6 @@ https://stream.ecast.com.br/nova-tv/index.m3u8
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
 #EXTINF:-1, TV Sul
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1, Bem TV
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1, TV Alfenas
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
 #EXTINF:-1, ISTV
@@ -110,7 +108,7 @@ https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodrig
 #EXTINF:-1, BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1, TV Ponta da Serra
-https://playout.hubcloud.tv.br:3977/hybrid/play.m3u8
+https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8
 #EXTINF:-1, 40gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1, CBTV Play
@@ -122,7 +120,7 @@ https://stmv1.samcast.com.br/marcos8177/marcos8177/playlist.m3u8
 #EXTINF:-1, TV Zoom Nova Friburgo
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1, TV Goitaca
-https://video01.kshost.com.br/david7639/david7639/playlist.m3u8
+https://video01.brascast.com/david7639/david7639/playlist.m3u8
 #EXTINF:-1, TV Central do Brasil
 https://Stmv2.centralcast.com.br/central/central/playlist.m3u8
 #EXTINF:-1, Rede Tv Mais
@@ -130,9 +128,7 @@ https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
 #EXTINF:-1, TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1, TVNBN
-https://hplay.tv/augetv/12396547488/6721.m3u8
-#EXTINF:-1, TVI Bahia
-https://flussonic.cable.com.br/3tUxZGwA1WhmMAfpANfc/index.fmp4.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1, TVC Potiraguá
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
 #EXTINF:-1, TV Sertão
@@ -142,11 +138,9 @@ https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
 #EXTINF:-1, Interativa TV Lavras
 https://stmv7.samcast.com.br/geobarbosa3099/geobarbosa3099/playlist.m3u8
 #EXTINF:-1, Rádio Tarobá Londrina
-https://cdn.live.br1.jmvstream.com/w/LVW-20211/LVW20211_njXtPW21JK/playlist.m3u8
+https://stmv1.transmissaodigital.com/tarobalondrina/tarobalondrina/playlist.m3u8
 #EXTINF:-1, Rádio Tarobá Cascavel
-https://cdn.live.br1.jmvstream.com/w/LVW-20206/LVW20206_55qe1nTR1g/playlist.m3u8
-#EXTINF:-1, Virtual TV (Rede Meio Norte)
-https://virtual.tv.br/servidor/tv/virtual/virtual.m3u8
+https://stmv1.transmissaodigital.com/tarobacascavel/tarobacascavel/playlist.m3u8
 #EXTINF:-1, TV Interlagos
 https://stmv1.paineldevideo.com.br/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:-1, TV Câmara João Pessoa

@@ -61,14 +61,8 @@ https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
 https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1, TV Serra
 https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
-#EXTINF:-1, Band RS
-https://hplay.tv/augetv/12396547488/229.m3u8
 #EXTINF:-1, SBT RS
-https://hplay.tv/live/augetv/12396547488/1276.m3u8
-#EXTINF:-1, SBT RS (alt)
 http://streamer.sattvacabo.com.br/SBT_RIO/index.m3u8
-#EXTINF:-1, Record RS
-https://hplay.tv/augetv/12396547488/50.m3u8
 #EXTINF:-1, Rede Metropolitana RS
 https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m3u8
 #EXTINF:-1, Conecta Mais Web TV
@@ -92,7 +86,7 @@ https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1, Tv Metro (Rede Metropolitana)
 https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
 #EXTINF:-1, TV Passo Fundo
-https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+http://wz3.dnip.com.br/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1, Três Passos TV
 https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 #EXTINF:-1, TV Ponta da Serra

@@ -125,6 +125,8 @@ https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1, Lagoa TV
 https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
+#EXTINF:-1, TVCOM São Francisco de Paula
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

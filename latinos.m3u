@@ -137,6 +137,8 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1, El Trece
 http://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1, Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1, Canal Siete 
 http://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF:-1, Canal 9 Resistencia

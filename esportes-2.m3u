@@ -127,22 +127,10 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1, NBA TV
 http://40.160.24.58/NBA_TV/index.m3u8
-#EXTINF:-1, SKY Sport (Itália)
-https://7nyaler.streamhostingcdn.top/stream/1/index.m3u8
-#EXTINF:-1, SKY Sport Mix (Itália)
-https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
-#EXTINF:-1, SKY Sport Top Event (Itália)
-https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
-#EXTINF:-1, SKY Sport Arena (Itália)
-https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
-#EXTINF:-1, SKY Sport Max (Itália)
-https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8
-#EXTINF:-1, SKY Sport Cricket (UK)
-http://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-#EXTINF:-1, SKY Sports + (UK)
-http://7nyaler.streamhostingcdn.top/stream/11/index.m3u8
-#EXTINF:-1, SKY Sports action (UK)
-http://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
+#EXTINF:-1, SKY Sport Premier League
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1, SKY Sport Action
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
 #EXTINF:-1, Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1, S Sport

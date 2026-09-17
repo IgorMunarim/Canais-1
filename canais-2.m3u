@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Canal ABC
 https://servidor2.vcrmedia.com.br/hls/canalabc.m3u8
+#EXTINF:-1, TV Vera cruz
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1, TV Polo Cubatão
 https://video08.logicahost.com.br/tvpolo/tvpolo/playlist.m3u8
 #EXTINF:-1, TV Mídia Digital Baixada Santista

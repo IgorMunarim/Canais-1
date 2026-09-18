@@ -79,6 +79,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed5
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1, GE Fast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, GE Fast (1)
+https://cc-gilgbjhgo02wm.akamaized.net/Caze_TV.m3u8
 #EXTINF:-1, GE Fast (2)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1, GE Fast (LG)

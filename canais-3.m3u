@@ -169,6 +169,8 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 https://feiraotv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1, TV Otimista
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
+#EXTINF:-1, TVT
+https://pb-k6qlbl6pc1xqh.akamaized.net/TVTNews.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

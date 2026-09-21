@@ -67,6 +67,8 @@ https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
 #EXTINF:-1, NSports FAST
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1, NSports (innova)
+https://live01.innovatv.tv.br/Nsports_1080/index.m3u8
 #EXTINF:-1, NSports (TCL)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1, Canal GOAT
@@ -129,20 +131,14 @@ https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1, InfoSport+
 http://212.102.60.80/Infosport/playlist.m3u8
-#EXTINF:-1, Canal+ Sport 360
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
-#EXTINF:-1, +Foot
-https://futbol9865.ultratv13.workers.dev/deportivo111/12.m3u8
 #EXTINF:-1, Canal+ Sport (Alt)
 http://151.80.18.177:86/Canal+_sport_HD/mpegts
 #EXTINF:-1, SportDigital (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
 #EXTINF:-1, SportDigital (Alemanha) (alt)
 https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-#EXTINF:-1, Red Bull (1)
+#EXTINF:-1, Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1, Red Bull (2)
-https://hplay.tv/augetv/12396547488/171.m3u8
 #EXTINF:-1, Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1, Bahrain Sports 2

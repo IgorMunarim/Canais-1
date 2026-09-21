@@ -161,6 +161,8 @@ https://mancheterio.brasilstream.com.br/hls/mancheterio/index.m3u8
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1, Badoly TV
 https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
+#EXTINF:-1, TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

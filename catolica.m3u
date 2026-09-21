@@ -141,6 +141,12 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1, Católica TV
 https://stmv2.painelvideocast.com.br/caloticatv/caloticatv/playlist.m3u8
+#EXTINF:-1, TV Capuchin
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+#EXTINF:-1, TV Família
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
+#EXTINF:-1, Web TV Ave Maria
+https://stmv1.srvif.com/avemaria/avemaria/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

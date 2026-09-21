@@ -61,8 +61,6 @@ https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
 https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1, TV Serra
 https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
-#EXTINF:-1, SBT RS
-http://streamer.sattvacabo.com.br/SBT_RIO/index.m3u8
 #EXTINF:-1, Rede Metropolitana RS
 https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m3u8
 #EXTINF:-1, Conecta Mais Web TV
@@ -121,8 +119,6 @@ https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1, Studio TV
 https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
-#EXTINF:-1, TV Com - São Francisco de Paula
-https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1, Lagoa TV
 https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
 #EXTINF:-1, TVCOM São Francisco de Paula

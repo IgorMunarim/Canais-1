@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, A Fazenda 1
+https://megaflix.mgfiles.lat/039ff9bbadf245574cd86cc625b5be36/file.m3u8
+#EXTINF:-1, A Fazenda 2
+https://megaflix.mgfiles.lat/c8e4dfd3962aaa276e2decaebee8c535/file.m3u8
 #EXTINF:-1, TV Digital Biriguí
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1, MBC Brasil

@@ -339,6 +339,10 @@ https://video02.logicahost.com.br/adriano2/adriano2/playlist.m3u8
 https://video06.logicahost.com.br/gh1/gh1/playlist.m3u8
 #EXTINF:-1, São Vicente - Clube de Voo Livre
 https://camera.clubecvllp.com.br/cam1/index.m3u8
+#EXTINF:-1, Guarujá - Praia das Pitangueiras
+https://b15.hdrelay.com/camera/64d6753a42b4125912e4d348/relay/playlist.m3u8
+#EXTINF:-1, Santos - Ponta da Praia
+https://b15.hdrelay.com/camera/657aff80d00f343d4a0862d3/relay/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

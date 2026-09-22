@@ -20,7 +20,7 @@ https://megaflix.mgfiles.lat/fb7eded362d3787c0f570fe7a4455745/file.m3u8
 #EXTINF:-1, RBS TV Porto Alegre
 https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
 #EXTINF:-1, RBS TV
-http://streamer.sattvacabo.com.br/GLOBO_RS/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1, TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1, TV Morena Dourados

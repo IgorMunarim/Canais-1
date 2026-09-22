@@ -151,6 +151,20 @@ https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 http://dns.explouddev.com/live/992005733/61992005733/301421.m3u8
 #EXTINF:-1, SportyNet 3
 http://dns.explouddev.com/live/992005733/61992005733/301423.m3u8
+#EXTINF:-1, ESPN 1_TVV
+http://190.60.48.151:8010/play/ESPN1_TVV/index.m3u8
+#EXTINF:-1, ESPN 2_TVV
+http://190.60.48.151:8010/play/ESPN2_TVV/index.m3u8
+#EXTINF:-1, ESPN 3_TVV
+http://190.60.48.151:8010/play/ESPN3_TVV/index.m3u8
+#EXTINF:-1, ESPN 4_TVV
+http://190.60.48.151:8010/play/ESPN4_TVV/index.m3u8
+#EXTINF:-1, ESPN 5_TVV
+http://190.60.48.151:8010/play/ESPN5_TVV/index.m3u8
+#EXTINF:-1, ESPN 6_TVV
+http://190.60.48.151:8010/play/ESPN6_TVV/index.m3u8
+#EXTINF:-1, ESPN 7_TVV
+http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

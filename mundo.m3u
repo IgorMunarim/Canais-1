@@ -5,10 +5,16 @@ https://freqsyndlin.servustv.com/771_playlist_1.m3u8
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 #EXTINF:-1, RAI 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1, RAI 1 (alt)
+http://102.129.186.182:81/rai1/index.m3u8
 #EXTINF:-1, RAI 2
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1, RAI 2 (alt)
+http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:-1, RAI 3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1, RAI 3 (alt)
+http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:-1, RAI News
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1, RAI Alto Adige

@@ -28,9 +28,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Canal Saúde
-https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-#EXTINF:-1, TV Escola
-http://45.190.28.50/TV_ESCOLA/index.m3u8
+https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/auto.m3u8
 #EXTINF:-1, TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1, TVE MS

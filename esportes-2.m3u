@@ -111,6 +111,8 @@ https://freqsyndlin.redbull.com/582/servustvon/hls/master/playlist.m3u8
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1, A Bola TV
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10691.m3u8
+#EXTINF:-1, Canal 11
+http://50.7.120.34:8080/CANAL_11/index.m3u8
 #EXTINF:-1, Azteca Deportes (Tubi)
 https://apollo-eks.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
 #EXTINF:-1, Jordan Sport

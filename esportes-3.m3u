@@ -70,11 +70,11 @@ http://50.7.120.34:8080/DAZN1/index.m3u8
 #EXTINF:-1, DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:-1, DAZN 3
-http://dns.explouddev.com/live/992005733/61992005733/273452.m3u8
+http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1, DAZN 4
-http://94.130.32.19:8080/dazn4/index.m3u8
+http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1, DAZN 5
-http://dns.explouddev.com/live/992005733/61992005733/273453.m3u8
+http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1, Sport TV 1
 http://dns.explouddev.com/live/992005733/61992005733/111995.m3u8
 #EXTINF:-1, Sport TV 2

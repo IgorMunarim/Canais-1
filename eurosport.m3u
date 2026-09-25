@@ -3,10 +3,10 @@
 https://futbol9865.ultratv13.workers.dev/deportivo111/15.m3u8
 #EXTINF:-1, Eurosport 2 (FRA)
 https://futbol9865.ultratv13.workers.dev/deportivo111/16.m3u8
-#EXTINF:-1, Eurosport 1 (POL) (Alt)
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd331/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzMxOjE3ODc5MzQ1MTcxOTg6Y2RubGl2ZXR2LnR2OjAyMTJkNmM3MTUxZTc4N2QuMWUwY2VkNmQ3NTZjODJmMTQ0OTQzZGU4ZDhmMWQ0NGMwNzBhNGNlNThkMzhhZmM4MGJkYjFjMWU3Nzc5NTU4Mg
-#EXTINF:-1, Eurosport 2 (POL) (Alt)
-http://79.127.207.193/Eurosport2HD/mpegts
+#EXTINF:-1, Eurosport 1 (GBR)
+http://141.94.193.53/Eurosport_1_HD/index.m3u8
+#EXTINF:-1, Eurosport 2 (POL)
+http://141.94.193.53/Eurosport_2_HD/index.m3u8
 #EXTINF:-1, Eurosport 1 (POL) 
 http://79.127.207.193/Eurosport1HD/playlist.m3u8
 #EXTINF:-1, Eurosport 2 (POL) 

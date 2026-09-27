@@ -135,6 +135,8 @@ https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 http://dns.explouddev.com/live/992005733/61992005733/301421.m3u8
 #EXTINF:-1, SportyNet 3
 http://dns.explouddev.com/live/992005733/61992005733/301423.m3u8
+#EXTINF:-1, Movistar
+http://195.178.110.110:80/movistar/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

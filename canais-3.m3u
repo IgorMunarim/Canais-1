@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Rádio Bandeirantes
+https://amg29547-amg29547c3-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c3-amgplt0026/playlist.m3u8
 #EXTINF:-1, Rádio Aparecida
 https://cdn.live.br1.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/playlist.m3u8
 #EXTINF:-1, A Rádio Pop

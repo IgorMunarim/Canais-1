@@ -15,6 +15,10 @@ http://102.129.186.182:81/rai2/index.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1, RAI 3 (alt)
 http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:-1, RAI 4
+http://102.129.186.182:81/rai4/index.m3u8
+#EXTINF:-1, RAI 5
+http://102.129.186.182:81/rai5/index.m3u8
 #EXTINF:-1, RAI News
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1, RAI Alto Adige

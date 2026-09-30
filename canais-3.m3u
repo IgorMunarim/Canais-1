@@ -21,6 +21,8 @@ https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1, Rádio Morada Araraquara
 https://srv1.zcast.com.br/moradafm/moradafm/playlist.m3u8
+#EXTINF:-1, Rádio 106 FM Sertaneja
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:-1, TV Concordia
 https://tv03.zas.media:1936/concordia/concordia/playlist.m3u8
 #EXTINF:-1, Vivax TV
@@ -33,8 +35,6 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 https://tv02.zas.media:1936/ramevale/ramevale/playlist.m3u8
 #EXTINF:-1, Melphis FM
 https://srv2.zcast.com.br/melphistv/melphistv/playlist.m3u8
-#EXTINF:-1, Manaus TV
-https://cdn.live.br1.jmvstream.com/webtv/manausfm2/playlist/playlist.m3u8
 #EXTINF:-1, Ypê TV
 https://video09.logicahost.com.br/yptvoficioal/yptvoficioal/playlist.m3u8
 #EXTINF:-1, Rádio Metropoles

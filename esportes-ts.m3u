@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1, ESPN
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/9569.ts
 #EXTINF:-1, ESPN 2 
@@ -9,6 +9,16 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/9561.ts
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/9563.ts
 #EXTINF:-1, ESPN DEPORTES
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/47478.ts
+#EXTINF:-1, ESPN CL
+http://23.153.217.158:8080/live/954080261tv/akdsm84/501.ts
+#EXTINF:-1, ESPN 2 CL
+http://23.153.217.158:8080/live/954080261tv/akdsm84/503.ts
+#EXTINF:-1, ESPN 3 CL
+http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
+#EXTINF:-1, ESPN 4 CL
+http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
+#EXTINF:-1, ESPN 4 Latin
+http://23.153.217.158:8080/live/954080261tv/akdsm84/455.ts
 #EXTINF:-1, SEC Network
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/44845.ts
 #EXTINF:-1, ACC Network
@@ -22,11 +32,15 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/9554.ts
 #EXTINF:-1, FOX Deportes
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2559.ts
 #EXTINF:-1, Fox Sports 1 Latin
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2882.ts
+http://23.153.217.158:8080/live/954080261tv/akdsm84/456.ts
 #EXTINF:-1, Fox Sports 2 Latin
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138242.ts
+http://23.153.217.158:8080/live/954080261tv/akdsm84/454.ts
 #EXTINF:-1, Fox Sports 3 Latin
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138244.ts
+#EXTINF:-1, Fox Sports 1 MX
+http://23.153.217.158:8080/live/954080261tv/akdsm84/540.ts
+#EXTINF:-1, Fox Sports 2 MX
+http://23.153.217.158:8080/live/954080261tv/akdsm84/535.ts
 #EXTINF:-1, FOX Soccer Plus
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139016.ts
 #EXTINF:-1, Big Ten Network
@@ -112,9 +126,11 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136693.ts
 #EXTINF:-1, SKY Sport F1 Alemanha
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136320.ts
 #EXTINF:-1, TYC Sports
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.ts
+http://23.153.217.158:8080/live/954080261tv/akdsm84/462.ts
 #EXTINF:-1, TYC Sports USA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.ts
+#EXTINF:-1, TNT Sports Premium
+http://23.153.217.158:8080/live/954080261tv/akdsm84/460.ts
 #EXTINF:-1, TNT Sports 1 UK
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/100775.ts
 #EXTINF:-1, TNT Sports 2 UK
@@ -185,6 +201,8 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/419.ts
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.ts
 #EXTINF:-1, DAZN F1 (alt)
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.ts
+#EXTINF:-1, DAZN La Liga
+http://23.153.217.158:8080/live/954080261tv/akdsm84/499.ts
 #EXTINF:-1, RAI Sport +
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136653.ts
 #EXTINF:-1, RAI Sport
@@ -209,6 +227,22 @@ http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778409.ts
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778412.ts
 #EXTINF:-1, Star Sports 3
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778411.ts
+#EXTINF:-1, Win+ Futbol
+http://23.153.217.158:8080/live/wspdprzjjh/bdkizmamhb/359.ts
+#EXTINF:-1, DSports
+http://23.153.217.158:8080/live/954080261tv/akdsm84/464.ts
+#EXTINF:-1, DSports (alt)
+http://23.153.217.158:8080/live/954080261tv/akdsm84/465.ts
+#EXTINF:-1, DSports (alt2)
+http://23.153.217.158:8080/live/954080261tv/akdsm84/466.ts
+#EXTINF:-1, DSports (alt3)
+http://23.153.217.158:8080/live/954080261tv/akdsm84/467.ts
+#EXTINF:-1, DSports+
+http://23.153.217.158:8080/live/954080261tv/akdsm84/468.ts
+#EXTINF:-1, DSports 2
+http://23.153.217.158:8080/live/954080261tv/akdsm84/473.ts
+#EXTINF:-1, Movistar +
+http://23.153.217.158:8080/live/954080261tv/akdsm84/500.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

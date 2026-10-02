@@ -7,8 +7,20 @@ http://23.153.217.158:8080/live/954080261tv/akdsm84/503.ts
 http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
 #EXTINF:-1, ESPN 4 CL
 http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
+#EXTINF:-1, ESPN 1 Latin
+http://23.153.217.158:8080/live/954080261tv/akdsm84/522.ts
+#EXTINF:-1, ESPN 2 Latin
+http://23.153.217.158:8080/live/954080261tv/akdsm84/510.ts
+#EXTINF:-1, ESPN 3 Latin
+http://23.153.217.158:8080/live/954080261tv/akdsm84/514.ts
 #EXTINF:-1, ESPN 4 Latin
+http://23.153.217.158:8080/live/954080261tv/akdsm84/517.ts
+#EXTINF:-1, ESPN 4 Latin (alt)
 http://23.153.217.158:8080/live/954080261tv/akdsm84/455.ts
+#EXTINF:-1, ESPN Premium
+http://23.153.217.158:8080/live/954080261tv/akdsm84/542.ts
+#EXTINF:-1, ESPN Premium (alt)
+http://23.153.217.158:8080/live/954080261tv/akdsm84/543.ts
 #EXTINF:-1, Fox Sports 1 Latin
 http://23.153.217.158:8080/live/954080261tv/akdsm84/456.ts
 #EXTINF:-1, Fox Sports 2 Latin

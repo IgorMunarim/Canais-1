@@ -170,9 +170,15 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137337.ts
 #EXTINF:-1, DAZN 5 Portugal
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/137342.ts
 #EXTINF:-1, DAZN F1
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138385.ts
-#EXTINF:-1, DAZN MotoGP
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138429.ts
+http://23.153.217.158:8080/live/954080261tv/akdsm84/60350.ts
+#EXTINF:-1, DAZN 1
+http://23.153.217.158:8080/live/954080261tv/akdsm84/60354.ts
+#EXTINF:-1, DAZN 2
+http://23.153.217.158:8080/live/954080261tv/akdsm84/60358.ts
+#EXTINF:-1, DAZN 3 
+http://23.153.217.158:8080/live/954080261tv/akdsm84/60361.ts
+#EXTINF:-1, DAZN 4
+http://23.153.217.158:8080/live/954080261tv/akdsm84/60364.ts
 #EXTINF:-1, Sport TV 1
 http://dns.explouddev.com/live/992005733/61992005733/111995.ts
 #EXTINF:-1, Sport TV 2

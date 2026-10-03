@@ -75,8 +75,6 @@ https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648
 https://d130mn8b66zi0y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bqqljpzcglggs/MotoRetro_IT.m3u8
 #EXTINF:-1, TV do Carro
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
-#EXTINF:-1, Auto TV
-https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1, Nitro Circus
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Auto Motor Sport
@@ -108,7 +106,7 @@ https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partn
 #EXTINF:-1, REV'N
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1, Drive+Speed
-https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/680fc4653488ae8466b878fc/manifest.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8
 #EXTINF:-1, RTL Nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1, TVS Turbo

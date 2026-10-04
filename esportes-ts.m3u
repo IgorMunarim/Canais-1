@@ -26,11 +26,15 @@ http://23.153.217.158:8080/live/954080261tv/akdsm84/456.ts
 #EXTINF:-1, Fox Sports 2 Latin
 http://23.153.217.158:8080/live/954080261tv/akdsm84/454.ts
 #EXTINF:-1, Fox Sports 3 Latin
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/138244.ts
+http://23.153.217.158:8080/live/954080261tv/akdsm84/538.ts
 #EXTINF:-1, Fox Sports 1 MX
 http://23.153.217.158:8080/live/954080261tv/akdsm84/540.ts
+#EXTINF:-1, Fox Sports 1 MX (alt)
+http://23.153.217.158:8080/live/954080261tv/akdsm84/534.ts
 #EXTINF:-1, Fox Sports 2 MX
 http://23.153.217.158:8080/live/954080261tv/akdsm84/535.ts
+#EXTINF:-1, Fox Sports 3 MX
+http://23.153.217.158:8080/live/954080261tv/akdsm84/537.ts
 #EXTINF:-1, TYC Sports
 http://23.153.217.158:8080/live/954080261tv/akdsm84/462.ts
 #EXTINF:-1, TNT Sports Premium

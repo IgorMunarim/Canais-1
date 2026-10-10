@@ -93,6 +93,8 @@ http://23.153.217.158:8080/live/954080261tv/akdsm84/468.ts
 http://23.153.217.158:8080/live/954080261tv/akdsm84/473.ts
 #EXTINF:-1, Movistar +
 http://23.153.217.158:8080/live/954080261tv/akdsm84/500.ts
+#EXTINF:-1, Premiere
+http://195.181.163.143:14694/live.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

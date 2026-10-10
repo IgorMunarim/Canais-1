@@ -22,7 +22,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1, ESPN The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1, ESPN DEPORTES
-http://168.228.44.241:9998/play/a0dz/index.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
 #EXTINF:-1, ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1, ACC Network (alt)

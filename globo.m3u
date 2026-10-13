@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, TV Bahia
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1, Globo SP
 http://45.190.156.152/GLOBO_HD/index.m3u8
 #EXTINF:-1, TV TEM
@@ -11,8 +13,6 @@ http://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 #EXTINF:-1, RBS TV
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1, TV Bahia
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1, TV Morena Dourados
 http://media2.cdntvms.com.br/tv_morena_dorados/index.fmp4.m3u8
 #EXTINF:-1, Rede Amazônica Boa Vista

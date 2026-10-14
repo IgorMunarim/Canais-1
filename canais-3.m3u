@@ -173,6 +173,8 @@ https://feiraotv.nuvemplay.live/hls/stream.m3u8
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
 #EXTINF:-1, TVT
 https://pb-k6qlbl6pc1xqh.akamaized.net/TVTNews.m3u8
+#EXTINF:-1, TV Clube Brasil
+https://isaocorp.cloudecast.com/recon/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

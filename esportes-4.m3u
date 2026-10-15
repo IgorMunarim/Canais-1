@@ -23,6 +23,8 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1, Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1, Bike Channel
+https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8
 #EXTINF:-1, Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1, Dubai Sports 2

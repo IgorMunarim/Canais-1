@@ -171,20 +171,20 @@ https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://168.205.87.198:8555/live/1350/123456/305.m3u8
 #EXTINF:-1, X Sports
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
-#EXTINF:-1, ESPN 1 TVV
-http://190.60.48.151:8010/play/ESPN1_TVV/index.m3u8
-#EXTINF:-1, ESPN 2 TVV
-http://190.60.48.151:8010/play/ESPN2_TVV/index.m3u8
-#EXTINF:-1, ESPN 3 TVV
-http://190.60.48.151:8010/play/ESPN3_TVV/index.m3u8
-#EXTINF:-1, ESPN 4 TVV
-http://190.60.48.151:8010/play/ESPN4_TVV/index.m3u8
-#EXTINF:-1, ESPN 5 TVV
-http://190.60.48.151:8010/play/ESPN5_TVV/index.m3u8
-#EXTINF:-1, ESPN 6 TVV
-http://190.60.48.151:8010/play/ESPN6_TVV/index.m3u8
-#EXTINF:-1, ESPN 7 TVV
-http://190.60.48.151:8010/play/ESPN7_TVV/index.m3u8
+#EXTINF:-1, ESPN 1 Latin America South
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1, ESPN 2 Latin America South
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1, ESPN 3 Latin America South
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1, ESPN 4 Latin America South
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1, ESPN 5 Latin America South
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1, ESPN 6 Latin America South
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1, ESPN 7 Latin America South
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

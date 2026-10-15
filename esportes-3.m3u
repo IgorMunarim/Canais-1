@@ -155,6 +155,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
 #EXTINF:-1, ESPN 7 Latin America Argentina
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/playlist.m3u8
+#EXTINF:-1, ESPN Premium
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

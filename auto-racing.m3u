@@ -173,6 +173,8 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19027/mpegts
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19027/index.m3u8
 #EXTINF:-1, SKY Sport F1 UK
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#EXTINF:-1, SKY Sport F1 UK (alt)
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1, Auto Plus (Rússia)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport
@@ -185,8 +187,6 @@ https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
 https://cdn-5.nxplay.com.br/HTO_NITRO/playlist.m3u8
 #EXTINF:-1, TV Car Multimarcas
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
-#EXTINF:-1, FOX Sports Racing
-http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/139018.ts
 #EXTINF:-1, Portal Sportszone
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF:-1, WedoTV Cars

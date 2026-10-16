@@ -94,7 +94,7 @@ https://tvsen7.aynascope.net/tsn2/index.m3u8
 #EXTINF:-1, TSN 3
 https://tvsen7.aynascope.net/tsn3/index.m3u8
 #EXTINF:-1, TSN 4
-http://40.160.24.55/TSN_4/playlist.m3u8
+http://109.104.153.220:80/TSN-4/index.m3u8
 #EXTINF:-1, TSN 5
 http://40.160.24.55/TSN_5/playlist.m3u8
 #EXTINF:-1, TSN The Ocho

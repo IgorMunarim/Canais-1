@@ -97,6 +97,10 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1, RTL Zwei
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1, ORF 1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1, ORF 2
+https://test06.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
 #EXTINF:-1, ORF 3
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1, ATV

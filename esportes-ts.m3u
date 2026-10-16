@@ -95,6 +95,18 @@ http://23.153.217.158:8080/live/954080261tv/akdsm84/473.ts
 http://23.153.217.158:8080/live/954080261tv/akdsm84/500.ts
 #EXTINF:-1, Premiere
 http://195.181.163.143:14694/live.ts
+#EXTINF:-1, MAGENTA SPORT 1
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174426.ts
+#EXTINF:-1, MAGENTA SPORT 2
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174427.ts
+#EXTINF:-1, MAGENTA SPORT 3
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174428.ts
+#EXTINF:-1, MAGENTA SPORT 4
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174429.ts
+#EXTINF:-1, MAGENTA SPORT 5
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174430.ts
+#EXTINF:-1, NOVA SPORTS NEWS
+ehttp://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174431.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

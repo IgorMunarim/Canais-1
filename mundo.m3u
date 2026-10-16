@@ -59,10 +59,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:-1, UN United Nations TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1, Le Figaro
-https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
-#EXTINF:-1, TMC
-http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1, RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1, Carac 1
@@ -79,6 +75,8 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1, TMC
 http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1, TMC (alt)
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1, France 2
 http://89.187.185.76:8080/France2/index.m3u8
 #EXTINF:-1, France 3
@@ -89,6 +87,8 @@ http://89.187.185.76:8080/France4/index.m3u8
 http://89.187.185.76:8080/France5/index.m3u8
 #EXTINF:-1, Le Figaro TV
 https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
+#EXTINF:-1, Le Figaro
+https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 #EXTINF:-1, LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1, Das Erste
@@ -104,7 +104,7 @@ https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1, ORF 2
 https://test06.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
 #EXTINF:-1, ORF 3
-https://test06.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1, ATV
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1, La Une RBTF

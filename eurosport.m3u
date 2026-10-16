@@ -5,7 +5,7 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/15.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/16.m3u8
 #EXTINF:-1, Eurosport 1 (GBR)
 http://141.94.193.53/Eurosport_1_HD/index.m3u8
-#EXTINF:-1, Eurosport 2 (POL)
+#EXTINF:-1, Eurosport 2 (GBR)
 http://141.94.193.53/Eurosport_2_HD/index.m3u8
 #EXTINF:-1, Eurosport 1 (POL) 
 http://79.127.207.193/Eurosport1HD/playlist.m3u8
@@ -16,9 +16,9 @@ http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136150.ts
 #EXTINF:-1, Eurosport 2 Alemanha
 http://172.110.221.91:8080/live/3TJy9l2stY/g1naiv5qZ5/136156.ts
 #EXTINF:-1, Eurosport 1 🇷🇺 
-http://176.96.241.40/Eurosport1/playlist.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1, Eurosport 1 🇷🇺 
-http://176.96.241.40/Eurosport2/playlist.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1, Eurosport 1 🇷🇴
 http://103.161.35.76/RO-110/playlist.m3u8
 #EXTINF:-1, Eurosport 2 🇷🇴

@@ -50,13 +50,9 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/01.m3u8
 #EXTINF:-1, Bein Sports 1 France (alt)
 http://41.205.70.146/BEINSPORT1/playlist.m3u8
 #EXTINF:-1, Bein Sports 2 France
-https://futbol9865.ultratv13.workers.dev/deportivo111/02.m3u8
-#EXTINF:-1, Bein Sports 2 France (alt)
-http://41.205.70.146/BEINSPORT2/playlist.m3u8
+http://tv.streambox.fr/live/testlivestream/testlivestream/27.m3u8
 #EXTINF:-1, Bein Sports 3 France
-https://futbol9865.ultratv13.workers.dev/deportivo111/03.m3u8
-#EXTINF:-1, Bein Sports 3 France (alt)
-http://41.205.70.146/BEINSPORT3/playlist.m3u8
+http://tv.streambox.fr/live/testlivestream/testlivestream/28.m3u8
 #EXTINF:-1, Bein Sports Haber
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19064/mpegts
 #EXTINF:-1, Bein Sports Max 1

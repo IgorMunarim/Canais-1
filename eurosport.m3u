@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Eurosport
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1, Eurosport 1 (GBR)
 http://141.94.193.53/Eurosport_1_HD/index.m3u8
 #EXTINF:-1, Eurosport 2 (GBR)

@@ -149,6 +149,8 @@ https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 #EXTINF:-1, Web TV Ave Maria
 https://stmv1.srvif.com/avemaria/avemaria/playlist.m3u8
+#EXTINF:-1, Atrios TV
+https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -101,6 +101,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1, Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1, Haiti News Channel
+https://cdn.haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

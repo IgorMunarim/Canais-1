@@ -34,11 +34,11 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 #EXTINF:-1, Fenerbahce TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1, Unique Sports 1
-https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+https://pop.uniquetv.com.br/hls/uniquesports1.m3u8
 #EXTINF:-1, Unique Sports 2
-https://pop.uniquetv.com.br/uniquesports2/video.m3u8
+https://pop.uniquetv.com.br/hls/uniquesports2.m3u8
 #EXTINF:-1, Unique Sports 3
-https://pop.uniquetv.com.br/uniquesports3/video.m3u8
+https://pop.uniquetv.com.br/hls/uniquesports3.m3u8
 #EXTINF:-1, Canela Deportes
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-rewardedtv/playlist.m3u8
 #EXTINF:-1, Esport3

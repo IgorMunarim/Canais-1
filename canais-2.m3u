@@ -60,7 +60,7 @@ https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 #EXTINF:-1, Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1, TV Planalto Norte
-https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8
+https://pop.uniquetv.com.br/hls/tvplanaltonorte.m3u8
 #EXTINF:-1, TV Pan Poços de Caldas
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1, TV Poços
@@ -151,8 +151,6 @@ https://video08.logicahost.com.br/tvforum/tvforum/playlist.m3u8
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1, Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-#EXTINF:-1, TV SJK
-https://pop.uniquetv.com.br/tvsjk/index.fmp4.m3u8
 #EXTINF:-1, Rádio Manchete Rio de Janeiro
 https://mancheterio.brasilstream.com.br/hls/mancheterio/index.m3u8
 #EXTINF:-1, TV Alepi
@@ -162,7 +160,7 @@ https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 #EXTINF:-1, TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1, Unique TV
-https://pop.uniquetv.com.br/uniquetv/video.m3u8
+https://pop.uniquetv.com.br/hls/uniquetv.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -72,11 +72,9 @@ https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1, Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1, TF1
-http://tv.streambox.fr/live/testlivestream/testlivestream/32.m3u8
+http://5.180.164.197:8080/TF1/index.m3u8
 #EXTINF:-1, TMC
-http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1, TMC (alt)
-http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+http://5.180.164.197:8080/TMC/index.m3u8
 #EXTINF:-1, France 2
 http://89.187.185.76:8080/France2/index.m3u8
 #EXTINF:-1, France 3
@@ -90,7 +88,7 @@ https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
 #EXTINF:-1, Le Figaro
 https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 #EXTINF:-1, LCI
-http://151.80.18.177:86/LCI_HD/index.m3u8
+http://5.180.164.197:8080/LCI/index.m3u8
 #EXTINF:-1, Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1, Das Erste (alt)

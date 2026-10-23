@@ -89,6 +89,16 @@ https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlis
 https://video.abnnews.pk/abn/live/playlist.m3u8
 #EXTINF:-1, TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1, France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1, France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1, France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1, France 24 Spanish
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1, France 24 FAST English
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1, Better Health
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1, RT ES

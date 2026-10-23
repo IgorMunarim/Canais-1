@@ -6,9 +6,7 @@ https://linear-306.frequency.stream/mt/studio/306/hls/master/playlist.m3u8
 #EXTINF:-1, Univision
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1, Univision (alt)
-http://190.197.41.183/Univision/index.m3u8
-#EXTINF:-1, Univision (alt2)
-http://195.178.110.110:80/univision/index.m3u8
+https://barinaslive1.boldmss.com/UNIVISION/UNIVISION.isml/UNIVISION.m3u8
 #EXTINF:-1, Univision East
 http://45.190.13.8/UnivisionHD/index.m3u8
 #EXTINF:-1, UniMas
@@ -22,7 +20,7 @@ https://streamer1.nexgen.bz/TELEMUNDO/mpegts
 #EXTINF:-1, Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1, Telemundo Internacional (alt)
-http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+https://barinaslive1.boldmss.com/TELEMUNDO/TELEMUNDO.isml/TELEMUNDO.m3u8
 #EXTINF:-1, Telemundo West
 http://167.249.23.102:8000/play/Canal20Corinto/index.m3u8
 #EXTINF:-1, NBCU Telemundo Florida

@@ -48,11 +48,13 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1, FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1, Fox Sports 2
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
+https://tinyurl.com/SaSha-48/7323/index.m3u8
 #EXTINF:-1, FOX Soccer Plus
 http://40.160.24.52/FOX_SOCCER_PLUS/playlist.m3u8
 #EXTINF:-1, FOX Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/mpegts
+#EXTINF:-1, FOX Deportes (alt)
+https://tinyurl.com/SaSha-48/30075/index.m3u8
 #EXTINF:-1, Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1, NBC Sports
@@ -90,13 +92,13 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/537.m3u8
 #EXTINF:-1, Sportsnet New York
 http://40.160.24.55/SNY/playlist.m3u8
 #EXTINF:-1, TSN 1
-https://tvsen7.aynascope.net/tsn1/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/6521/index.m3u8
 #EXTINF:-1, TSN 2
-https://tvsen7.aynascope.net/tsn2/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/6492/index.m3u8
 #EXTINF:-1, TSN 3
 https://tvsen7.aynascope.net/tsn3/index.m3u8
 #EXTINF:-1, TSN 4
-http://109.104.153.220:80/TSN-4/index.m3u8
+https://tinyurl.com/aleks-u-romki-40/6445/index.m3u8
 #EXTINF:-1, TSN 5
 http://40.160.24.55/TSN_5/playlist.m3u8
 #EXTINF:-1, TSN The Ocho

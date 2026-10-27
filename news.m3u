@@ -10,9 +10,15 @@ http://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/
 #EXTINF:-1, CNN FAST
 http://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1, CNN en Español
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
-#EXTINF:-1, CNN Noticias
-https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-canelatvinternational/playlist.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1, CNN International North America
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+#EXTINF:-1, CNN International Europe
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1, CNN Orignals
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1, Times Brasil CNBC
 https://live01.innovatv.tv.br/Cnbc_720/index.m3u8
 #EXTINF:-1, Times Brasil CNBC (NXplay)

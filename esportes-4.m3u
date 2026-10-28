@@ -5,6 +5,8 @@ https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1, RAI Sport
 https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1, RAI Sport (Alt)
+http://31.43.191.125:8080/VIP01711763046701115/6001f202b22b/136471
 #EXTINF:-1, SportItalia SoloCalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio (Samsung)

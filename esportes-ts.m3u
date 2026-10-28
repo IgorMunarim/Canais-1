@@ -25,6 +25,14 @@ http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/561497.ts
 http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/148823.ts
 #EXTINF:-1, Azteca Deportes
 http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/323112.ts
+#EXTINF:-1, Claro Sports
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/31317.ts
+#EXTINF:-1, TUDN
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/148828.ts
+#EXTINF:-1, TUDN (alt)
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/31129.ts
+#EXTINF:-1, Zona TUDN
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/222791.ts
 #EXTINF:-1, Sport TV 1
 http://dns.explouddev.com/live/992005733/61992005733/111995.ts
 #EXTINF:-1, Sport TV 2
@@ -41,8 +49,8 @@ http://dns.explouddev.com/live/992005733/61992005733/112006.ts
 http://dns.explouddev.com/live/992005733/61992005733/112014.ts
 #EXTINF:-1, Canal 11
 http://dns.explouddev.com/live/992005733/61992005733/112016.ts
-#EXTINF:-1, DAZN La Liga
-http://23.153.217.158:8080/live/954080261tv/akdsm84/499.ts
+#EXTINF:-1, TNT Sports
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/335440.ts
 #EXTINF:-1, Star Sports 1
 http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778410.ts
 #EXTINF:-1, Star Sports 1 (alt)

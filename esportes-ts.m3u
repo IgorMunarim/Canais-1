@@ -1,54 +1,28 @@
 #EXTM3U
-#EXTINF:-1, ESPN CL
-http://23.153.217.158:8080/live/954080261tv/akdsm84/501.ts
-#EXTINF:-1, ESPN 2 CL
-http://23.153.217.158:8080/live/954080261tv/akdsm84/503.ts
-#EXTINF:-1, ESPN 3 CL
-http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
-#EXTINF:-1, ESPN 4 CL
-http://23.153.217.158:8080/live/954080261tv/akdsm84/512.ts
-#EXTINF:-1, ESPN 1 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/522.ts
-#EXTINF:-1, ESPN 2 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/510.ts
-#EXTINF:-1, ESPN 3 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/514.ts
-#EXTINF:-1, ESPN 4 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/517.ts
-#EXTINF:-1, ESPN 4 Latin (alt)
-http://23.153.217.158:8080/live/954080261tv/akdsm84/455.ts
-#EXTINF:-1, ESPN Premium
-http://23.153.217.158:8080/live/954080261tv/akdsm84/542.ts
-#EXTINF:-1, ESPN Premium (alt)
-http://23.153.217.158:8080/live/954080261tv/akdsm84/543.ts
-#EXTINF:-1, Fox Sports 1 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/456.ts
-#EXTINF:-1, Fox Sports 2 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/454.ts
-#EXTINF:-1, Fox Sports 3 Latin
-http://23.153.217.158:8080/live/954080261tv/akdsm84/538.ts
-#EXTINF:-1, Fox Sports 1 MX
-http://23.153.217.158:8080/live/954080261tv/akdsm84/540.ts
-#EXTINF:-1, Fox Sports 1 MX (alt)
-http://23.153.217.158:8080/live/954080261tv/akdsm84/534.ts
-#EXTINF:-1, Fox Sports 2 MX
-http://23.153.217.158:8080/live/954080261tv/akdsm84/535.ts
-#EXTINF:-1, Fox Sports 3 MX
-http://23.153.217.158:8080/live/954080261tv/akdsm84/537.ts
-#EXTINF:-1, TYC Sports
-http://23.153.217.158:8080/live/954080261tv/akdsm84/462.ts
-#EXTINF:-1, TNT Sports Premium
-http://23.153.217.158:8080/live/954080261tv/akdsm84/460.ts
-#EXTINF:-1, DAZN F1
-http://23.153.217.158:8080/live/954080261tv/akdsm84/60350.ts
-#EXTINF:-1, DAZN 1
-http://23.153.217.158:8080/live/954080261tv/akdsm84/60354.ts
-#EXTINF:-1, DAZN 2
-http://23.153.217.158:8080/live/954080261tv/akdsm84/60358.ts
-#EXTINF:-1, DAZN 3 
-http://23.153.217.158:8080/live/954080261tv/akdsm84/60361.ts
-#EXTINF:-1, DAZN 4
-http://23.153.217.158:8080/live/954080261tv/akdsm84/60364.ts
+#EXTINF:-1, ESPN
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36748.ts
+#EXTINF:-1, ESPN 2
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/43574.ts
+#EXTINF:-1, ESPN NEWS
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36756.ts
+#EXTINF:-1, ESPN U
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/154889.ts
+#EXTINF:-1, ACC Network
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/154888.ts
+#EXTINF:-1, SEC Network
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36755.ts
+#EXTINF:-1, Fox Sports 1
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36904.ts
+#EXTINF:-1, Fox Sports 2
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/36905.ts
+#EXTINF:-1, Fox Soccer
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/297629.ts
+#EXTINF:-1, Fox One
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/523654.ts
+#EXTINF:-1, Fox One Plus
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/561497.ts
+#EXTINF:-1, Fox Deportes
+http://play.pelusa.online:8080/live/AOrtiz/6ndLaJp2qG6K/148823.ts
 #EXTINF:-1, Sport TV 1
 http://dns.explouddev.com/live/992005733/61992005733/111995.ts
 #EXTINF:-1, Sport TV 2

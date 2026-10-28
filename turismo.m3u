@@ -49,6 +49,8 @@ https://zssd-rpanda.hls.camzonecdn.com/CamzoneStreams/zssd-rpanda/Playlist.m3u8
 https://video01.logicahost.com.br/fcvtv/fcvtv/playlist.m3u8
 #EXTINF:-1, Tudo é Viagem
 https://tudoeviagem.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1, Manual do Mundo
+https://vz-5fbb03ca-1d4.b-cdn.net/61dd766d-406b-4e77-9541-fe5b4e1ca0db/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

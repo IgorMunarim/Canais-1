@@ -79,6 +79,28 @@ https://cdn.eduplay.rnp.br/route/Yq-UgWe6MmeiS1-P4FIAuw'aHR0cHM6Ly9tZWRpYS5lZHVw
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, TV Senado
 http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+#EXTINF:-1, Assembléia Legislativa do Ceará (ALECE TV)
+https://streaming.viralmidia.com/hls/stream1/index.m3u8
+#EXTINF:-1, Assembleia Legislativa da Bahia
+https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
+#EXTINF:-1, TV Assembléia RS
+https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
+#EXTINF:-1, TV Câmara São Paulo
+https://fpa-gateway.tvcultura.com.br:8181/memfs/41f23ee3-7e3a-416d-a047-29e1ec0a75bf.m3u8
+#EXTINF:-1, TV Câmara Osasco
+https://tv.legislativo.website/hls-live/cmosasco/cmosasco.m3u8
+#EXTINF:-1, TV Câmara Jacareí
+https://video09.logicahost.com.br/camarajacarei/camarajacarei/playlist.m3u8
+#EXTINF:-1, TV Câmara Mogi das Cruzes
+https://tv02.zas.media:1936/cmmc/cmmc/playlist.m3u8
+#EXTINF:-1, TV Câmara Campinas
+https://radiocamaracampinas.com.br/tvaovivo-hls/camara/index.m3u8
+#EXTINF:-1, TV Câmara João Pessoa
+https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
+#EXTINF:-1, TV Câmara Salvador
+https://nexttv.brasilstream.com.br/hls/nexttv/index.m3u8
+#EXTINF:-1, TV Câmara Caxias do Sul
+https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manifest.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

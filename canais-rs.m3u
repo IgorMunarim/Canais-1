@@ -67,8 +67,6 @@ https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m
 https://transcoder7.adyl.net.br/Conecta/video.m3u8
 #EXTINF:-1, TV Lider do Vale
 https://stmv2.samcast.com.br/lidrdovale/lidrdovale/playlist.m3u8
-#EXTINF:-1, TV Assembléia RS
-https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
 #EXTINF:-1, Tv Diario Caxiense
 http://stmv7.voxtvhd.com.br/tvdiario/tvdiario/playlist.m3u8
 #EXTINF:-1, Rádio Uirapuru Passo Fundo
@@ -97,8 +95,6 @@ https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
 https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8
 #EXTINF:-1, TV Web São Luís Canoas
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
-#EXTINF:-1, TV Câmara Caxias do Sul
-https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manifest.m3u8
 #EXTINF:-1, Inova TV Nova Petropolis
 https://video05.logicahost.com.br/inovafm/inovafm/playlist.m3u8
 #EXTINF:-1, Studio TV Veranopolis

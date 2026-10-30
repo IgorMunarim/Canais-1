@@ -75,6 +75,10 @@ https://cdn.eduplay.rnp.br/route/5LESECGuKNL8IEw9PzNHWg'aHR0cHM6Ly9tZWRpYS5lZHVw
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:-1, TV Educativa IFPR
 https://cdn.eduplay.rnp.br/route/Yq-UgWe6MmeiS1-P4FIAuw'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlL2d3VF9xSGVqdlFzV01rVHk3V3lBcEEnJycnJycnMScvQ0dOX3hCQ1dBTFU4L2luZGV4Lm0zdTg''30'0'0'1/CGN_xBCWALU8/index.m3u8
+#EXTINF:-1, TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1, TV Senado
+http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

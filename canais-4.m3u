@@ -149,8 +149,6 @@ https://stmv1.transmissaodigital.com/tarobalondrina/tarobalondrina/playlist.m3u8
 https://stmv1.transmissaodigital.com/tarobacascavel/tarobacascavel/playlist.m3u8
 #EXTINF:-1, TV Interlagos
 https://stmv1.paineldevideo.com.br/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1, TV Câmara João Pessoa
-https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
 #EXTINF:-1, Canaã News TV Rondônia
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1, Caravana Play
@@ -173,16 +171,12 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
 https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
 #EXTINF:-1, Nova TV Vale
 https://novatvvale.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1, TV Câmara Jacareí
-https://video09.logicahost.com.br/camarajacarei/camarajacarei/playlist.m3u8
 #EXTINF:-1, Melody TV
 https://video07.logicahost.com.br/melodytv/melodytv/playlist.m3u8
 #EXTINF:-1, TV Connect USA
 https://5a3c48d69cf69.streamlock.net/tvconnect/tvconnect.sdp/playlist.m3u8
 #EXTINF:-1, TV Fronteira
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1, TV Câmara Osasco
-https://tv.legislativo.website/hls-live/cmosasco/cmosasco.m3u8
 #EXTINF:-1, Rádio Cultura do Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 #EXTINF:-1, Youtube

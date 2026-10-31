@@ -207,6 +207,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1786189586&AV_PUBLISHERID=669
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1, DAZN F1
 http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
+#EXTINF:-1, Antena Play F1
+https://live4dai.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1, Motowizja
 http://57.128.231.171:8080/230/index.m3u8
 #EXTINF:-1, Youtube

@@ -101,6 +101,8 @@ https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
 https://nexttv.brasilstream.com.br/hls/nexttv/index.m3u8
 #EXTINF:-1, TV Câmara Caxias do Sul
 https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manifest.m3u8
+#EXTINF:-1, TV Cidadã Alagoas
+https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

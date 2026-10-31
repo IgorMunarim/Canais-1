@@ -17,6 +17,8 @@ https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1, Rádio Clube 100,5 FM Ribeirão Preto
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1, Rádio Lupa1
+https://tv.lupa1.tv/live/index.m3u8
 #EXTINF:-1, TV Santa
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1, Rádio Morada Araraquara

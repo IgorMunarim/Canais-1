@@ -23,6 +23,8 @@ https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 https://srv1.zcast.com.br/moradafm/moradafm/playlist.m3u8
 #EXTINF:-1, Rádio 106 FM Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:-1, RTN TV
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1, TV Concordia
 https://tv03.zas.media:1936/concordia/concordia/playlist.m3u8
 #EXTINF:-1, Vivax TV

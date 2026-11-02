@@ -93,10 +93,10 @@ http://193.239.186.231/ESPN2/index.m3u8
 http://193.239.186.231/ESPN3/index.m3u8
 #EXTINF:-1, ESPN 4
 http://193.239.186.231/ESPN4/index.m3u8
-#EXTINF:-1, Arena Sport 1
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1, Arena Sport 2
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1, Kanal 1 Sport
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+#EXTINF:-1, Kanal 1 Extra
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1, Free Live Sports
 https://amg26268-amg26268c27-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c27-amgplt0201/playlist.m3u8
 #EXTINF:-1, CRTV Chile
@@ -119,10 +119,6 @@ http://stream.mcquack.net/393/index.m3u8
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1, Sport 5 UCR
 http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1, SKY Sport Top Event (Alemanha)
-https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
-#EXTINF:-1, SKY Sport (Austria)
-https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 #EXTINF:-1, SportyNet 2
 http://dns.explouddev.com/live/992005733/61992005733/301421.m3u8
 #EXTINF:-1, SportyNet 3
@@ -143,6 +139,8 @@ http://88.212.7.14/live/sport2_hun/index.m3u8
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1, Sport 2 Czech Republic
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
+#EXTINF:-1, Šport
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

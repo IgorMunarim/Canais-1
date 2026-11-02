@@ -11,14 +11,10 @@ http://57.128.210.196:8080/264/index.m3u8
 http://57.128.210.196:8080/263/index.m3u8
 #EXTINF:-1, Eurosport 4 (POL)
 http://57.128.231.171:8080/291/index.m3u8
-#EXTINF:-1, Eurosport 1 🇷🇺 
-http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-#EXTINF:-1, Eurosport 1 🇷🇺 
-http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-#EXTINF:-1, Eurosport 1 🇷🇴
-http://103.161.35.76/RO-110/playlist.m3u8
-#EXTINF:-1, Eurosport 2 🇷🇴
-http://103.161.35.76/RO-111/playlist.m3u8
+#EXTINF:-1, Eurosport 1 Hungria
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1, Eurosport 2 Hungria
+http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1, Eurosport 1 (FR) (Alt)
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/5885/mpegts
 #EXTINF:-1, Eurosport 2 (FR) (Alt)
@@ -28,15 +24,9 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.ts
 #EXTINF:-1, Eurosport 2 🇪🇸
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.ts
 #EXTINF:-1, Eurosport 1 🇪🇸
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1, Eurosport 2 🇪🇸
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
-#EXTINF:-1, Eurosport 1 IT
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19432/mpegts
-#EXTINF:-1, Eurosport 2 IT
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19431/mpegts
-#EXTINF:-1, Eurosport 1 France
-http://tv.streambox.fr/live/testlivestream/testlivestream/58.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

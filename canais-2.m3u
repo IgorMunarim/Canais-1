@@ -159,6 +159,8 @@ https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1, Unique TV
 https://pop.uniquetv.com.br/hls/uniquetv.m3u8
+#EXTINF:-1, TV Possi
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

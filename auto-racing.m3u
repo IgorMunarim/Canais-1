@@ -171,8 +171,6 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19027/mpegts
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19027/index.m3u8
 #EXTINF:-1, SKY Sport F1 UK
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-#EXTINF:-1, SKY Sport F1 UK (alt)
-https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1, Auto Plus (Rússia)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1, FF Motorsport
@@ -199,8 +197,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
 #EXTINF:-1, Antena Play F1
 https://live4dai.antenaplay.ro/live2_sport07/live2_sport07.m3u8
-#EXTINF:-1, Motowizja
-http://57.128.231.171:8080/230/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

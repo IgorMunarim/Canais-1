@@ -46,7 +46,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes
 #EXTINF:-1, Esport3
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1, Teledeporte (Espanha)
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1, SporTVL
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
 #EXTINF:-1, Sports TV Turkey

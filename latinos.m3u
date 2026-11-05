@@ -165,6 +165,8 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1, NPY
 https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1, La Tele
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?admin=tvaccion
 #EXTINF:-1, TV Ciudad
 http://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzU0NjI0OTI2JnJhbmRvbT1hdkUyZU0yUm9TJmMtaXA9MTkxLjI0MS4yLjE2JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNDNiYmRjMGM5MDAyMWZmNjA3MTcwZWU5YzRlYWE3N2RmZDlhNzZhMWNiMWFkNmIyMDAzMGE2OTE0NWQzYTYyNg==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1, Canal UCL

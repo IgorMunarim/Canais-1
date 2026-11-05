@@ -161,8 +161,8 @@ https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
 #EXTINF:-1, Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
-#EXTINF:-1, La Tele
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1, SNT
+https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8
 #EXTINF:-1, NPY
 https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1, La Tele

@@ -53,8 +53,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1, TV Sol (Patos-PB)
 https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1, Rede Metropole
-https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/metropole/index.m3u8
 #EXTINF:-1, TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1, WebTV Ituiutaba

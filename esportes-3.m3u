@@ -54,7 +54,9 @@ https://c5879d53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1, FTF Sports
 https://jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8
 #EXTINF:-1, Antena Play
-https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
+https://live77cdn2.antenaplay.ro/live2_sdi09/live2_sdi09.m3u8
+#EXTINF:-1, Antena Play Events
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1, Antena Sport
 https://stream1.antenaplay.ro/as/AS.ro/playlist.m3u8
 #EXTINF:-1, DAZN 1

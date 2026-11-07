@@ -5,12 +5,6 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 http://141.94.193.53/Eurosport_1_HD/index.m3u8
 #EXTINF:-1, Eurosport 2 (GBR)
 http://141.94.193.53/Eurosport_2_HD/index.m3u8
-#EXTINF:-1, Eurosport 1 (POL) 
-http://57.128.210.196:8080/264/index.m3u8
-#EXTINF:-1, Eurosport 2 (POL) 
-http://57.128.210.196:8080/263/index.m3u8
-#EXTINF:-1, Eurosport 4 (POL)
-http://57.128.231.171:8080/291/index.m3u8
 #EXTINF:-1, Eurosport 1 Hungria
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1, Eurosport 2 Hungria

@@ -103,8 +103,6 @@ https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partn
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1, Drive+Speed
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d00c9b93-97ca-488c-9072-265d0079fae6/manifest.m3u8
-#EXTINF:-1, RTL Nitro
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1, TVS Turbo
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:-1, Power Sports World
@@ -133,6 +131,8 @@ https://d22t65jbw0v36j.cloudfront.net/live/imsa_international/master.m3u8
 https://d1cmhha2r9uuhi.cloudfront.net/live/imsa_domestic/master.m3u8
 #EXTINF:-1, Drive TV
 https://amg01796-amg01796c2-rlaxx-gb-6511.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Drive TV (alt)
+https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8
 #EXTINF:-1, Rally TV
 https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
 #EXTINF:-1, Rally TV (alt)
@@ -143,8 +143,6 @@ https://dvcr6n9u4b40e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 #EXTINF:-1, Drive Channel
 https://www.drivechannel.com.br/aovivo/playlist.m3u8
-#EXTINF:-1, Drive TV
-https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8
 #EXTINF:-1, Nitro TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d3ace342c6a89df0512eb&AV_CHANNEL_NAME=NITRO-TV&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-G&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB17-1&AV_TITLE=NITRO-TV&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Racing&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=NITRO-TV&AV_CUSTOM17=MX_CHANNEL&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-6127
 #EXTINF:-1, Red Bull TV Motorsport

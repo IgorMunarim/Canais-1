@@ -109,8 +109,6 @@ https://video02.logicahost.com.br/sino/sino/playlist.m3u8
 https://video02.logicahost.com.br/pimenta/pimenta/playlist.m3u8
 #EXTINF:-1, Ilhabela: Perequê (Shopping Ardhentia- Praia)
 https://video02.logicahost.com.br/ardhentia/ardhentia/playlist.m3u8
-#EXTINF:-1, Ilhabela: Perequê (Shopping Ardhentia- Palco)
-https://video02.logicahost.com.br/camerasrtsp/ardhentia1.stream/playlist.m3u8
 #EXTINF:-1, Ilhabela: Castelhanos (Expedição Ilhabela & Petiscaria Castelhanos)
 https://video02.logicahost.com.br/castelhanos/castelhanos/playlist.m3u8
 #EXTINF:-1, Ilhabela: Praia do Curral (Pousada Praia do Curral)
@@ -181,8 +179,10 @@ https://video02.logicahost.com.br/jolly2/jolly2/playlist.m3u8
 https://video02.logicahost.com.br/roger/roger/playlist.m3u8
 #EXTINF:-1, Bertioga: Rotatória Centro - Restaurante Avenidas
 https://video02.logicahost.com.br/avenida/avenida/playlist.m3u8
-#EXTINF:-1, Bertioga: Vista Linda - Faram Conde
+#EXTINF:-1, Bertioga: Vista Linda - Farma Conde
 https://video02.logicahost.com.br/conde2/conde2/playlist.m3u8
+#EXTINF:-1, Bertioga: Jardim Albatroz - Farma Conde
+https://video02.logicahost.com.br/conde1/conde1/playlist.m3u8
 #EXTINF:-1, Bertioga: Condomínio Hanga Roa
 http://camerapraia.hangaroa.com.br:8126/mjpg/video.mjpg
 #EXTINF:-1, Olímpia - SP: Hotel Água Viva 
@@ -202,9 +202,7 @@ https://video02.logicahost.com.br/atistudio1/atistudio1/playlist.m3u8
 #EXTINF:-1, Pousada Kaliman Ubatuba
 https://ohxhulxvzr.zoeweb.tv/klmin/klmin.stream/playlist.m3u8
 #EXTINF:-1, Ubatuba - Hotel São Charbel
-https://s112.ipcamlive.com/streams/70vmxtrayzcbxowe4/master.m3u8
-#EXTINF:-1, Praia da Barra da Tijuca
-https://cdn.live.br1.jmvstream.com/restream/IPC-6849/IPC-6849.stream/playlist.m3u8
+https://s116.ipcamlive.com/streams/74ggc5u1hzdzvolm2/master.m3u8
 #EXTINF:-1, R. Dom Pedro II x Ponte Passo - Torres (RS)
 https://video02.logicahost.com.br/entradapasso/entradapasso/playlist.m3u8
 #EXTINF:-1, Praça do Balonismo - Torres (RS)

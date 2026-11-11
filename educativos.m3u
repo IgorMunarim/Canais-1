@@ -85,6 +85,10 @@ https://streaming.viralmidia.com/hls/stream1/index.m3u8
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
 #EXTINF:-1, TV Assembléia RS
 https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
+#EXTINF:-1, TV Assembléia Sergipe
+https://tvalese.al.se.leg.br/hls/tvalese/index.m3u8
+#EXTINF:-1, TV Assembléia RN
+https://video01.logicahost.com.br/assembleiarn/assembleiarn/main_stream.m3u8
 #EXTINF:-1, TV Câmara São Paulo
 https://fpa-gateway.tvcultura.com.br:8181/memfs/41f23ee3-7e3a-416d-a047-29e1ec0a75bf.m3u8
 #EXTINF:-1, TV Câmara Osasco
@@ -101,6 +105,8 @@ https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
 https://nexttv.brasilstream.com.br/hls/nexttv/index.m3u8
 #EXTINF:-1, TV Câmara Caxias do Sul
 https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manifest.m3u8
+#EXTINF:-1, TV Câmara Aracajú
+https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
 #EXTINF:-1, TV Cidadã Alagoas
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1, Youtube

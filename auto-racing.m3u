@@ -203,6 +203,8 @@ https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-4to3160l2lcsl.m3u8
 #EXTINF:-1, More Than Sports
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1, More Than Sports (alt)
+https://stream.morethansports.tv:25788/mtstvstream.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -101,10 +101,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1, Sport Outdoor
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, More Than Sports
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1, More Than Sports (Alt)
-https://mvg-mts-wedotv.otteravision.com/mvg/mts/mts.m3u8
 #EXTINF:-1, Zona TUDN
 https://dbrb49pjoymg4.cloudfront.net/10001/99951563/hls/playlist.m3u8?ads.xumo_channelId=99951563
 #EXTINF:-1, TUDN

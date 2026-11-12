@@ -201,6 +201,8 @@ https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 #EXTINF:-1, More than Sports TV
 https://jmp2.uk/stvp-ATBD2600009FE
+#EXTINF:-1, More Than Sports
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

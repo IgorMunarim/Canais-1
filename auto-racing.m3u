@@ -76,7 +76,7 @@ https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1, Nitro Circus
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Auto Motor Sport
-https://jmp2.uk/stvp-ATAJ0500458A
+https://playout.pegasus.funkechannels.de/api/v1/platforms/019fcd98-a710-7649-840b-7a5fac9dd2b3/platformChannels/01a0f69f-65e6-78bf-a7bb-1dcc2a8565f6/master.m3u8?country=at
 #EXTINF:-1, RPM SportsTribal
 https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
 #EXTINF:-1, Flo Racing
@@ -200,7 +200,7 @@ https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07.m3u8
 #EXTINF:-1, Cars.TV
 https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 #EXTINF:-1, More than Sports TV
-https://jmp2.uk/stvp-ATBD2600009FE
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-4to3160l2lcsl.m3u8
 #EXTINF:-1, More Than Sports
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1, Youtube

@@ -125,6 +125,10 @@ https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1, InfoSport+
 http://212.102.60.80/Infosport/playlist.m3u8
+#EXTINF:-1, Canal+ France
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1, Canal+ Foot
+http://tv.streambox.fr/live/testlivestream/testlivestream/32.m3u8
 #EXTINF:-1, Olympic Channel
 http://86.192.195.47:9034/stream/20/index.m3u8
 #EXTINF:-1, SportDigital (Alemanha)

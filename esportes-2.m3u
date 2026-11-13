@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:-1 , Latino | ESPN HD
 https://cdnbarinas.tvzamora.com/espn/index.m3u8
-#EXTINF:-1 , Latino | ESPN (alt)
-http://181.209.80.115:8000/play/espn_hd
-#EXTINF:-1, ESPN 2 Latin (alt)
-http://181.209.80.115:8000/play/espn_2_hd
 #EXTINF:-1, ESPN 2 Latin
 https://cdnbarinas.tvzamora.com/espn2/index.m3u8
 #EXTINF:-1 , Latino | ESPN 3 HD
 https://cdnbarinas.tvzamora.com/espn3/index.m3u8
-#EXTINF:-1 , Latino | ESPN 3 (alt)
-http://181.209.80.115:8000/play/espn_3_hd
 #EXTINF:-1, Latino | ESPN 4 HD
 https://cdnbarinas.tvzamora.com/espn4/index.m3u8
-#EXTINF:-1, Latino | ESPN 4 (alt)
-http://181.209.80.115:8000/play/espn_4_hd
 #EXTINF:-1, ESPN 5
 https://cdnbarinas.tvzamora.com/espn5/index.m3u8
 #EXTINF:-1, ESPN 6
@@ -22,37 +14,31 @@ https://cdnbarinas.tvzamora.com/espn6/index.m3u8
 #EXTINF:-1, ESPN 7
 https://cdnbarinas.tvzamora.com/espn7/index.m3u8
 #EXTINF:-1, ESPN Premium
-http://181.209.80.115:8000/play/espn_premium_hd
-#EXTINF:-1, FOX SPORTS 
-http://181.209.80.115:8000/play/fox_sports_hd
-#EXTINF:-1, FOX SPORTS 2
-http://181.209.80.115:8000/play/fox_sports_2_hd
-#EXTINF:-1, FOX SPORTS 3
-http://181.209.80.115:8000/play/fox_sports_3_hd
-#EXTINF:-1, FOX SPORTS Premium
-http://195.178.110.110/foxsportspremium/index.m3u8
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/index.m3u8
+#EXTINF:-1, TNT Sports Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, GOL TV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1 Turkey
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+https://css.d6e3eds5e065t5.help//b1/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 2 Turkey
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+https://css.d6e3eds5e065t5.help//b2/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 3 Turkey
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+https://css.d6e3eds5e065t5.help//b3/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 4 Turkey
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
+https://css.d6e3eds5e065t5.help//b4/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 5 Turkey
-https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+https://css.d6e3eds5e065t5.help//b5/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1, TNT Sports Premium
-http://181.209.80.115:8000/play/tnt_sports_hd
+#EXTINF:-1, S SPORT HD 1
+https://css.d6e3eds5e065t5.help//ss/playlist.m3u8
+#EXTINF:-1, S SPORT HD 2
+https://css.d6e3eds5e065t5.help//ss2/playlist.m3u8
 #EXTINF:-1, TNT Sports Premium Chile
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
 #EXTINF:-1, NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1, TYC Sports
-http://181.209.80.115:8000/play/tyc_sports_hd
 #EXTINF:-1, TYC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, AYM Sports
@@ -83,14 +69,8 @@ https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
 https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
 #EXTINF:-1, RS PREMIERE 4
 https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
-#EXTINF:-1, Setanta Sport 2
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1, CLARO SPORTS HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
 #EXTINF:-1, Win Sports HD
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1, Win Sports + HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
 #EXTINF:-1, DAZN Football (FAST)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
 #EXTINF:-1, DAZN Football (Tubi)
@@ -113,14 +93,12 @@ https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/
 https://freqsyndlin.redbull.com/582/servustvon/hls/master/playlist.m3u8
 #EXTINF:-1, Red Bull TV Espanha
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1, A Bola TV
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10691.m3u8
 #EXTINF:-1, Canal 11
 http://50.7.120.34:8080/CANAL_11/index.m3u8
 #EXTINF:-1, Azteca Deportes (Tubi)
 https://apollo-eks.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
 #EXTINF:-1, Jordan Sport
-http://93.184.10.248/JordanSport/index.m3u8
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1, KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1, KTV Sport Plus
@@ -131,27 +109,15 @@ https://play.redbull.com/streams/v1/stv/sports_de/fmp4/master.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1, Africa 24 Sport
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1, NBA TV
-http://40.160.24.58/NBA_TV/index.m3u8
 #EXTINF:-1, SKY Sport Premier League
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTINF:-1, SKY Sport Action
 http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
 #EXTINF:-1, Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1, S Sport
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1, S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 #EXTINF:-1, DAZN 1
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
-#EXTINF:-1, DeporTV
-http://181.209.80.115:8000/play/deportv
-#EXTINF:-1, DSports
-http://181.209.80.115:8000/play/dsports_hd
 #EXTINF:-1, DSports 2
-http://181.209.80.115:8000/play/dsports_2_hd
-#EXTINF:-1, DSports 2 (alt)
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 #EXTINF:-1, Tigo Sports
 http://45.134.141.161:2200/ARG/Tigo_Sports/index.m3u8

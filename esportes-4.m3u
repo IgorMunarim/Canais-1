@@ -167,6 +167,8 @@ https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://168.205.87.198:8555/live/1350/123456/305.m3u8
 #EXTINF:-1, X Sports
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
+#EXTINF:-1, X Sports (alt)
+https://cdn-aovivo-atualplay.nxtv.com.br/XSPORTS/index.m3u8
 #EXTINF:-1, ESPN 1 Latin America South
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1, ESPN 2 Latin America South

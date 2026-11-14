@@ -65,7 +65,7 @@ http://dns.explouddev.com/live/992005733/61992005733/112006.m3u8
 http://50.7.120.34:8080/SPORT_TV_MAIS/index.m3u8
 #EXTINF:-1, Sport TV + (alt)
 http://dns.explouddev.com/live/992005733/61992005733/111993.m3u8
-#EXTINF:-1, ESPN HD Brasil
+#EXTINF:-1, ESPN 1 HD Brasil
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN/index.m3u8
 #EXTINF:-1, ESPN 2 HD Brasil
 https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8

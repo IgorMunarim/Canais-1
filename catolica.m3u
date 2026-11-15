@@ -48,7 +48,7 @@ https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8
 #EXTINF:-1, TV Penõl
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 #EXTINF:-1, KTO TV
-https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 #EXTINF:-1, Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1, María Visión

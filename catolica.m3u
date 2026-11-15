@@ -149,6 +149,14 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 https://stmv1.srvif.com/avemaria/avemaria/playlist.m3u8
 #EXTINF:-1, Atrios TV
 https://stmv5.voxtvhd.com.br/atriostv/atriostv/playlist.m3u8
+#EXTINF:-1, Noursat
+https://live.kwikmotion.com/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1, Télé Lumière
+https://live.kwikmotion.com/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1, Noor Al-Qaddas
+https://live.kwikmotion.com/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1, Noursat Ingles
+https://live.kwikmotion.com/noursatenglive/noursateng/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

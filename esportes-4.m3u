@@ -3,10 +3,8 @@
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 #EXTINF:-1, RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1, RAI Sport
-http://sultanios.alwaysdata.net/vavo.php?ID=843891896
-#EXTINF:-1, RAI Sport (Alt)
-http://sultanios.alwaysdata.net/vavo.php?ID=551730224
+#EXTINF:-1, Antena Play NBA
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio (Samsung)
@@ -127,12 +125,6 @@ http://212.102.60.80/Infosport/playlist.m3u8
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1, Canal+ Foot
 http://tv.streambox.fr/live/testlivestream/testlivestream/32.m3u8
-#EXTINF:-1, Olympic Channel
-http://86.192.195.47:9034/stream/20/index.m3u8
-#EXTINF:-1, SportDigital (Alemanha)
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/911597d1-f67d-11ee-a7cb-71f3705559c1/0/master.m3u8?vendor=wedotv&country=de
-#EXTINF:-1, SportDigital (Alemanha) (alt)
-https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1, Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1, Bahrain Sports 1

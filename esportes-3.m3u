@@ -125,6 +125,8 @@ http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 #EXTINF:-1, Šport
 http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1, Viju Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

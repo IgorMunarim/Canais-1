@@ -11,10 +11,12 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/Travel
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1, Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:-1, Travel Box Brasil
-http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+#EXTINF:-1, Tastemade Brasil
+https://amg00047-tastemade-amg00047c5-lg-br-7985.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tastemade Viagem
 https://amg27441-amg27441c5-rlaxx-us-10925.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviagem-rlaxxus/playlist.m3u8
+#EXTINF:-1, Tastemade Casa
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f7c48635491c4469852cb546693e72e1/playlist.m3u8
 #EXTINF:-1, Ape Cam - San Diego Zoo
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
 #EXTINF:-1, Giant Panda Cam - San Diego Zoo

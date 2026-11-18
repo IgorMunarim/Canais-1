@@ -106,7 +106,9 @@ http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174429.ts
 #EXTINF:-1, MAGENTA SPORT 5
 http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174430.ts
 #EXTINF:-1, NOVA SPORTS NEWS
-ehttp://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174431.ts
+http://line.cdnteam-tv1.online/live/AJK3RM/AP43T6/174431.ts
+#EXTINF:-1, DeporTV
+http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/5188.ts
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

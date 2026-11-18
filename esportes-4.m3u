@@ -160,19 +160,19 @@ https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 #EXTINF:-1, X Sports (alt)
 https://cdn-aovivo-atualplay.nxtv.com.br/XSPORTS/index.m3u8
 #EXTINF:-1, ESPN 1 Latin America South
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 #EXTINF:-1, ESPN 2 Latin America South
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 #EXTINF:-1, ESPN 3 Latin America South
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 #EXTINF:-1, ESPN 4 Latin America South
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 #EXTINF:-1, ESPN 5 Latin America South
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
 #EXTINF:-1, ESPN 6 Latin America South
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 #EXTINF:-1, ESPN 7 Latin America South
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=3534412477&_cdn_token=f1651ec4d9fe391d3c2fb7239c904ce251c247fa
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

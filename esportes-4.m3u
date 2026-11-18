@@ -150,7 +150,7 @@ https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
 #EXTINF:-1, Voley por Latina
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina3/latina3.smil/playlist.m3u8
 #EXTINF:-1, Bandsports
-http://45.162.64.114/BAND_SPORTS/playlist.m3u8
+https://cdn-aovivo-atualplay.nxtv.com.br/BAND_SPORTS/playlist.m3u8
 #EXTINF:-1, Sports Connect
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 #EXTINF:-1, TV Turfe

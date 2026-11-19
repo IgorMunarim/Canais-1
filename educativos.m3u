@@ -109,6 +109,8 @@ https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/manife
 https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
 #EXTINF:-1, TV Cidadã Alagoas
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
+#EXTINF:-1, TV Justiça
+https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

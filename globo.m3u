@@ -13,6 +13,8 @@ http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 https://cdn-aovivo-atualplay.nxtv.com.br/GLOBO_RIO/index.m3u8
 #EXTINF:-1, Globo PE
 https://cdn-sp2.satlabscloud.com.br/GLOBO_PE/index.m3u8
+#EXTINF:-1, Globo DF
+https://cdn-sp2.satlabscloud.com.br/GLOBO_DF/index.m3u8
 #EXTINF:-1, RBS TV
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8
 #EXTINF:-1, TV Anhanguera (Goiás)

@@ -127,6 +127,8 @@ https://video08.logicahost.com.br/radiostudio93/radiostudio93/playlist.m3u8
 https://cdn-sp2.satlabscloud.com.br/BAND_RS/index.m3u8
 #EXTINF:-1, Record RS
 https://cdn-sp2.satlabscloud.com.br/RECORD_RS/index.m3u8
+#EXTINF:-1, SBT RS
+https://cdn-sp2.satlabscloud.com.br/SBT_RS/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

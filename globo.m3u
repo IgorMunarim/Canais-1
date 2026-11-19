@@ -11,12 +11,18 @@ https://live.mediapro.com.br/hls/bh-globo/index.m3u8
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 #EXTINF:-1, Globo RJ (alt)
 https://cdn-aovivo-atualplay.nxtv.com.br/GLOBO_RIO/index.m3u8
+#EXTINF:-1, Globo PE
+https://cdn-sp2.satlabscloud.com.br/GLOBO_PE/index.m3u8
 #EXTINF:-1, RBS TV
-https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8
 #EXTINF:-1, TV Anhanguera (Goiás)
 http://79.127.238.228:14172/live.ts
 #EXTINF:-1, TV Gazeta (Espirito Santo)
 http://79.127.243.89:14187/live.ts
+#EXTINF:-1, TV Gazeta (Espirito Santo) (alt)
+https://cdn-sp2.satlabscloud.com.br/GLOBO_ES/index.m3u8
+#EXTINF:-1, TV Cabo Branco
+https://cdn-sp2.satlabscloud.com.br/GLOBO_PB/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

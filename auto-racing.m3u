@@ -43,6 +43,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://horizonsports.b-cdn.net/motorracing-global/playlist.m3u8
 #EXTINF:-1, MotorRacing (alt)
 https://control.prolivestream.com/ssai/49/360/playlist.m3u8
+#EXTINF:-1, Motorvision +
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1, Motorvision 1
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1, Motorvision 2
@@ -60,7 +62,7 @@ https://d3hjdf2xlb1h3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1, AutoMoto (Itália)
 https://d2d70kuzq4qhmm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/Automoto_IT.m3u8
 #EXTINF:-1, AutoMoto (France)
-http://31.43.191.125:8080/VIP01711763046701115/6001f202b22b/157796
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1, ACI Sport
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1, Discovery Turbo Itália

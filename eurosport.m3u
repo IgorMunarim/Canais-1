@@ -1,30 +1,38 @@
 #EXTM3U
 #EXTINF:-1, Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-#EXTINF:-1, Eurosport 1 (GBR)
+#EXTINF:-1, Eurosport UK 1
 http://141.94.193.53/Eurosport_1_HD/index.m3u8
-#EXTINF:-1, Eurosport 2 (GBR)
+#EXTINF:-1, Eurosport UK 1 (alt)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
+#EXTINF:-1, Eurosport UK 2
 http://141.94.193.53/Eurosport_2_HD/index.m3u8
-#EXTINF:-1, Eurosport 1 Hungria
+#EXTINF:-1, Eurosport UK 2 (alt)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1, Eurosport Hungria 1
 http://88.212.7.14/live/esp1_hun/index.m3u8
-#EXTINF:-1, Eurosport 2 Hungria
+#EXTINF:-1, Eurosport Hungria 2
 http://88.212.7.14/live/esp2_hun/index.m3u8
-#EXTINF:-1, Eurosport 1 Czechia
+#EXTINF:-1, Eurosport Czechia 1
 http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
-#EXTINF:-1, Eurosport 2 Czechia
+#EXTINF:-1, Eurosport Czechia 2
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
-#EXTINF:-1, Eurosport 1 🇪🇸
+#EXTINF:-1, Eurosport Spain 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-#EXTINF:-1, Eurosport 2 🇪🇸
+#EXTINF:-1, Eurosport Spain 2
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-#EXTINF:-1, Eurosport 1 Russia
+#EXTINF:-1, Eurosport Russia 1
 https://s7.iptv-24.net/1439/playlist.m3u8
-#EXTINF:-1, Eurosport 2 Russia
+#EXTINF:-1, Eurosport Russia 2
 https://s7.iptv-24.net/1452/playlist.m3u8
-#EXTINF:-1, Eurosport 1 France
+#EXTINF:-1, Eurosport France 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
-#EXTINF:-1, Eurosport 2 France
+#EXTINF:-1, Eurosport France 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
+#EXTINF:-1, Eurosport Itália 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1, Eurosport Itália 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

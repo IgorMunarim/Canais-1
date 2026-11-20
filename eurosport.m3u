@@ -21,6 +21,10 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1, Eurosport 2 Russia
 https://s7.iptv-24.net/1452/playlist.m3u8
+#EXTINF:-1, Eurosport 1 France
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+#EXTINF:-1, Eurosport 2 France
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

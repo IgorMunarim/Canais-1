@@ -9,6 +9,8 @@ https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 http://team-tv.co:81/rsi1/index.m3u8
 #EXTINF:-1, RSI 2
 http://team-tv.co:81/rsi2/index.m3u8
+#EXTINF:-1, RTS 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
 #EXTINF:-1, RAI 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1, RAI 1 (alt)

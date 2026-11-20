@@ -82,7 +82,7 @@ https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1, Carac 5
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1, TF1
-http://5.180.164.197:8080/TF1/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1, TMC
 http://5.180.164.197:8080/TMC/index.m3u8
 #EXTINF:-1, France 2

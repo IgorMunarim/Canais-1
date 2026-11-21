@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, RTA Sport
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
-#EXTINF:-1, RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1, Sport1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 #EXTINF:-1, Antena Play NBA
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1, SportItalia SoloCalcio

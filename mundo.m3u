@@ -34,11 +34,15 @@ https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1, TV8
 http://team-tv.co:81/tv8/index.m3u8
 #EXTINF:-1, La7
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1, Itália 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1, MediaSet Itália
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+#EXTINF:-1, Itália 1 Mediaset
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
+#EXTINF:-1, Canale 5 Italia
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
 #EXTINF:-1, Plus+TV Itália
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
 #EXTINF:-1, 24h Espanha
@@ -101,10 +105,8 @@ https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
 https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 #EXTINF:-1, LCI
 http://5.180.164.197:8080/LCI/index.m3u8
-#EXTINF:-1, Das Erste
-https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
-#EXTINF:-1, Das Erste (alt)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1, ZDF
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
 #EXTINF:-1, RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1, RTL Zwei
@@ -161,26 +163,6 @@ https://hls.irannrtv.live/hls/stream.m3u8
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1, ABC 20/20
 https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
-#EXTINF:-1, ABC New York
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/164.m3u8
-#EXTINF:-1, ABC Miami
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/162.m3u8
-#EXTINF:-1, ABC Las Vegas
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/161.m3u8
-#EXTINF:-1, ABC HD
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/160.m3u8
-#EXTINF:-1, FOX Los Angeles
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/190.m3u8
-#EXTINF:-1, FOX Fresno
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/191.m3u8
-#EXTINF:-1, FOX New York
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/193.m3u8
-#EXTINF:-1, FOX Miami
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/194.m3u8
-#EXTINF:-1, FOX Tampa Bay
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/195.m3u8
-#EXTINF:-1, FOX Atlanta
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/436.m3u8
 #EXTINF:-1, CW Forever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:-1, Iran TV

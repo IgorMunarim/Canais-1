@@ -19,26 +19,8 @@ http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, TNT Sports Premium (alt)
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
-#EXTINF:-1, GOL TV
-http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-#EXTINF:-1, BEIN SPORTS 1 Turkey
-https://css.d6e3eds5e065t5.help//b1/playlist.m3u8
-#EXTINF:-1, BEIN SPORTS 2 Turkey
-https://css.d6e3eds5e065t5.help//b2/playlist.m3u8
-#EXTINF:-1, BEIN SPORTS 3 Turkey
-https://css.d6e3eds5e065t5.help//b3/playlist.m3u8
-#EXTINF:-1, BEIN SPORTS 4 Turkey
-https://css.d6e3eds5e065t5.help//b4/playlist.m3u8
-#EXTINF:-1, BEIN SPORTS 5 Turkey
-https://css.d6e3eds5e065t5.help//b5/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8
-#EXTINF:-1, S SPORT HD 1
-https://css.d6e3eds5e065t5.help//ss/playlist.m3u8
-#EXTINF:-1, S SPORT HD 2
-https://css.d6e3eds5e065t5.help//ss2/playlist.m3u8
-#EXTINF:-1, TRT Spor
-https://css.d6e3eds5e065t5.help//trtspor/playlist.m3u8
 #EXTINF:-1, TYC Sports
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 #EXTINF:-1, TYC Sports FAN

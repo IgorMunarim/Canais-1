@@ -109,10 +109,14 @@ https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1, ZDF
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
-#EXTINF:-1, RTL
+#EXTINF:-1, RTL (Luxemburgo)
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
-#EXTINF:-1, RTL Zwei
+#EXTINF:-1, RTL Zwee (Luxemburgo)
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1, RTL (Germany)
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u
+#EXTINF:-1, RTL Zwei (Germany)
+https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1, ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1, ORF 2

@@ -104,7 +104,7 @@ https://cdn.jwplayer.com/manifests/pliC9aZQ.m3u8
 #EXTINF:-1, Le Figaro
 https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
 #EXTINF:-1, LCI
-http://5.180.164.197:8080/LCI/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 #EXTINF:-1, ZDF
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
 #EXTINF:-1, RTL

@@ -19,6 +19,8 @@ http://50.7.120.34:8080/RTP_1/index.m3u8
 http://50.7.120.34:8080/RTP_2/index.m3u8
 #EXTINF:-1, RTP 3 
 http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:-1, RTP Internacional
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

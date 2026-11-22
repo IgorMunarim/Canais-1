@@ -71,6 +71,8 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ara
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 #EXTINF:-1, BBC 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
+#EXTINF:-1, Channel 4
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #EXTINF:-1, Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1, Reuters
@@ -124,7 +126,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
 #EXTINF:-1, ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1, ORF 2
-https://test06.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/orf_2_europe/live.livx/playlist.m3u8
 #EXTINF:-1, ORF 3
 https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1, ATV

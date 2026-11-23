@@ -111,6 +111,8 @@ https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1, TV Justiça
 https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8
+#EXTINF:-1, TV Estado Maior da Restinga
+https://live01.innovatv.tv.br/TV_Restinga/index.m3u8
 #EXTINF:-1, Youtube
 https://www.youtube.com
 #EXTM3U

@@ -79,6 +79,8 @@ https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
 #EXTINF:-1, SportyNet
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
+#EXTINF:-1, SportyNet (Innova TV)
+https://live01.innovatv.tv.br/Sportynet_1080/index.m3u8
 #EXTINF:-1, Esportes Brasília
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1, GE Fast

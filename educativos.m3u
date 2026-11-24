@@ -78,7 +78,7 @@ https://cdn.eduplay.rnp.br/route/Yq-UgWe6MmeiS1-P4FIAuw'aHR0cHM6Ly9tZWRpYS5lZHVw
 #EXTINF:-1, TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, TV Senado
-http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1, Assembléia Legislativa do Ceará (ALECE TV)
 https://streaming.viralmidia.com/hls/stream1/index.m3u8
 #EXTINF:-1, Assembleia Legislativa da Bahia
@@ -110,7 +110,7 @@ https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
 #EXTINF:-1, TV Cidadã Alagoas
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1, TV Justiça
-https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1, TV Estado Maior da Restinga
 https://live01.innovatv.tv.br/TV_Restinga/index.m3u8
 #EXTINF:-1, Youtube

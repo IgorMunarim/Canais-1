@@ -95,11 +95,9 @@ https://media.cdntvms.com.br/sbt_sat/index.fmp4.m3u8
 https://hplay.tv/augetv/12396547488/48.m3u8
 #EXTINF:-1, SBT SP
 https://d1jvs4svzaqp8n.cloudfront.net/channel.m3u8
-#EXTINF:-1, SBT RJ
-https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1, SBT RJ (Alt)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
-#EXTINF:-1, SBT RJ (Alt 2)
+#EXTINF:-1, SBT RJ (Alt)
 http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 #EXTINF:-1, SBT Cuiabá
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
@@ -124,7 +122,7 @@ https://video03.logicahost.com.br/lancewebtv/lancewebtv/playlist.m3u8
 #EXTINF:-1, Record MG
 http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:-1, Record RJ
-http://iptv.vivatele.com/viva_padrao/viva2384/13.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD_RIO/index.m3u8
 #EXTINF:-1, Record Amplitude Juara
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1, Record Amplitude Juína

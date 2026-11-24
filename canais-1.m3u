@@ -91,13 +91,13 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1, SBT
 https://media.cdntvms.com.br/sbt_sat/index.fmp4.m3u8
-#EXTINF:-1, SBT SCC
-https://hplay.tv/augetv/12396547488/48.m3u8
 #EXTINF:-1, SBT SP
 https://d1jvs4svzaqp8n.cloudfront.net/channel.m3u8
-#EXTINF:-1, SBT RJ (Alt)
+#EXTINF:-1, SBT RJ
+https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1, SBT RJ (Alt1)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
-#EXTINF:-1, SBT RJ (Alt)
+#EXTINF:-1, SBT RJ (Alt2)
 http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 #EXTINF:-1, SBT Cuiabá
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
@@ -122,19 +122,17 @@ https://video03.logicahost.com.br/lancewebtv/lancewebtv/playlist.m3u8
 #EXTINF:-1, Record MG
 http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:-1, Record RJ
-https://cdn-sp2.satlabscloud.com.br/RECORD_RIO/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1, Record Amplitude Juara
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1, Record Amplitude Juína
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1, SIC TV Rondonia
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1, Band TV Tribuna
-https://hplay.tv/augetv/12396547488/226.m3u8
 #EXTINF:-1, Band
 https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1, Band RJ
-https://cdn-sp2.satlabscloud.com.br/BAND_RIO/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/BAND_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1, Band RJ (alt)
 http://186.227.63.210:5000/live/BANDRJ/playlist.m3u8
 #EXTINF:-1, Band Pará RBA TV (PA) (Alt)
@@ -142,11 +140,9 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1, Band Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1, TV Londres
-https://hplay.tv/augetv/12396547488/218.m3u8
+https://cdn.tvlondres.com/grade/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 #EXTINF:-1, 7TVS
 https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
-#EXTINF:-1, RedeTV! Paraná
-https://hplay.tv/augetv/12396547488/31.m3u8
 #EXTINF:-1, TV Vale do Uruará
 https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1, RBA TV Alto Vale

@@ -125,8 +125,10 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 http://212.102.60.80/Infosport/playlist.m3u8
 #EXTINF:-1, InfoSport+ (alt)
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/infosport/live.livx/playlist.m3u8
-#EXTINF:-1, Canal+ France
+#EXTINF:-1, Canal+ Sport
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1, Canal+ Sport 360
+http://51.255.167.118/live/testlivestream/testlivestream/24.m3u8
 #EXTINF:-1, Canal+ Foot
 http://tv.streambox.fr/live/testlivestream/testlivestream/32.m3u8
 #EXTINF:-1, Red Bull

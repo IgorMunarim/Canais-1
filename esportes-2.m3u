@@ -20,13 +20,15 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1, TNT Sports Premium (alt)
 http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 #EXTINF:-1, beIN Sports 1 FR HD
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_1_fr/live.livx/playlist.m3u8
+http://51.255.167.118/live/testlivestream/testlivestream/50.m3u8
 #EXTINF:-1, BEIN SPORTS 2 FR HD
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_2_fr/live.livx/playlist.m3u8
+http://51.255.167.118/live/testlivestream/testlivestream/27.m3u8
 #EXTINF:-1, BEIN SPORTS 3 FR HD
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bein_sports_3_fr/live.livx/playlist.m3u8
-#EXTINF:-1, BEIN SPORTS USA
-https://tvsen6.aynaott.com/beinsports/index.m3u8
+http://51.255.167.118/live/testlivestream/testlivestream/28.m3u8
+#EXTINF:-1, Bein Sports Max 4 FR
+http://51.255.167.118/live/testlivestream/testlivestream/18.m3u8
+#EXTINF:-1, Bein Sports Max 5 FR
+http://51.255.167.118/live/testlivestream/testlivestream/19.m3u8
 #EXTINF:-1, TYC Sports
 http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 #EXTINF:-1, TYC Sports FAN

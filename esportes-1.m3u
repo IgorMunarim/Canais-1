@@ -13,8 +13,6 @@ https://apollo-eks.production-public.tubi.io/live/bein-sports-xtra-espanol-3SI78
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1, ESPN (alt)
-https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1, ESPN 2
 http://stream.bottledesk.net/6501/index.m3u8
 #EXTINF:-1, ESPN 2 (alt)

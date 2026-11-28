@@ -126,7 +126,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
 #EXTINF:-1, ORF 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1, ORF 2
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/orf_2_europe/live.livx/playlist.m3u8
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
 #EXTINF:-1, ORF 3
 https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1, ATV
